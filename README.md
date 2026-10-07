@@ -1,2 +1,2 @@
 # semesterProject
-A group semester project about comparing an anime to a manga.
+A group semester project about doing a text analysis of the Manhwa Solo Leveling
