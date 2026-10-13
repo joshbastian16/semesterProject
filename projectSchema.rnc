@@ -1,0 +1,33 @@
+start = chapter
+
+chapter = element chapter {num, title, body}
+num = attribute num {xsd:int}
+
+title = element title{author, text}
+author = element author {text}
+
+body = element body {(page | pageBrk)+}
+page = element page {(pageNum|narration|panel)+}
+
+panel = element panel {bubble, imgDesc}
+
+imgDesc = element imgDesc {text}
+
+bubble = element bubble {mixed {(type| unique | bubNum | shape | words)*}}
+type = attribute type {"thought" |"speech"}
+unique = element unique {ans, uniNum, empty}
+ans = attribute ans {"y" | "n"}
+shape = attribute shape {"saw"|"box"}
+words = element words {mixed {(emph | who)+}}
+
+emph = attribute emph {text}
+who = attribute who {text}
+
+narration = element narration {narNum, text}
+
+narNum = attribute narNum {xsd:int}
+pageNum = attribute pageNum {xsd:int}
+bubNum = attribute bubNum {xsd:int}
+uniNum = attribute uniNum {xsd:int}
+
+pageBrk = element pageBrk {empty}
