@@ -8,21 +8,18 @@ author = element author {text}
 
 body = element body {(page | pageBrk)+}
 page = element page {(pageNum|narration|panel)+}
+# There are several pages per chapter, and in those pages there are several different panels. That's why I put the distinction. 
+panel = element panel {bubble*}
 
-panel = element panel {bubble, imgDesc}
-
-imgDesc = element imgDesc {text}
-
-bubble = element bubble {mixed {(type| unique | bubNum | shape | words)*}}
+bubble = element bubble {type, unique, bubNum, words, empty}
 type = attribute type {"thought" |"speech"}
 unique = element unique {ans, uniNum, empty}
 ans = attribute ans {"y" | "n"}
-shape = attribute shape {"saw"|"box"}
 words = element words {mixed {(emph | who)+}}
 
 emph = attribute emph {text}
 who = attribute who {text}
-
+# Narration is for any text that is outside of a speech or thought bubble
 narration = element narration {narNum, text}
 
 narNum = attribute narNum {xsd:int}
