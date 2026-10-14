@@ -11,7 +11,7 @@ page = element page {(pageNum|narration|panel)+}
 # There are several pages per chapter, and in those pages there are several different panels. That's why I put the distinction. 
 panel = element panel {bubble*}
 
-bubble = element bubble {type, unique, bubNum, words, empty}
+bubble = element bubble {type, bubNum, unique, words, empty}
 type = attribute type {"thought" |"speech"}
 unique = element unique {ans, uniNum, empty}
 ans = attribute ans {"y" | "n"}
