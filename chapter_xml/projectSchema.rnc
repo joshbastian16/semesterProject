@@ -18,7 +18,7 @@ ans = attribute ans {"y" | "n"}
 
 who = attribute who {text}
 # caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
-caption = element caption {type, who, spNum?, thtNum?, text}
+caption = element caption {type, who?, spNum?, thtNum?, text}
 
 
 pageNum = attribute pageNum {xsd:int}
