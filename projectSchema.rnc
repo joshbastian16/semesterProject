@@ -9,18 +9,16 @@ author = element author {text}
 body = element body {(page | pageBrk)+}
 page = element page {(pageNum|caption|bubble)+}
 #spNum is if the bubble is a speech bubble, and thtNum is if it's a thought bubble. It's this way because we are tracking both speech and thought bubbles.
-bubble = element bubble {type, spNum?,thtNum?, unique, words, empty}
+bubble = element bubble {type, who, spNum?,thtNum?, unique, text}
 type = attribute type {"thought" |"speech"| "narration"| "information"}
 unique = element unique {ans, uniNum?, empty}
 # the ans attribute is for keeping track of if it's the first time a character is speaking. if it is, then you its equal to "y", if not, it's equal to "n".
 # then you either increase uniNum by one if the answer is "y", or you don't include it and keep it the same if the answer is "n".
 ans = attribute ans {"y" | "n"}
-words = element words {mixed {(emph? | who?)+}}
 
-emph = attribute emph {text}
 who = attribute who {text}
 # caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
-caption = element caption {type, spNum?, thtNum?, mixed {(emph?, who?)}}
+caption = element caption {type, who?, spNum?, thtNum?, text}
 
 
 pageNum = attribute pageNum {xsd:int}

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="21">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+
+        <page pageNum="1">
+            <bubble type="speech" spNum="1">
+                <unique ans="y" uniNum="1"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> T... THE ENTRANCE!! </words>
+            </bubble>
+            <caption type="thought" who="Sung Jin-Woo" thtNum="1"> THOSE BASTARDS </caption>
+            <bubble type="thought" thtNum="2">
+                <unique ans="y" uniNum="2"/>
+                <words who="Sung Jin-Woo" emph="red"> ARE THE &lt;LIZARDS&gt;! </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="2">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> LIZARDS? </words>
+            </bubble>
+            <bubble type="speech" spNum="3">
+                <unique ans="y" uniNum="3"/>
+                <words who="Old Man"> SOMETIMES, THERE ARE LIZARD-LIKE BASTARDS. </words>
+            </bubble>
+            <bubble type="speech" spNum="4">
+                <unique ans="n"/>
+                <words who="Old Man"> AS IT'S A PRETTY DANGEROUS JOB, ACCIDENTS INSIDE THE DUNGEON
+                    ARE COMMON. </words>
+            </bubble>
+            <bubble type="speech" spNum="5">
+                <unique ans="n"/>
+                <words who="Old Man"> AND EVEN IF A CRIME OCCURED, IT'S HARD TO PROVE, SO THEY ARE
+                    COMMON PLACE AS WELL </words>
+            </bubble>
+            <bubble type="speech" spNum="6">
+                <unique ans="n"/>
+                <words who="Old Man"> THERE IS NO SUCH THING AS A CCTV THAT CAN BE VIEWED FROM
+                    OUTSIDE, SO WHO WOULD STOP THE HUNTERS? NOBODY CAN STOP THEM </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="7">
+                <unique ans="n"/>
+                <words who="Old Man"> THE WEAKER YOU ARE, THE FASTER YOU GET THROWN AWAY, BUT IF
+                    YOU"RE STRONG, PEOPLE WILL SEEK THAT STRENGTH. </words>
+            </bubble>
+            <bubble type="speech" spNum="8">
+                <unique ans="n"/>
+                <words who="Old Man"> IF THEY SAY YOU'RE USELESS OR YOU GET IN THE WAY ... </words>
+            </bubble>
+            <bubble type="speech" spNum="9">
+                <unique ans="n"/>
+                <words who="Old Man"> LIKE A LIZARD LEAVING ITS TAIL, YOU GET CUT AWAY. </words>
+            </bubble>
+            <caption type="speech" spNum="10" who="Old Man" emph="red"> THAT'S WHY I'M TELLING YOU
+                TO BE CAREFUL. </caption>
+            <caption type="speech" spNum="11" who="Old Man" emph="red"> &quot;WORLD'S WEAKEST
+                HUNTER&quot; </caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="12">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> WHAT DO WE DO?! </words>
+            </bubble>
+            <bubble type="speech" spNum="13">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> THE ENTRANCE...! </words>
+            </bubble>
+            <bubble type="speech" spNum="14">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> THESE SONS OF BITCHES TRIED TO KILL US!!
+                </words>
+            </bubble>
+            <bubble type="speech" spNum="15">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> THEY'RE TRYING TO KILL US BOTH JUST
+                    BECUASE OF SOME MANA CRYSTALS! </words>
+            </bubble>
+            <bubble type="thought" thtNum="3">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> I COULDN'T STOP THEM ANYWAY. </words>
+            </bubble>
+            <bubble type="thought" thtNum="4">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo" emph="exclamation"> IF WE TRIED SOMETHING, THEY WERE READY
+                    TO STRIKE US DOWN! </words>
+            </bubble>
+            <bubble type="speech" spNum="16">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho"> I... I THINK IT'S BETTER TO LEAVE TOGETHER... </words>
+            </bubble>
+            <bubble type="speech" spNum="17">
+                <unique ans="y" uniNum="4"/>
+                <words who="Hwang Dong-Suk" emph="flash-back"> IT'S GREAT THAT EVERYONE WAS TAKEN
+                    CARE OF CLEANLY. THANK YOU. </words>
+            </bubble>
+            <bubble type="speech" spNum="18">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk" emph="flash-back"> BUT IT WOULD BE GOOD IF YOU DIDN'T
+                    PAY ATTENTION TO SMALL THINGS THAT MUCH. </words>
+            </bubble>
+            <bubble type="speech" spNum="19">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo" emph="flash-back"> HUH? </words>
+            </bubble>
+            <bubble type="thought" thtNum="5">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> SO THAT'S WHAT HE MEANT. </words>
+            </bubble>
+            <bubble type="thought" thtNum="6">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> DID HE SAY HE WAS JO GYU-HWAN? </words>
+            </bubble>
+            <bubble type="thought" thtNum="7">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THE C-RANK MAGICIAN WITH THE LIGHT. </words>
+            </bubble>
+            <bubble type="thought" thtNum="8">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> HE BLOCKED IT OFF PRETTY WELL. </words>
+            </bubble>
+            <bubble type="thought" thtNum="9">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> GETTING OUT ISN'T THAT BIG OF A PROBLEM, BUT... </words>
+            </bubble>
+            <bubble type="thought" thtNum="10">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THAT THING WOKE DUE TO THE BLAST... </words>
+            </bubble>
+            <bubble type="thought" thtNum="11">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THAT'S A PROBLEM. </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <caption type="thought" thtNum="12" emph="red" who="Sung Jin-WOO">A C-RANK DUNGEON
+                BOSS!</caption>
+            <bubble type="speech" spNum="20">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> SINCE WE MEMORISED THE WAY, GETTING OUT IS A PIECE OF
+                    CAKE. </words>
+            </bubble>
+            <bubble type="speech" spNum="21">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> LET'S GO BACK AFTER A REST. </words>
+            </bubble>
+            <bubble type="speech" spNum="22">
+                <unique ans="y" uniNum="5"/>
+                <words who="Lee Jae-Hak"> HWANG, IS THERRE A NEED TO DO IT THIS WAY? IF WE JUST
+                    KILLED THEM BACK THERE... </words>
+            </bubble>
+            <bubble type="speech" spNum="23">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk" emph="angry"> IDIOT, IF WE FOUGHT THERE AND THE SPIDER
+                    WOKE UP, HOW WOULD WE MINE AND MOVE THE MANA CRYSTALS? </words>
+            </bubble>
+            <bubble type="speech" spNum="24">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> WITH THE WORLD'S WEAKEST E-RANK HUNTER, AND A D-RANK
+                    HUNTER WITH ABSOLUTELY NO RAID EXPERIENCE IT'S IMPOSSIBLE FOR THEM TO BEAT THE
+                    DUNGEON BOSS, NO MATTER HOW HARD THEY TRY. </words>
+            </bubble>
+            <bubble type="speech" spNum="25">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> AFTER THE SPIDER BOSS EATS THEM AND GOES BACK TO SLEEP,
+                    WE CAN TAKE ADVANTAGE OF THAT AND MINE THE MANA CRYSTALS. </words>
+            </bubble>
+            <bubble type="speech" spNum="26">
+                <unique ans="n"/>
+                <words who="UNCLEAR"> IF THAT DOESN'T WORK, WE'LL HAVE TO KILL THE BOSS... </words>
+            </bubble>
+            <bubble type="speech" spNum="27">
+                <unique ans="n"/>
+                <words who="UNCLEAR"> BUT DID YOU SEE YOO JIN-HO'S EQUIPMENT? </words>
+            </bubble>
+            <bubble type="speech" spNum="28">
+                <unique ans="n"/>
+                <words who="UNCLEAR"> IT LOOKED LIKE THE SWORD AND SHIELD ALONE WOULD GO FOR
+                    MILLIONS OF WON. </words>
+            </bubble>
+            <bubble type="speech" spNum="29">
+                <unique ans="n"/>
+                <words who="UNCLEAR"> IF WE CAN'T BRING ALL THE MANA CRYSTALS BACK, WE CAN AT LEAST
+                    TAKE HIS STUFF. </words>
+            </bubble>
+            <bubble type="speech" spNum="30">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> LET'S FIND OUT WHICH RICH HOUSEHOLD HE'S FROM </words>
+            </bubble>
+            <bubble type="speech" spNum="31">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> WE SHOULD AT LEAST TAKE CARE OF HIS FUNERAL </words>
+            </bubble>
+            <bubble type="speech" spNum="32">
+                <unique ans="y" uniNum="6"/>
+                <words who="Jo Gyu-Hwan"> SINCE THE WALL CAUSED QUITE A STIR, </words>
+            </bubble>
+            <bubble type="speech" spNum="33">
+                <unique ans="n"/>
+                <words who="Jo Gyu-Hwan"> SHOULDN'T THE BOSS BE QUITE ANGRY RIGHT NOW? </words>
+            </bubble>
+            <bubble type="speech" spNum="34">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> GYU-HWAN, </words>
+            </bubble>
+            <bubble type="speech" spNum="35">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> DO YOU HAVE THE CONFIDENCE TO BEAT THAT MONSTER ON YOUR
+                    OWN? </words>
+            </bubble>
+            <bubble type="speech" spNum="36">
+                <unique ans="n"/>
+                <words who="Jo Gyu-Hwan"> IMPOSSIBLE </words>
+            </bubble>
+            <bubble type="speech" spNum="37">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> I DON'T HAVE MUCH CONFIDENCE EITHER. </words>
+            </bubble>
+            <bubble type="speech" spNum="38">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk"> A BOSS IS A BOSS. </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="39">
+                <unique ans="n"/>
+                <words who="Hwang Dong-Suk" emph="red"> NO MATTER HOW HART THEY TRY, TOW LOW-RANK
+                    HUNTERS CANNOT MAKE IT OUT ALIVE. </words>
+            </bubble>
+            <bubble type="speech" spNum="40">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="shaky"> G-GET BEHIND ME. </words>
+            </bubble>
+            <bubble type="speech" spNum="41">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="shaky"> I-I'LL THINK OF SOMETHING... </words>
+            </bubble>
+            <bubble type="thought" thtNum="13">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> MANY EYES. </words>
+            </bubble>
+            <bubble type="thought" thtNum="14">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> HIDEOUS MOUTH. </words>
+            </bubble>
+            <bubble type="thought" thtNum="15">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> ENORMOUS SIZE. </words>
+            </bubble>
+            <bubble type="thought" thtNum="16">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> LONG LEGS. </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="17">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> IT'S STRENGTH IS ON ANOTHER LEVEL. </words>
+            </bubble>
+            <caption type="thought" thtNum="18" who="Sung Jin-Woo">ANOTHER...</caption>
+            <caption type="thought" thtNum="19" who="Sung Jin-Woo">LEVEL?</caption>
+            <caption type="thought" thtNum="20" who="Sung Jin-Woo">WHAT IDIOTIC
+                NONSENSE...</caption>
+            <bubble type="speech" spNum="42">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> JIN-HO, STAY THERE. </words>
+            </bubble>
+            <bubble type="speech" spNum="43">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THAT'S MINE. </words>
+            </bubble>
+            <bubble type="speech" spNum="44">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="EXCLAMATION"> W-WAIT HYUNG! </words>
+            </bubble>
+            <bubble type="speech" spNum="45">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="shaky"> W-WHAT ARE YOU TRYING TO DO? </words>
+            </bubble>
+            <bubble type="speech" spNum="46">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> KILL IT. </words>
+            </bubble>
+            <bubble type="speech" spNum="47">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="shaky"> YOU'RE GOING TO KILL THAT THING? </words>
+            </bubble>
+            <bubble type="thought" thtNum="21">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> HE'S CRAZY!!! </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="48">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> IF YOU PLAN TO BEAT A C-RANK BOSS ON
+                    YOUR OWN IT'S IMPOSSIBLE UNLESS YOU'RE IN THE ELITE OF B OR C-RANK! </words>
+            </bubble>
+            <bubble type="speech" spNum="49">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> THEN HOW ARE YOU GOING TO...! </words>
+            </bubble>
+            <bubble type="speech" spNum="50">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> JUST THINK OF A WAY TO ESCAPE INSTEAD!
+                </words>
+            </bubble>
+            <bubble type="thought" thtNum="22">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> HE'S RIGHT. </words>
+            </bubble>
+            <bubble type="thought" thtNum="23">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> EVEN AFTER REAWKENING I'M STILL WEAK. </words>
+            </bubble>
+            <caption type="thought" thtNum="24" who="Sung Jin-Woo">THOUGH I WONDER WHY</caption>
+            <bubble type="thought" thtNum="25">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo">I DON'T FEEL PRESSURE THAT'S ENOUGH TO BRING ME TO MY
+                    KNEES.</words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="26">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THE BLUE POISON FANGS RASAKA I MET IN THE INSTANT
+                    DUNGEON. </words>
+            </bubble>
+            <bubble type="thought" thtNum="27">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> IT WAS STRONG FOR A BOSS ON THE LEVEL OF AN E-RANK.
+                </words>
+            </bubble>
+            <bubble type="thought" thtNum="28">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> POSSIBLY HIGHER THAN D-RANK. </words>
+            </bubble>
+            <bubble type="thought" thtNum="29">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> THE GOLEM BOSS WAS A D-RANK OR LOWER. </words>
+            </bubble>
+            <bubble type="thought" thtNum="30">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> IN COMPARISON TO THEM, THIS IS UNBELIEVABLY
+                    STRONG.</words>
+            </bubble>
+            <bubble type="thought" thtNum="31">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> IT PROBABLY MEANS THAT I BECAME STONG ENOUGH TO NOT
+                    BECOME INTIMIDATED IN THE FACE OF A C-RANK BOSS. </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="thought" thtNum="32">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> MY CURRENT LEVEL IS 18 </words>
+            </bubble>
+            <bubble type="thought" thtNum="33">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> A C-RANK BOSS, </words>
+            </bubble>
+            <bubble type="thought" thtNum="34">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo" emph="exclamation"> IS DOABLE! </words>
+            </bubble>
+            <bubble type="speech" spNum="51">
+                <unique ans="n"/>
+                <words who="Yoo Jin-Ho" emph="exclamation"> HYEUNG! </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="thought" thtNum="35">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo" emph="exclamation"> MY ATTACK WORKED?! </words>
+            </bubble>
+            <bubble type="thought" thtNum="36">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo"> RASAKA'S FANG, IT'S A PRETTY FOOD WEAPON ISN'T IT?
+                </words>
+            </bubble>
+            <caption type="narration">THE REASON A HUNTER IS CALLED A HUNTER...</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="thought" thtNum="37">
+                <unique ans="n"/>
+                <words who="Sung Jin-Woo" emph="bold"> THE REAL HUNT BEGINS NOW. </words>
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <caption type="thought" thtNum="38" who="Yoo Jin-Ho">THAT...</caption>
+            <caption type="thought" thtNum="39" who="Yoo Jin-Ho">THAT...</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <caption type="thought" thtNum="40" who="Yoo Jin-Ho" emph="blue and exclamarion">THAT'S
+                AN E-RANK HUNTER?!</caption>
+        </page>
+    </body>
+</chapter>
+<!-- 14 pages, 40 thoughts, 51 instances of speech, and 6 unique speakers -->
