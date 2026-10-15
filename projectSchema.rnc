@@ -1,9 +1,9 @@
 start = chapter
 
-chapter = element chapter {num, title, body}
+chapter = element chapter {num, title, author,body}
 num = attribute num {xsd:int}
 
-title = element title{author, text}
+title = element title{text}
 author = element author {text}
 
 body = element body {(page | pageBrk)+}
@@ -19,12 +19,12 @@ words = element words {mixed {(emph? | who?)+}}
 
 emph = attribute emph {text}
 who = attribute who {text}
-# caption is for the text boxes or the uncontained text
-caption = element caption {mixed {(emph?, who?)}}
+# caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
+caption = element caption {type, spNum?, thtNum?, mixed {(emph?, who?)}}
 
 
 pageNum = attribute pageNum {xsd:int}
-spNum = attribute bubNum {xsd:int}
+spNum = attribute spNum {xsd:int}
 thtNum = attribute thtNum {xsd:int}
 uniNum = attribute uniNum {xsd:int}
 pageBrk = element pageBrk {empty}
