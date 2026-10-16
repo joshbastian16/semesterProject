@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="2">
+    <title> Solo Leveling chapter two</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Others"> <unique ans="n" />ALL CLEAR! LET'S GO! </bubble>
+            <bubble type="speech" spNum="2" who="Saleman"> <unique ans="y" uniNum="1"/>AH, OK. </bubble>
+            <bubble type="speech" spNum="3" who="worker"> <unique ans="y" uniNum="2"/>WHAT'RE YOU THINKING ABOUT? </bubble>
+            <bubble type="speech" spNum="4" who="Saleman"> <unique ans="n"/>WIT'S JUST... HUNTER SUNG JIN-WOO... I'M A LITTLE BOTHERED THAT WE COULDN'T GIVE HIM ANY COFFEE.</bubble>
+            <bubble type="speech" spNum="5" who="Worker"> <unique ans="n"/>AH~ THE WEAKEST HUNTER IN THE E-RANK CATEGORY? WHAT RANK IS THIS DUNGEON?</bubble>
+            <bubble type="speech" spNum="6" who="Saleman"> <unique ans="n"/>THEY SAID IT'S ABOUT D-RANK.</bubble>
+            <bubble type="speech" spNum="7" who="Saleman"> <unique ans="n"/>I'VE NEVER SEEN HUNTER SUNG JIN-WOO UNINJURED IN MY WHOLE TIME AT THE HUNTER'S GUILD.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="speech" spNum="7" who="Worker"> <unique ans="n"/>A D-RANK DUNGEON... WELL, DON'T THINK ANYTHING'S GONNA HAPPEN. LET'S GO!</bubble>
+            <bubble type="speech" spNum="8" who="Ju-Hee"> <unique ans="y" uniNum="3"/>JIN-WOO, WHY ARE YOU SO ADAMANT ON WORKING AS A HUNTER?</bubble>
+            <bubble type="speech" spNum="9" who="Ju-Hee"> <unique ans="n"/>FIGHTING LIKE THIS WILL ONLY BRING EVEN MORE RISKS!</bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo"> <unique ans="y" uniNum="4"/>SORRY...</bubble>
+            <bubble type="speech" spNum="11" who="Ju-Hee"> <unique ans="n"/>I'M NOT SAYING THIS FOR AN APOLOGY! I'M JUST WORRIED!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="thought" thtNum="1" who="Ju-Hee"> <unique ans="n"/>AT LEAST THIS RAID IS ALMOST OVER.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="12" who="Song Chi-Yul"> <unique ans="y" uniNum="5"/>LOOKS LIKE IT'S DONE!</bubble>
+            <bubble type="speech" spNum="13" who="Kim"> <unique ans="y" uniNum="6"/>MR. BAK, YOU'RE NOT DEAD YET, HUH?</bubble>
+            <bubble type="speech" spNum="14" who="Bak"> <unique ans="y" uniNum="7"/>HA, THIS IS A PIECE OF CAKE.</bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo"> <unique ans="n"/>......</bubble>
+            <bubble type="thought" spNum="16" who="Ju-Hee"> <unique ans="n"/>JIN-WOO, DO YOU HAVE A REASON...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="17" who="Ju-Hee"> <unique ans="n"/>TO NOT QUIT BEING A HUNTER?</bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo"> <unique ans="n"/>I'M JUST A HUNTER FOR FUN. IF I DON'T DO THIS, I MIGHT ACTUALLY DIE FROM BOREDOM!</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>TELLING HER PERSONAL REASONS WILL MAKE ME EVEN MORE EMBARRASSED...</bubble>
+            <bubble type="speech" spNum="19" who="Ju-Hee"> <unique ans="n"/>LOOKS LIKE HAVING "FUN" TWO TIMES WILL SEND YOU RAIDING IN THE AFTERLIFE.</bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo"> <unique ans="n"/>PPFFFTACT</bubble>
+            <bubble type="speech" spNum="21" who="Ju-Hee"> <unique ans="n"/>DON'T LAUGH! YOU'LL OPEN UP YOUR WOUND!!</bubble>
+            <bubble type="speech" spNum="22" who="Others"> <unique ans="n"/>YEAH YEAH...</bubble>
+            <bubble type="speech" spNum="23" who="Song Chi-Yul"> <unique ans="n"/>THIS IS WHAT YOU GET AFTER KILLING A MONSTER — THE MAGICAL CORE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <caption type="narration" who="Song Chi-Yul">A MAGICAL CORE FROM EVEN A C-RANK MONSTER IS WORTH THOUSANDS.</caption>
+            <caption type="narration" who="Song Chi-Yul">A MAGICAL CORE FROM EVEN A C-RANK MONSTER IS WORTH THOUSANDS.</caption>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>AFTER ALL MY INJURIES AND TROUBLES, I ONLY EARNED A SINGLE E-RANK MAGICAL CORE...</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>CONSIDERING I PUT MY LIFE ON THE LINE TO EARN THIS, IT'S TOO SMALL.</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>EARNING MONEY LIKE THIS IS...</bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo"> <unique ans="n"/>HEY! EVERYONE! THERE'S ANOTHER ENTRANCE HERE!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="25" who="Song Chi-Yul"> <unique ans="n"/>THE DOUBLE LAIR... LOOKS LIKE IT'S ACTUALLY REAL. </bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="speech" spNum="26" who="Song Chi-Yul"> <unique ans="n"/>HMM... EVERYONE, LISTEN TO ME FOR A MOMENT.</bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yul"> <unique ans="n"/>THE GATE DOES NOT CLOSE IF THE BOSS IS STILL ALIVE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="28" who="Song Chi-Yul"> <unique ans="n"/>SINCE THE GATE IS STILL OPEN, IT SEEMS THE BOSS IS INSIDE THERE.</bubble>
+            <bubble type="speech" spNum="29" who="Song Chi-Yul"> <unique ans="n"/>USUALLY, WE'D NEED TO CONTACT OUR GUILD AND AWAIT THEIR ORDERS, BUT...</bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yul"> <unique ans="n"/>IF THE OTHER HUNTERS GET TO IT FIRST, OUR PROFITS WOULD DWINDLE.</bubble>
+            <bubble type="speech" spNum="31" who="Song Chi-Yul"> <unique ans="n"/>SO I WISH FOR ALL OF US TO GO KILL THE BOSS...</bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yul"> <unique ans="n"/>SINCE IT COULD BE DANGEROUS, WHY DON'T 17 OF US TAKE A VOTE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="33" who="Song Chi-Yul"> <unique ans="n"/>AND NO COMPLAINING AFTER THE VOTE RESULTS.</bubble>
+            <bubble type="speech" spNum="34" who="Kim and Bak"> <unique ans="n"/>WE VOTE TO FIGHT.</bubble>
+            <bubble type="speech" spNum="35" who="Others"> <unique ans="n"/>NAH.</bubble>
+            <bubble type="speech" spNum="36" who="Others"> <unique ans="n"/>I VOTE TO GO.</bubble>
+            <bubble type="speech" spNum="37" who="Others"> <unique ans="n"/>I SAY NO.</bubble>
+            <bubble type="speech" spNum="38" who="Others"> <unique ans="n"/>LET'S FIGHT.</bubble>
+            <bubble type="speech" spNum="39" who="Ju-Hee"> <unique ans="n"/>SORRY, BUT I DON'T WANT TO GO.</bubble>
+            <bubble type="speech" spNum="40" who="Song Chi-Yul"> <unique ans="n"/>IT'S 8:8 SO FAR, HUH?</bubble>
+            <bubble type="speech" spNum="41" who="Song Chi-Yul"> <unique ans="n"/>HOW ABOUT MR. SUNG?</bubble>
+            <caption type="information">EVERYTHING DEPENDED ON SUNG'S VOTE.</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>I DON'T HAVE ENOUGH MONEY...</bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>SOON, I EVEN NEED TO SEND MY LITTLE SISTER TO COLLEGE...</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>AND...</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>MY SICK MOTHER...</bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>FOR MY FAMILY!</bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo"> <unique ans="n"/>I'M GOING!</bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo"> <unique ans="n"/>JUST ONE MORE TIME! LET'S DO THIS!</bubble>
+        </page>
+    </body>
+</chapter>
+<!--11 pages, 11 thought bubles 42 speech bubles, and 7 uni speakers -->

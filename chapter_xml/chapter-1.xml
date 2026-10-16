@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="1">
+    <title> Solo Leveling chapter one</title>
+    <author>somebody</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>MY NAME IS SUNG JIN-WOO.</bubble>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>E-RANK HUNTER,</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>THE HUNTER GUILD’S</bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+            
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>LOWEST RANK AND WEAKEST HUNTER.</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>I NEVER EXPECTED THIS TO HAPPEN TO ME...</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>NEVER,</bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo"> <unique ans="n"/>Haah</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo"> <unique ans="n"/>
+                GOD-DAMMIT...
+            </bubble>
+            <caption type="information">SEOUL, SOUTH KOREA</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <caption type="information">E-RANK SUNG JIN-WOO</caption>
+            <caption type="narration" who="Sung Jin-Woo">IF YOU DISREGARD MY SLIGHTLY ABNORMAL STRENGTH AND REGENERATION,</caption>
+            <caption  type="narration" who="Sung Jin-Woo">IT’S EMBARRASSING TO EVEN CALL MYSELF A HUNTER.</caption>
+            <caption  type="narration" who="Sung Jin-Woo">OF COURSE, I’M ALWAYS GETTING HURT AND EVEN HAD A LOT OF NEAR-DEATH EXPERIENCES.</caption>
+            <caption  type="narration" who="Sung Jin-Woo">THE JOB WHERE YOUR LIFE’S ON THE LINE, THE HUNTER... I’M NOT DOING THIS BECAUSE I LIKE IT.</caption>
+            <caption  type="information">A CONSTRUCTION SITE IN SEOUL</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <caption type="narration" who="Sung Jin-Woo">I BARELY PAY MY SICK MOTHER’S MEDICAL BILLS WITH WHAT THE HUNTER’S GUILD PAYS ME.</caption>
+            <caption  type="narration" who="Sung Jin-Woo">FOR A NORMAL PERSON WITH NO PARTICULAR TALENT, I HAD NO CHOICE BUT TO BECOME A HUNTER.</caption>
+            <bubble type="speech" spNum="10" who="Salesperson"> <unique ans="y" uniNum="2"/>HERE, GOOD LUCK ON YOUR RAID TODAY.</bubble>
+            <bubble type="speech" spNum="11" who="Kim"> <unique ans="y" uniNum="3"/>THANKS~</bubble>
+            <bubble type="speech" spNum="12" who="Bak"> <unique ans="y" uniNum="4"/>HEY~ KIM!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="13" who="Bak"> <unique ans="n"/>IT'S BEEN A WHILE</bubble>
+            <bubble type="speech" spNum="14" who="Kim"> <unique ans="n"/>WAIT, BAK! WHAT ARE YOU DOING HERE?</bubble>
+            <bubble type="speech" spNum="15" who="Kim"> <unique ans="n"/>DIDN'T YOU LEAVE BECAUSE YOU DIDN;T WANT TO BECOME A HUNTER?</bubble>
+            <bubble type="speech" spNum="16" who="Bak"> <unique ans="n"/>WELL, MY WIFE IS PREGNANT WITH OUR SENCOND SON, HAHA....</bubble>
+            <bubble type="speech" spNum="17" who="Kim"> <unique ans="n"/>TRUE, THERE'S NOTHING LIKE A RAID TO EARN A FORTUNE.</bubble>
+            <caption  type="narration" who="Kim">It's not easy to live life</caption>
+            <bubble type="speech" spNum="18" who="Bak"> <unique ans="n"/>I'M WORRIED... IT'S BEEN SO LONG THAT I MIGHT FALL BEHIND</bubble>
+            <bubble type="speech" who="Bak"> <unique ans="n"/>MY SKILL WAS ALREADY BAD, AND IT WORSENED AFTER I TOOK A BREAK.</bubble>
+            <bubble type="speech" spNum="19" who="Others"> <unique ans="n"/>YO~ SUNG! YOU ARRIVED!</bubble>
+            <bubble type="speech" spNum="20" who="Others"> <unique ans="n"/>SUNG, THANKS FOR COMING.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="21" who="Others"> <unique ans="n"/>IT'S COLD OUT THERE, ISN'T IT? GOOD JOB.</bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo"> <unique ans="n"/>HAHA, IT'S NOTHING... I'LL BE IN YOUR HANDS TODAY TOO.</bubble>
+            <bubble type="speech" spNum="23" who="Kim"> <unique ans="n"/>YO, SUNG! YOU EAT YET?</bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo"> <unique ans="n"/>YEAH, MR.KIM SANG-SHIK. THANKS FOR WORRYING ABOUT ME.</bubble>
+            <bubble type="speech" spNum="25" who="Bak"> <unique ans="n"/>THAT MAN, IS HE A POWERFUL HUNTER? EVERYONE'S HAPPY TO SEE HIM!</bubble>
+            <bubble type="speech" spNum="26" who="Kim"> <unique ans="n"/>HEHEHE... YOU WOULDN'T KNOW SINCE HE CAME RIGHT AFTER YOU QUIT. HIS NICKNAME IS...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="speech" spNum="27" who="Kim"> <unique ans="n"/>THE WORLD'S WEAKEST</bubble>
+            <bubble type="speech" spNum="28" who="Bak"> <unique ans="n"/>THE WORLD'S WEAKEST? NOT THE STRONGEST?</bubble>
+            <bubble type="speech" spNum="29" who="Kim"> <unique ans="n"/>I MEAN, HE’S WEAK ENOUGH TO GET HURT IN A E-RANK DUNGEON...</bubble>
+            <bubble type="speech" spNum="30" who="Bak"> <unique ans="n"/>IS HE ACTUALLY THE WEAKEST?</bubble>
+            <bubble type="speech" spNum="31" who="Kim"> <unique ans="n"/>YEAH, HE’S PROBABLY THE WEAKEST OF US ALL.</bubble>
+            <bubble type="speech" spNum="32" who="Bak"> <unique ans="n"/>IS HE ACTUALLY THE WEAKEST?</bubble>
+            <bubble type="speech" spNum="33" who="Kim"> <unique ans="n"/>SO THAT MEANS OUR DUNGEON WILL BE WEAK AS WELL SINCE HE CAME.</bubble>
+            <bubble type="speech" spNum="34" who="Bak"> <unique ans="n"/>AH... I SEE.</bubble>
+            <bubble type="speech" spNum="35" who="Kim"> <unique ans="n"/>HEY, HE MIGHT HEAR US. LET’S END IT FOR NOW, FU FU...</bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>I’VE BEEN HEARING YOU, OLD GEEZERS... HA...</bubble>
+           <bubble type="speech" spNum="36" who="Sung Jin-Woo"> <unique ans="n"/>HI, MAY I HAVE A CUP OF COFFEE?</bubble>
+            <bubble type="speech" spNum="37" who="Saleman"> <unique ans="n"/>AH, HUNTER SUNG WOO-JIN. I’M SORRY, ALL THE COFFEE RAN OUT JUST NOW...</bubble> 
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo"> <unique ans="n"/>...</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>NOT EVEN COFFEE... FEELS BAD, MAN.</bubble>
+            <bubble type="speech" spNum="39" who="Saleman"> <unique ans="n"/>REALLY SORRY ABOUT THIS, HUNTER SUNG JIN-WOO.</bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo"> <unique ans="n"/>NO... IT’S FINE.</bubble>
+            <bubble type="speech" spNum="41" who="JU-HEE"> <unique ans="y" uniNum="5"/>AH! JIN-WOO! YOU'RE HURT AGAIN!!!</bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo"> <unique ans="n"/>OH, HI! LOOKS LIKE MISS JU-HEE IS ALSO ATTENDING THIS RAID?</bubble>
+            <bubble type="speech" spNum="43" who="JU-HEE"> <unique ans="n"/>OF COURSE! BUT THAT’S NOT THE PROBLEM! WHY IS YOUR FACE HURT AGAIN!?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo"> <unique ans="n"/>ODUNNO... IT JUST HAPPENED WHILE I WAS HUNTING, HAHA...</bubble>
+            <bubble type="speech" spNum="45" who="JU-HEE"> <unique ans="n"/>REALLY... WHAT ACTUALLY HAPPENED?</bubble>
+            <bubble type="speech" spNum="46" who="JU-HEE"> <unique ans="n"/>YOU EVEN WENT TO A HOSPITAL?</bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo"> <unique ans="n"/>YEAH...</bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo"> <unique ans="n"/>WE WERE IN A E-RANK DUNGEON AND I WAS THE ONLY ONE HURT.</bubble>
+            <bubble type="speech" spNum="49" who="JU-HEE"> <unique ans="n"/>HUH? HOW COULD THAT HAPPEN...</bubble>
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo"> <unique ans="n"/>THE OTHERS WERE ALL HIGHER RANKED SO THEY DIDN’T EVEN BRING A HEALER.</bubble>
+            <bubble type="speech" spNum="51" who="JU-HEE"> <unique ans="n"/>EVEN SO, THEY REALLY DIDN’T BRING A HEALER JUST BECAUSE THEY WOULD BE SAFE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo"> <unique ans="n"/>IT’S OKAY. IT’S ONLY BECAUSE I’M WEAK...</bubble>
+            <bubble type="speech" spNum="53" who="Sung Jin-Woo"> <unique ans="n"/>I’M USED TO IT. MISS JU-HEE ALSO KNOWS THAT, RIGHT?</bubble>
+            <bubble type="speech" spNum="54" who="JU-HEE"> <unique ans="n"/>......</bubble>
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo"> <unique ans="n"/>WELL, LOOKS LIKE EVERYONE’S GETTING READY TO GO INTO THE GATE. LET’S GO AS WELL.</bubble>
+            <bubble type="speech" spNum="56" who="JU-HEE"> <unique ans="n"/>OK.</bubble>
+            <bubble type="speech" spNum="57" who="SONG CHI-YUL"> <unique ans="y" uniNum="6"/>EVERYONE!</bubble>
+            <bubble type="speech" spNum="58" who="SONG CHI-YUL"> <unique ans="n"/>WE’RE OFF TO GO HAPPY HUNTING SO I’M NOT REALLY QUALIFIED TO SAY THIS, BUT</bubble>
+            <bubble type="speech" spNum="59" who="SONG CHI-YUL"> <unique ans="n"/>I’D LIKE TO BE THE PARTY LEADER FOR THIS RAID, IS THAT ALRIGHT WITH YOU PEOPLE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="60" who="Kim"> <unique ans="n"/>MR. SONG, YOU’RE THE HIGHEST RANKED HERE! I’VE GOT NO PROBLEMS.</bubble>
+            <bubble type="speech" spNum="61" who="Bak"> <unique ans="n"/>WELL, IF IT’S MR. SONG, WE CAN TRUST HIM. IT’S BEEN A WHILE SINCE I’VE WITNESSED HIS SKILLS.</bubble>
+            <bubble type="speech" spNum="62" who="Others"> <unique ans="n"/>ME TOO~~</bubble>
+            <bubble type="speech" spNum="63" who="Others"> <unique ans="n"/>YEAH, I AGREE AS WELL.</bubble>
+            <bubble type="speech" spNum="64" who="Others"> <unique ans="n"/>YEAH, COUNT ME IN.</bubble>
+            <bubble type="speech" spNum="65" who="Sung Jin-Woo"> <unique ans="n"/>TAKE CARE OF US, MR. SONG CHI-YUL.</bubble>
+            <bubble type="speech" spNum="66" who="SONG CHI-YUL"> <unique ans="n"/>ALRIGHT, THEN LET’S ENTER THE DUNGEON.</bubble>
+            <bubble type="speech" spNum="67" who="everyone"> <unique ans="n"/>LET’S GO!!!</bubble>
+            
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="68" who="Kim"> <unique ans="n"/>MR. SUNG, TRY NOT TO GET INJURED BEHIND US, OKAY?</bubble>
+            <bubble type="speech" spNum="69" who="Sung Jin-Woo"> <unique ans="n"/>HAHA... OKAY.</bubble>
+            <bubble type="speech" spNum="70" who="JU-HEE"> <unique ans="n"/>LET's GO, JIN-WOO.</bubble>
+            <bubble type="speech" spNum="71" who="Sung Jin-Woo"> <unique ans="n"/>OK, OK...</bubble>
+            <bubble type="speech" spNum="72" who="Sung Jin-Woo"> <unique ans="n"/>I'M GONNA TRY MY BEST TODAY!!</bubble>
+        </page>
+    </body>
+    <!--13 pages, 8 thought bubles 72 speech bubles, and 6 uni speakers -->
+</chapter>
