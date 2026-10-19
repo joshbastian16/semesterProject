@@ -16,7 +16,7 @@ unique = element unique {ans, uniNum?, empty}
 # then you either increase uniNum by one if the answer is "y", or you don't include it and keep it the same if the answer is "n".
 ans = attribute ans {"y" | "n"}
 
-who = attribute who {text}
+who = attribute who {"Sung Jin-Woo" | "Yoo Jin-Ho" | "others" | text}
 # caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
 caption = element caption {type, who?, spNum?, thtNum?, text}
 
