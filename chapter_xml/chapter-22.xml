@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<chapter num="22">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <caption type="thought" thtNum="1" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="1"/>THAT...</caption>
+            <caption type="thought" thtNum="2" who="Yoo Jin-Ho">THAT...</caption>
+            <caption type="thought" thtNum="3" who="Yoo Jin-Ho">THAT'S AN E-RANK HUNTER?!</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> ITS SKIN IS PRETTY THICK.
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I WANT TO DAMAGE IT WITH THE DAGGER I'LL HAVE TI DIG IN AS DEEP AS POSSIBLE!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IT HAS NO BLIND SPOTS.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> A SPIDER HAS EIGHT LEGS.
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IIT CAN EASILY PUNCH THROUGH THE FLOOR OR ROCKS.
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> EACH ATTACK IS THREATENING.
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'LL TAKE A BOT OF TIME TO GET CLOSE TO IT!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="1" who="Yoo Jin-Ho">
+                <unique ans="n"/> W... WHAT IS THIS PERSON?!
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Yoo Jin-Ho">
+                <unique ans="n"/> AN E-RANK HUNTER?!
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Yoo Jin-Ho">
+                <unique ans="n"/> NO, THERE'S NO WAY.
+            </bubble>
+            <bubble type="speech" spNum="2" who="Yoo Jin-Ho">
+                <unique ans="n"/> BUT HIS SUBMITTED RANK IN THE GUILD WAS DEFINETELY E-RANK...
+            </bubble>
+            <bubble type="speech" spNum="3" who="Yoo Jin-Ho">
+                <unique ans="n"/> THOSE MOVEMENTS ARE NOT OF AN E-RANKER
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="4" who="Yoo Jin-Ho">
+                <unique ans="n"/> COULD IT BE...
+            </bubble>
+            <bubble type="speech" spNum="5" who="Yoo Jin-Ho">
+                <unique ans="n"/> A FALSE RANKER?!
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Yoo Jin-Ho">
+                <unique ans="n"/> AMONG HUNTERS, THERE ARE SOMETIMES THOSE WHO CAN CONTROL THE PRESENCE OF THEIR MAGICAL POWER!
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Yoo Jin-Ho">
+                <unique ans="n"/> IF THEY WANT TO, THEY CAN LOWER THEIR RANK IN THE EVALUATION!
+            </bubble>
+            <bubble type="thought" thtNum="15" who="Yoo Jin-Ho">
+                <unique ans="n"/> HUNTERS WHO CONCEAL THE PRESENCE OF THEIR POWER ON PURPOSE TO GET A LOWER RANK ARE USUALLY CALLED 'FALSE RANKERS'!
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE PROBLEM IS...
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Yoo Jin-Ho">
+                <unique ans="n"/> FALSE RANKERS ARE USUALLY PSYCHOPATHS WHO KILL AS THEIR HOBBY!!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="6" who="Yoo Jin-Ho">
+                <unique ans="n"/> WHY DID I SAY I'D COME TO THIS PLACE...
+            </bubble>
+            <bubble type="speech" spNum="7" who="Yoo Jin-Ho">
+                <unique ans="n"/> F... FATHER...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+     
+        <page pageNum="8">
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW LONG HAS IT BEEN SINCE I STARTED FIGHTING THE BOSS?
+            </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> AROUND 5 MINUTES?
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> NO, 10 MINUTES? 
+            </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> OH NO! MY STANIMA IS SLOWLY RUNNIGN OUT...
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> AND I DIDN'T EVEN DEAL A LOT OF DAMAGE TO IT!
+            </bubble>
+            <caption type="information">[FATIGUE : 57]</caption>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THE HIGHER MY FATIGUE IS, THE LOWER MY SPEED BECOMES!
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T ELONGATE THIS ANY LONGER.
+            </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S ONLY ONE WAY TO WIN.
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> THE DAGGER'S SPECIAL ABILITY!
+            </bubble>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL INFLICT IT ON THIS GUY!
+            </bubble>
+            <caption type="information">-EFFECT 'PARALYSE': ATTAKED FOES HAVE A CHANCE TO BECOME UNABLE TO MOVE.
+                                        -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> THE BASIC OF RAIDING IS TO EXPLOIT WEAK POINTS!
+            </bubble>
+            <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> THE HEAD IS THE NATURAL WEAK POINT OF ALL LIVING CREATURES.
+            </bubble>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> THE WEAKEST PARTS OF THE HEAD ARE THE EYES.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> ACID?!
+            </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT GUY WAS HIDING HIS TRUMP CARD?!
+            </bubble>
+            <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> MY TIME WILL RUN OUT IF THIS GOES ON!
+            </bubble>
+            <bubble type="thought" thtNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T PLAY AROUND A SINGGLE BIT AGAINST THIS GUY
+            </bubble>
+            <bubble type="thought" thtNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN FASTER...
+            </bubble>
+            <bubble type="thought" thtNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO CLOSE THE DISTANCE WITH MOVEMENTS FASTER THAN JUST NOW!
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> A BIT FASTER!
+            </bubble>
+            <caption type="information">[ACTIVE]</caption>
+            <caption type="information">SPRINT Lv.1</caption>
+            <caption type="information">SKILL: SPRINT WAS ACTIVATED</caption>
+            <caption type="information">YOUR MOVEMENT WILL INCREASE BY 30%</caption>
+        </page>
+        
+        <pageBrk/>
+        
+       <page pageNum="11">
+           <bubble type="speech" spNum="11" who="Yoo Jin-Ho">
+               <unique ans="n"/>HE CLOSED THAT DISTANCE IN AN INSTANT
+           </bubble>
+           <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+           <caption type="information">[THE ENEMY'S RESISTANCE WAS TOO HIGH. THE EFFECT WAS CANCELLED.]</caption>
+           <bubble type="thought" thtNum="35" who="Sung Jin-Woo">
+               <unique ans="n"/> I WANT TO FINISH THIS AS FAST AS POSSIBLE BUT ...!
+           </bubble>
+           <bubble type="thought" thtNum="36" who="Sung Jin-Woo">
+               <unique ans="n"/> I CAN'T GET A CRITICAL HIT!!
+           </bubble>
+       </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <caption type="information">[FATIGUE:61]</caption>
+            <bubble type="thought" thtNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/>A BIT FASTER...
+            </bubble>
+            <bubble type="thought" thtNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/>A BIT MORE!!
+            </bubble>
+            <bubble type="speech" spNum="12" who="Yoo Jin-Ho">
+                <unique ans="n"/>H... HE'S FAST!!
+            </bubble>
+            <bubble type="speech" spNum="13" who="Yoo Jin-Ho">
+                <unique ans="n"/>BUT...
+            </bubble>
+            <bubble type="speech" spNum="14" who="Yoo Jin-Ho">
+                <unique ans="n"/>HIS STAMINA WILL RUN OUT IF HE CONTINUES THIS PACE.
+            </bubble>
+            <bubble type="speech" spNum="15" who="Yoo Jin-Ho">
+                <unique ans="n"/>WHAT WILL HE DO?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <caption type="information">[FATIGUE:70]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/>STATUS RECOVERY.
+            </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/>ACCEPT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <caption type="information">[EFFECT: BLEED HAS ACTIVATED.]</caption>
+            <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+            <caption type="information">[YOUR FOE WILL LOSE 1% HEALTH EVERY 1 SECOND.]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="18">
+            <caption type="information">[THE DUNGEON BOSS HAS BEEN SLAIN.]</caption>
+            <caption type="information">[YOU LEVELED UP!]</caption>
+            <caption type="information">[YOU LEVELED UP!]</caption>
+            <caption type="information">[YOU LEVELED UP!]</caption>
+            <bubble type="thought" thtNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/>THANK GOODNESS I DIDN'T ACCEPT THE DAILY QUEST AWARD
+            </bubble>
+            <bubble type="thought" thtNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/>IF I DID, I DON'T KNOW WHAT WHOULD'VE HAPPENED.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="18" who="Yoo Jin-Ho">
+                <unique ans="n"/> HE REALLY TOOK DONW THE BOSS BY HIMSELF?!
+            </bubble>
+            <bubble type="speech" spNum="19" who="Yoo Jin-Ho">
+                <unique ans="n"/>THERE'S NO WAY!!
+            </bubble>
+            <bubble type="thought" thtNum="41" who="Yoo Jin-Ho">
+                <unique ans="n"/>THIS PERSON IS...!
+            </bubble>
+            <bubble type="thought" thtNum="41" who="Yoo Jin-Ho">
+                <unique ans="n"/> DEFINITELY A FALSE RANKER!!!
+            </bubble>
+            <bubble type="speech" spNum="20" who="Yoo Jin-Ho">
+                <unique ans="n"/>AH... UM... SIR.
+            </bubble>
+            <bubble type="speech" spNum="21" who="Yoo Jin-Ho">
+                <unique ans="n"/> WOULD YOU CARE TO STORE YOUR MAGIC CRYSTALS HERE SIR?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="20">
+            <bubble type="thought" thtNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> SIR?
+            </bubble>
+            <bubble type="speech" spNum="22" who="Yoo Jin-Ho">
+                <unique ans="n"/>SIR, YOU'RE THIRSTY RIGHT? PLEASE HAVE THIS. IT'S WATER
+            </bubble>
+            <bubble type="speech" spNum="23" who="Yoo Jin-Ho">
+                <unique ans="n"/>PHEW, THE EQUIPMENT WAS OBVIOUSLY IN THE BAG. WHAT BAD PEOPLE.
+            </bubble>
+            <bubble type="speech" spNum="24" who="Yoo Jin-Ho">
+                <unique ans="n"/>I WILL MINE THE MANA CRYSTALS NOW THAT WE'RE HERE.
+            </bubble>
+            <bubble type="thought" thtNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY'S HE LIKE THIS...
+            </bubble>
+            <bubble type="thought" thtNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/>WELL I GUES I'M THE SAVIOUR OF HIS LIFE IN HIS PERSPECTIVE?
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!--20 PAGES, 44 INSTANCES OF THOUGHT, 23 INSTANCES OF SPEECH, AND 2 UNIQUE SPEAKERS-->
