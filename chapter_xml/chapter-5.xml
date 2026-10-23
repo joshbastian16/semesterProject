@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="5">
+    <title> Solo Leveling chapter five</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <caption type="narration" who="Sung Jin-Woo">THE GATE</caption>
+            <caption type="narration" who="Sung Jin-Woo">THE TUNNEL THAT CONNECTS THE OTHER WORLD TO OURS.</caption>
+            <caption type="narration" who="Sung Jin-Woo">10 YEARS AGO,</caption>
+            <caption type="narration" who="Sung Jin-Woo">AFTER THE GATE APPEARED, THE WORLD EXPERIENCED MANY BIZARRE EVENTS.</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <caption type="narration" who="Sung Jin-Woo">ONE EXAMPLE IS THE HUNTERS.</caption>
+            <caption type="narration" who="Sung Jin-Woo">THEIR LEVEL OF POWER STAYED THE SAME - EVEN AFTER BECOMING HUNTERS.</caption>
+            <caption type="narration" who="Sung Jin-Woo">I TOO, BECAME A HUNTER, BUT MY STRENGTH WAS ONLY ENOUGH FOR AN E-RANK.</caption>
+            <caption type="narration" who="Sung Jin-Woo">ALTHOUGH I AM STRONGER THAN MOST HUMANS, THE DIFFERENCE BETWEEN OTHER RANKS AND ME WAS VAST.</caption>
+            <caption type="narration" who="Sung Jin-Woo">THOSE WHO RECEIVED THE POWER TO CROSS THE GATE TO DESTROY MONSTERS,</caption>
+            <caption type="narration" who="Sung Jin-Woo">AND DID THIS AS THEIR CAREER WERE CALLED "HUNTERS".</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <caption type="narration" who="Sung Jin-Woo">SOMETIMES, BEYOND THE GATE, THERE CAN BE AN</caption>
+            <caption type="narration" who="Sung Jin-Woo">OMINOUS</caption>
+            <caption type="narration" who="Sung Jin-Woo">DESPAIRING</caption>
+            <caption type="narration" who="Sung Jin-Woo">INSANE MONSTER THAT SPRINGS OUT OF NOWHERE.</caption>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>WILL YOU BE FINE? THE BLEEDING'S NOT STOPPING.</bubble>
+            <bubble type="speech" spNum="2" who="Song Chi-Yul"> <unique ans="y" uniNum="2"/>THERE'S NOTHING WE CAN DO NOW, IS THERE?</bubble>
+            <bubble type="speech" spNum="3" who="Song Chi-Yul"> <unique ans="n"/>I BROUGHT ONLY THREE HEALERS BECAUSE I THOUGHT THIS WOULD BE OVER QUICKLY...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="4" who="Song Chi-Yul"> <unique ans="n"/>ONE GOT ATTACKED SO BRUTALLY THAT NOT EVEN HIS CORPSE REMAINED.</bubble>
+            <bubble type="speech" spNum="5" who="Song Chi-Yul"> <unique ans="n"/>ONE IS SO SHOCKED THAT HE'S ACTING LIKE THAT,</bubble>
+            <bubble type="speech" spNum="6" who="Others"> <unique ans="n"/>Save me... Save me...</bubble>
+            <bubble type="speech" spNum="7" who="Others"> <unique ans="n"/>I want to live...</bubble>
+            <bubble type="speech" spNum="8" who="Song Chi-Yul"> <unique ans="n"/>EVEN A B-RANK HEALER LIKE JU-HEE PROBABLY NEVER EXPERIENCED ANYTHING LIKE THIS BEFORE. HEH, THAT'S WHY RECEIVING HEALING MAY BE A LITTLE HARD FOR NOW.</bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yul"> <unique ans="n"/>I THINK IT WOULD BE BETTER TO JUST STAY STILL AGAINST THE LIKES OF HIM.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="10" who="Song Chi-Yul"> <unique ans="n"/>WHEN THE SITUATION CLEARS A BIT, LET'S TRY RUNNING THEN.</bubble>
+            <bubble type="speech" spNum="11" who="Song Chi-Yul"> <unique ans="n"/>ALTHOUGH IT WON'T BE EASY...</bubble>
+            <bubble type="speech" spNum="12" who="Others"> <unique ans="n"/>Hu-hu-huuuuuuk...</bubble>
+            <bubble type="speech" spNum="13" who="Others"> <unique ans="n"/>WHY DO WE HAVE TO...</bubble>
+            <bubble type="speech" spNum="14" who="Others"> <unique ans="n"/>THIS IS ONLY A D-RANK DUNGEON... ONLY A D-RANK...</bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>JUST LIKE WHAT MR. SONG CHI-YUL SAID, WE'LL GET ATTACKED IF WE MOVE.</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>EVEN IF WE SOMEHOW BYPASS HIM, WE STILL HAVE TO GO THROUGH THE STATUE.</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>HE PROBABLY NEVER INTENDED FOR US TO LEAVE!</bubble>
+            <bubble type="speech" spNum="14" who="Others"> <unique ans="n"/>I WON'T DIE LIKE THIS.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="15" who="Others"> <unique ans="n"/>I FINALLY JOINED A BIG GUILD,</bubble>
+            <bubble type="speech" spNum="16" who="Others"> <unique ans="n"/>SO I CAN'T DIE HERE.</bubble>
+            <bubble type="speech" spNum="17" who="Song Chi-Yul"> <unique ans="n"/>WHAT ARE YOU DOING?! DON'T MOVE!!!</bubble>
+            <bubble type="speech" spNum="18" who="Others"> <unique ans="n"/>YEAH! I CAN DO IT!</bubble>
+            <bubble type="speech" spNum="19" who="Others"> <unique ans="n"/>IF ANYTHING, I'M CONFIDENT IN MY OWN SPEED.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="20" who="Others"> <unique ans="n"/>I'LL GO THROUGH THE DOOR IN AN INSTANT!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="21" who="Others"> <unique ans="n"/>KYAAAAA!!!</bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo"> <unique ans="n"/>FUCK!</bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo"> <unique ans="n"/>THESE GUYS CAN KILL US WHENEVER THEY FEEL LIKE IT, CAN'T THEY...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="24" who="Song Chi-Yul"> <unique ans="n"/>IT WOULD BE EASIER THAN SQUASHING A BUG.</bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo"> <unique ans="n"/>THEY COULD WIPE OUT ALL OF US THIS INSTANT...</bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo"> <unique ans="n"/>SO WHY AREN'T THEY?</bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yul"> <unique ans="n"/>DUNNO...</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>EVEN IF IT COULD, IT DOES NOT KILL,</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>IT'S DIFFERENT FROM THE MONSTERS WHO BLINDLY ATTACK HUNTERS ON SIGHT.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>THE GUARD STATUE THAT ATTACKS WHEN APPROACHING THE DOOR.</bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>THE LARGE STATUE THAT SHOOTS BEAMS WHEN YOU MOVE.</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>THEY ATTACK IN A PATTERN!</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>A PATTERN ...?</bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>IT CAN'T BE...</bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo"> <unique ans="n"/>THERE'S A RULE IN THIS ROOM!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo"> <unique ans="n"/>THE COMMANDMENTS OF CARTHENON!!</bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo"> <unique ans="n"/>YES! THAT'S IT!!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo"> <unique ans="n"/>MR. SONG CHI-YUL! WHAT WAS THE FIRST COMMANDMENT??</bubble>
+            <bubble type="speech" spNum="29" who="Song Chi-Yul"> <unique ans="n"/>COMMANDMENT?</bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yul"> <unique ans="n"/>THE FIRST WOULD BE...</bubble>
+            <bubble type="speech" spNum="31" who="Song Chi-Yul"> <unique ans="n"/>WORSHIP THE LORD?</bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo"> <unique ans="n"/>THE LORD, HUH...</bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo"> <unique ans="n"/>SIR, THERE'S A RULE IN THIS DUNGEON.</bubble>
+            <bubble type="speech" spNum="33" who="Song Chi-Yul"> <unique ans="n"/>WHAT ARE YOU DOING??</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo"> <unique ans="n"/>IF I'M CORRECT...</bubble>
+            <bubble type="speech" spNum="35" who="Song Chi-Yul"> <unique ans="n"/>ARE YOU CRAZY?!</bubble>
+            <bubble type="speech" spNum="36" who="Song Chi-Yul"> <unique ans="n"/>THOSE AREN'T THE EYES OF A MAN WHO SEEKS DEATH.</bubble>
+            <bubble type="speech" spNum="37" who="Song Chi-Yul"> <unique ans="n"/>HE DOESN'T ATTACK THOSE WHO MOVE.</bubble>
+        </page>
+    </body>
+</chapter>
+<!--14 pages, 13 thought bubles 37 speech bubles, and 2 uni speakers -->
+

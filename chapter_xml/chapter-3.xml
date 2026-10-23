@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="3">
+    <title> Solo Leveling chapter three</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Others"> <unique ans="n" />AREN'T WE GOING TOO FAR IN?</bubble>
+            <bubble type="speech" spNum="2" who="Others"> <unique ans="n"/>HOW LONG DID WE WALK?</bubble>
+            <bubble type="speech" spNum="3" who="Song Chi-Yul"> <unique ans="y" uniNum="1"/>ABOUT 40 MINUTES.</bubble>
+            <bubble type="speech" spNum="4" who="Song Chi-Yul"> <unique ans="n"/>THE GATE CLOSES IN A HOUR AFTER WE KILL THE BOSS SO WE HAVE ABOUT 20 MINUTES LEFT.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo"> <unique ans="y" uniNum="2"/>HEY... SORRY...</bubble>
+            <bubble type="speech" spNum="6" who="Ju-Hee"> <unique ans="y" uniNum="3"/>ABOUT WHAT.</bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo"> <unique ans="n"/>FORCIBLY COMING HERE AFTER I VOTED YES...</bubble>
+            <bubble type="speech" spNum="8" who="Ju-Hee"> <unique ans="n"/>I'M FINE SO YOU DON'T NEED TO WORRY ABOUT ME.</bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo"> <unique ans="n"/>ARE YOU... REALLY OKAY?</bubble>
+            <bubble type="speech" spNum="10" who="Ju-Hee"> <unique ans="n"/>TO BE HONEST... NO. I AM DEFINITELY NOT OKAY.</bubble>
+       </page>
+       <pageBrk/>
+       <page pageNum="3">
+           <bubble type="speech" spNum="11" who="Ju-Hee"> <unique ans="n"/>ARE YOU INSANE?? JUST NOW IF YOU'D BEEN STABBED A LITTLE ABOVE, YOU WOULD'VE HAD A HOLE IN YOUR HEART!</bubble>
+           <bubble type="speech" spNum="12" who="Ju-Hee"> <unique ans="n"/>AND THAT'S NOT EVEN CONSIDERING YOUR ARMS AND LEGS!! EVEN THOUGH I BARELY HEALED THEM!!!</bubble>
+           <bubble type="speech" spNum="13" who="Ju-Hee"> <unique ans="n"/>WHAT EVEN MADE YOU SAY YES, HUH?? DID YOU ALSO HURT YOUR HEAD?!</bubble>
+           <bubble type="speech" spNum="14" who="Ju-Hee"> <unique ans="n"/>HUH?!?!</bubble>
+           <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>TRUE... I'M ONLY ALIVE BECAUSE MISS JU-HEE IS A B-RANK HEALER. I'M IN HER DEBT YET AGAIN...</bubble>
+           <bubble type="speech" spNum="15" who="Sung Jin-Woo"> <unique ans="n"/>SORRY...</bubble>
+           <bubble type="speech" spNum="16" who="Ju-Hee"> <unique ans="n"/>ARE YOU SORRY?</bubble>
+           <bubble type="speech" spNum="17" who="Sung Jin-Woo"> <unique ans="n"/>YES...</bubble>
+           <bubble type="speech" spNum="18" who="Ju-Hee"> <unique ans="n"/>IF YOU'RE THAT SORRY... HOW ABOUT TREATING ME TO SOME FOOD?</bubble>
+           <bubble type="speech" spNum="17" who="Sung Jin-Woo"> <unique ans="n"/>AH...</bubble>
+       </page>
+       <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo"> <unique ans="n"/>......</bubble>
+            <bubble type="speech" spNum="19" who="Ju-Hee"> <unique ans="n"/>WHAT. YOU DON'T LIKE EATING WITH ME?</bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo"> <unique ans="n"/>NO! NO, OF COURSE NOT...</bubble>
+            <bubble type="speech" spNum="21" who="Song Chi-Yul"> <unique ans="n"/>IT'S HERE!! THE BOSS ROOM!!</bubble>
+            <bubble type="speech" spNum="22" who="Song Chi-Yul"> <unique ans="n"/>I'VE NEVER SEEN A ROOM WITH THIS TYPE OF DOOR BEFORE...</bubble>
+            <bubble type="speech" spNum="23" who="Song Chi-Yul"> <unique ans="n"/>IT'S STRANGE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="24" who="Kim"> <unique ans="y" uniNum="4"/>HEY... ISN'T THIS PLACE DANGEROUS?</bubble>
+            <bubble type="speech" spNum="25" who="Bak"> <unique ans="y" uniNum="5"/>YEAH.</bubble>
+            <bubble type="speech" spNum="26" who="Song Chi-Yul"> <unique ans="n"/>ARE YOU GOING TO RETURN EMPTY-HANDED AFTER COMING HERE?</bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yul"> <unique ans="n"/>WE COULD BE THE FIRST ONES TO ENTER THIS DUNGEON... THOSE WHO WANT TO LEAVE CAN GO. I'M GOING IN THERE ALONE IF I MUST.</bubble>
+            <bubble type="speech" spNum="28" who="Others"> <unique ans="n"/>WELL, MR. SONG CHI-YUL'S SKILL IS AMAZING. HE'S ALSO EXTREMELY OFFENSIVE STYLED OUT OF THE C-RANK HUNTERS.</bubble>
+            <bubble type="speech" spNum="29" who="Others"> <unique ans="n"/>THAT MAN, IF HE WASN'T ABOUT TO BE 60 HE COULD'VE BEEN IN ANY BIG GUILD.</bubble>
+            <bubble type="speech" spNum="30" who="Others"> <unique ans="n"/>SINCE WE CAME HERE BECAUSE WE TRUSTED MR. SONG WE MIGHT AS WELL FOLLOW HIM TO THE END.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="31" who="Song Chi-Yul"> <unique ans="n"/>OPENS EASIER THAN I THOUGHT IT WOULD...</bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yul"> <unique ans="n"/>LET'S GO IN.</bubble>
+            <bubble type="speech" spNum="33" who="Others"> <unique ans="n"/>OH~ THE LIGHTS ARE ON. NICE~</bubble>
+            <bubble type="speech" spNum="34" who="Song Chi-Yul"> <unique ans="n"/>I'VE NEVER SEEN A DUNGEON LIKE THIS. ALRIGHT, LET'S SCATTER AND SCOUT THE AREA.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="35" who="Song Chi-Yul"> <unique ans="n"/>IT SEEMS LIKE NO ONE'S BEEN IN HERE FOR A LONG TIME.</bubble>
+            <bubble type="speech" spNum="36" who="Others"> <unique ans="n"/>THESE STATUES... THEY FEEL WEIRD.</bubble>
+            <bubble type="speech" spNum="37" who="Others"> <unique ans="n"/>THEY'RE ALL HOLDING SOMETHING DIFFERENT. SOME OF THEM ARE EVEN HOLDING INSTRUMENTS.</bubble>
+            <bubble type="speech" spNum="38" who="Others"> <unique ans="n"/>THERE'S QUITE A LOT OF THEM... IT FEELS SCARY SINCE THERE'S SO MANY.</bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo"> <unique ans="n"/>WOW...</bubble>
+            <bubble type="speech" spNum="40" who="Kim"> <unique ans="n"/>DOESN'T IT FEEL LIKE SOMEONE IS STARING AT YOU?</bubble>
+            <bubble type="speech" spNum="41" who="Bak"> <unique ans="n"/>STOP SAYING SUCH NEGATIVE THINGS.</bubble>
+            <bubble type="speech" spNum="42" who="Others"> <unique ans="n"/>WOW, LOOK AT THAT! IT'S HUGE!</bubble>
+            <bubble type="speech" spNum="43" who="Others"> <unique ans="n"/>THAT'S NOT THE BOSS, RIGHT?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="speech" spNum="44" who="Others"> <unique ans="n"/>DON'T THINK SO. IT'S ONLY A STATUE AFTER ALL.</bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo"> <unique ans="n"/>THIS IS THE ONLY ONE THAT'S HUGE.</bubble>
+            <bubble type="speech" spNum="46" who="Others"> <unique ans="n"/>THERE'S NOTHING THAT RESEMBLES A MONSTER HERE.</bubble>
+            <bubble type="speech" spNum="47" who="Others"> <unique ans="n"/>RIGHT?</bubble>
+            <bubble type="speech" spNum="48" who="Others"> <unique ans="n"/>HUH, CAN'T SEE EVEN A SINGLE ONE.</bubble>
+            <bubble type="speech" spNum="49" who="Song Chi-Yul"> <unique ans="n"/>HM?</bubble>
+            <bubble type="speech" spNum="50" who="Song Chi-Yul"> <unique ans="n"/>WHAT IS THIS... A MAGIC SEAL?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="51" who="Bak"> <unique ans="n"/>MR. SONG~! SOMETHING'S WRITTEN HERE! I THINK YOU NEED TO COME!</bubble>
+            <bubble type="speech" spNum="52" who="Tim"> <unique ans="n"/>THIS... IS IT IN RUNIC TEXT?</bubble>
+            <bubble type="speech" spNum="53" who="Song Chi-Yul"> <unique ans="n"/>LET'S SEE... CARTHENON TEMPLE'S COMMANDMENTS.</bubble>
+            <bubble type="speech" spNum="54" who="Song Chi-Yul"> <unique ans="n"/>FIRST, WORSHIP THE LORD.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="55" who="Song Chi-Yul"> <unique ans="n"/>SECOND, PRAISE THE LORD.</bubble>
+            <bubble type="speech" spNum="56" who="Ju-Hee"> <unique ans="n"/>H-HEY, JIN-WOO...</bubble>
+            <bubble type="speech" spNum="57" who="Ju-Hee"> <unique ans="n"/>TH... THERE... THE HUGE STATUE...</bubble>
+            <bubble type="speech" spNum="58" who="Song Chi-Yul"> <unique ans="n"/>THIRD, PROVE YOUR FAITH.</bubble>
+            <bubble type="speech" spNum="59" who="Ju-Hee"> <unique ans="n"/>THE EYEBALL JUST MOVED... IT WAS LOOKING AT US...</bubble>
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo"> <unique ans="n"/>HUH? RIGHT... YOU MUST BE MISTAKEN...</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>WAIT!</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>WHAT... THIS FEELING...</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>IT GOT SO QUIET THAT THE AIR SEEMS CHILLY.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="61" who="Song Chi-Yul"> <unique ans="n"/>THOSE WHO DO NOT FOLLOW THESE COMMANDMENTS,</bubble>
+            <bubble type="speech" spNum="62" who="Song Chi-Yul"> <unique ans="n"/>WILL NEVER RETURN ALIVE.</bubble>
+            <bubble type="speech" spNum="63" who="Others"> <unique ans="n"/>WHAT!!! THE DOOR JUST CLOSED!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="64" who="Others1"> <unique ans="n"/>WHAT DO WE DO NOW?</bubble>
+            <bubble type="speech" spNum="65" who="Others2"> <unique ans="n"/>DAMMIT! CAN'T STAND THIS ANYMORE.</bubble>
+            <bubble type="speech" spNum="66" who="Others2"> <unique ans="n"/>YOU GUYS ARE ALL SPOUTING NONSENSE! IT WAS A MISTAKE TO EVEN COME HERE!</bubble>
+            <bubble type="speech" spNum="67" who="Others2"> <unique ans="n"/>I'M LEAVING!</bubble>
+            <bubble type="speech" spNum="68" who="Others2"> <unique ans="n"/>THE BOSS, TREASURES, WHATEVER! YOU GUYS CAN TAKE IT.</bubble>
+            <bubble type="speech" spNum="69" who="Others2"> <unique ans="n"/>GOOD LUCK!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="70" who="Song Chi-Yul"> <unique ans="n"/>STOP!! DON'T PUT YOUR HANDS ON THE HANDLE!!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="71" who="Bak"> <unique ans="n"/>TH... THAT THING MOVES!!</bubble>
+            <bubble type="speech" spNum="72" who="Bak"> <unique ans="n"/>THE HELL!!! WE HAVE TO FIGHT THOSE?!?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>WAIT...</bubble>
+            <bubble type="speech" spNum="73" who="Ju-Hee"> <unique ans="n"/>TH-THERE... THE EYE-BALL...</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>IF THAT WAS REALLY TRUE...</bubble>
+            <bubble type="speech" spNum="74" who="Sung Jin-Woo"> <unique ans="n"/>AH...</bubble>
+        </page>
+    </body>
+</chapter>
+<!--15 pages, 6 thought bubles 74 speech bubles, and 5 uni speakers -->
+

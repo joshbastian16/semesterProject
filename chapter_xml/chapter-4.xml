@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="4">
+    <title> Solo Leveling chapter four</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Others"> <unique ans="n"/>TH... THAT THING MOVES!!!</bubble>
+            <bubble type="speech" spNum="2" who="Others"> <unique ans="n"/>THE HELL!! WE HAVE TO FIGHT THOSE???</bubble>
+            <bubble type="speech" spNum="3" who="Others"> <unique ans="n"/>WE HAVE TO FIGHT THOSE?!</bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>WHAT WAS THE RANK OF THE ONE WHO DIED JUST NOW?</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>D-RANK?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>IF EVEN HE WAS BAD, HE STILL WOULD'VE BEEN STRONGER THAN AN E-RANK LIKE ME.</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>BUT IN ONE HIT?</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>WAIT, WAIT A SECOND.</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>THIS DUNGEON IS A D-RANK AT MOST.</bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>I'VE NEVER HEARD OF MONSTERS AS STRONG AS THEM IN THE LIKES OF D-RANK DUNGEONS!</bubble>
+            <bubble type="speech" spNum="4" who="Song Chi-Yul"> <unique ans="y" uniNum="2"/>IF ALL THE STATUES HERE CAN MOVE...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="speech" spNum="5" who="Song Chi-Yul"> <unique ans="n"/>DON'T TELL ME...</bubble>
+            <bubble type="speech" spNum="6" who="Song Chi-Yul"> <unique ans="n"/>EVEN THAT ONE...?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <caption type="narration" who="Sung Jin-Woo">THIS ISN'T THE FIRST TIME I ENCOUNTERED A NEAR-DEATH EXPERIENCE.</caption>
+            <caption type="narration" who="Sung Jin-Woo">DURING MY FIRST RAID, I ACCIDENTALLY BROKE AWAY FROM MY PARTY AND GOT LOST.</caption>
+            <caption type="narration" who="Sung Jin-Woo">I ALSO GOT HIT BY AN E-RANK MONSTER IN THE BACK AND WAS HOSPITALIZED FOR WEEKS.</caption>
+            <caption type="narration" who="Sung Jin-Woo">I EVEN ALMOST STARVED TO DEATH AFTER BEING TRAPPED INSIDE A DUNGEON...</caption>
+            <caption type="narration" who="Sung Jin-Woo">EVEN THOUGH THEY WERE ALL LOW-RANK DUNGEONS, I HAD TO PUT MY LIFE ON THE LINE.</caption>
+            <caption type="narration" who="Sung Jin-Woo">OTHERS TRADE THEIR MAGICAL CORES FOR BETTER WEAPONS</caption>
+            <caption type="narration" who="Sung Jin-Woo">TO DEFEAT STRONGER MONSTERS</caption>
+            <caption type="narration" who="Sung Jin-Woo">AND TO EARN MORE TREASURES.</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <caption type="narration" who="Sung Jin-Woo">I CAN'T DO THAT.</caption>
+            <caption type="narration" who="Sung Jin-Woo">ALWAYS UNEQUIPPED.</caption>
+            <caption type="narration" who="Sung Jin-Woo">BUYING A POOR SWORD WOULD JUST RESULT IN IT BEING DESTROYED QUICKLY ANYWAYS, AND</caption>
+            <caption type="narration" who="Sung Jin-Woo">HAVING A HEALER WOULD MEAN MY INJURIES WOULD BE HEALED GIVEN THAT IT'S NOT EXTREMELY SERIOUS.</caption>
+            <bubble type="speech" spNum="7" who="Others"> <unique ans="n"/>THAT BRAT CAME OUT INJURED AGAIN.</bubble>
+            <bubble type="speech" spNum="8" who="Others"> <unique ans="n"/>IN A MERE E-RANK DUNGEON?</bubble>
+            <bubble type="speech" spNum="9" who="Others"> <unique ans="n"/>I FEEL BAD FOR THE HEALERS RAIDING WITH HIM.</bubble>
+            <bubble type="speech" spNum="10" who="Others"> <unique ans="n"/>THEY HAVE TO WORK TWICE AS HARD.</bubble>
+            <bubble type="speech" spNum="11" who="Others"> <unique ans="n"/>DID YOU KNOW?</bubble>
+            <bubble type="speech" spNum="12" who="Others"> <unique ans="n"/>THESE DAYS, HE'S CALLED THE WORLD'S WEAKEST HUNTER.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="13" who="Others"> <unique ans="n"/>MEANING EVEN THOUGH HE'S A HUNTER, HE'S USELESS.</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>MY SHOE'S BEEN DESTROYED...</bubble>
+            <caption type="narration" who="Sung Jin-Woo">SO THE FIRST, SECOND,</caption>
+            <caption type="narration" who="Sung Jin-Woo">ALL THOSE DAYS WHERE I CAME OUT INJURED, I IGNORED THEIR SNEERING REMARKS</caption>
+            <caption type="narration" who="Sung Jin-Woo">AND INEFFICIENTLY WORKED A JOB THAT COULD RESULT IN MY DEATH.</caption>
+            <caption type="narration" who="Sung Jin-Woo">MAYBE IT WAS BECAUSE OF THIS,</caption>
+            <caption type="narration" who="Sung Jin-Woo">THAT I KNEW VERY WELL,</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo"> <unique ans="n"/>EVERYONE, DUCK!!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="15" who="Others"> <unique ans="n"/>WAKE UP!!</bubble>
+            <bubble type="speech" spNum="16" who="Others"> <unique ans="n"/>HEY!!</bubble>
+            <bubble type="speech" spNum="17" who="Bak"> <unique ans="y" uniNum="2"/>YOU OKAY?</bubble>
+            <bubble type="speech" spNum="18" who="Kim"> <unique ans="y" uniNum="3"/>Y-YEAH... YOU?</bubble>
+            <bubble type="speech" spNum="19" who="Bak"> <unique ans="n"/>I'M FINE.</bubble>
+            <bubble type="speech" spNum="20" who="Others"> <unique ans="n"/>AHHHHHH!!!</bubble>
+            <bubble type="speech" spNum="21" who="Bak"> <unique ans="n" />IT'S NOT JUST A FEW THAT DIED...</bubble>
+            <bubble type="speech" spNum="22" who="Kim"> <unique ans="n" />I BARELY DODGED IT. IF SUNG DIDN'T YELL OUT,</bubble>
+            <bubble type="speech" spNum="23" who="Kim"> <unique ans="n" />WE COULD'VE BEEN WIPED OUT.</bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo"> <unique ans="n" />UGH...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo"> <unique ans="n" />MISS JU-HEE!</bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo"> <unique ans="n" />MISS JU-HEE!!!</bubble>
+            <bubble type="speech" spNum="26" who="Song Chi-Yul"> <unique ans="y" uniNum="4"/>DON'T STAND UP! JUST REMAIN IN YOUR POSITION!</bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yul"> <unique ans="n" />IF WE STAND UP, IT WILL ATTACK US AGAIN!!</bubble>
+            <bubble type="speech" spNum="28" who="Others"> <unique ans="n" />MR. SONG...</bubble>
+            <bubble type="speech" spNum="29" who="Others"> <unique ans="n" />OK...</bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo"> <unique ans="n" />MR. SONG CHI-YUL!</bubble>
+            <bubble type="speech" spNum="31" who="Song Chi-Yul"> <unique ans="n" />MISS JU-HEE CAN'T HANDLE FEAR THAT WELL.</bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yul"> <unique ans="n" />THAT'S WHY SHE CAN ONLY DO BASIC RAIDS EVEN THOUGH SHE'S A B-RANK HEALER.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="33" who="Song Chi-Yul"> <unique ans="n" />BUT HERE...</bubble>
+            <bubble type="speech" spNum="34" who="Song Chi-Yul"> <unique ans="n" />IT DOESN'T SEEM BASIC...</bubble>
+            <bubble type="speech" spNum="35" who="Song Chi-Yul"> <unique ans="n" />ONLY THOSE WHO MOVED DIED. ALL THE PEOPLE WHO LIVED LISTENED TO YOU.</bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo"> <unique ans="n" />OH... IS THAT TRUE?</bubble>
+            <bubble type="speech" spNum="37" who="Song Chi-Yul"> <unique ans="n" />WAIT, DIDN'T YOU YELL BECAUSE YOU KNEW WHAT WOULD HAPPEN?</bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo"> <unique ans="n" />NO... IT WAS ONLY BECAUSE IT FELT DANGEROUS...</bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo"> <unique ans="n" />HUH?!</bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo"> <unique ans="n" />SIR, YOUR ARM!!</bubble>
+            <bubble type="speech" spNum="41" who="Song Chi-Yul"> <unique ans="n" />I'LL BE FINE. JUST HELP ME STOP THE BLEEDING, WILL YA?</bubble>
+            <bubble type="speech" spNum="42" who="Song Chi-Yul"> <unique ans="n" />SUNG... WHAT RANK DOES THAT LOOK LIKE TO YOU?</bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo"> <unique ans="n" />DON'T KNOW...</bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo"> <unique ans="n" />I'VE NEVER SEEN INTO A RAID HIGHER THAN A C-RANK.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo"> <unique ans="n"/>I'VE ONLY EXPERIENCED A B-RANK RAID ONCE OR TWICE.</bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo"> <unique ans="n"/>I CAN DEFINITELY SAY THAT THIS PLACE EXCEEDS THAT OF A B-RANK DUNGEON...</bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo"> <unique ans="n"/>EVEN THERE, THERE WEREN'T ANY MONSTERS OF THIS CALIBER.</bubble>
+            <bubble type="speech" spNum="48" who="Song Chi-Yul"> <unique ans="n"/>THAT ONE IS A-RANK...</bubble>
+            <bubble type="speech" spNum="49" who="Song Chi-Yul"> <unique ans="n"/>NO...</bubble>
+            <bubble type="speech" spNum="50" who="Song Chi-Yul"> <unique ans="n"/>MAYBE A S-RANK...</bubble>
+            <bubble type="speech" spNum="51" who="Song Chi-Yul"> <unique ans="n"/>JUST NOW THERE WAS THE CARTHENON TEMPLE'S COMMANDMENTS.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="52" who="Song Chi-Yul"> <unique ans="n"/>FIRST, WORSHIP THE LORD.</bubble>
+            <bubble type="speech" spNum="53" who="Song Chi-Yul"> <unique ans="n"/>SECOND, PRAISE THE LORD.</bubble>
+            <bubble type="speech" spNum="54" who="Song Chi-Yul"> <unique ans="n"/>THIRD, PROVE YOUR FAITH.</bubble>
+            <bubble type="speech" spNum="55" who="Song Chi-Yul"> <unique ans="n"/>THOSE WHO DO NOT FOLLOW THESE COMMANDMENTS, WILL NEVER RETURN ALIVE.</bubble>
+            <bubble type="speech" spNum="56" who="Song Chi-Yul"> <unique ans="n"/>THESE WERE WRITTEN ON THERE.</bubble>
+            <bubble type="speech" spNum="57" who="Sung Jin-Woo"> <unique ans="n"/>MR. SONG... THE LORD...</bubble>
+            <bubble type="speech" spNum="58" who="Sung Jin-Woo"> <unique ans="n"/>I THINK....</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <bubble type="speech" spNum="59" who="Sung Jin-Woo"> <unique ans="n"/>MEANS THAT ONE, RIGHT?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="16">
+            <bubble type="speech" spNum="60" who="Kim"> <unique ans="y" uniNum="3"/>IS IT WORKING??</bubble>
+            <bubble type="speech" spNum="61" who="Bak"> <unique ans="y" uniNum="4"/>IT DOES LOOK LIKE HE'S MOVING SLOWER...</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>NO...!</bubble>
+            <bubble type="speech" spNum="62" who="Others"> <unique ans="n"/>LIKE AN EAGLE FLAPPING ITS WINGS ABOVE,</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>THAT'S...!</bubble>
+            <bubble type="speech" spNum="63" who="Others"> <unique ans="n"/>I SHALL ALSO WALK WITH MY LORD ABOVE.</bubble>
+            </page>
+        
+    </body>
+</chapter>
+<!--16 pages, 9 thought bubles 63 speech bubles, and 4 uni speakers -->
+
