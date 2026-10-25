@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="23">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="others">
+                <unique ans="n"/>WHAT, THOSE GUYS ARE STILL ALIVE?
+            </bubble>
+            <bubble type="speech" spNum="2" who="others">
+                <unique ans="n"/>IS THE BOSS DEAD?!
+            </bubble>
+            <bubble type="speech" spNum="3" who="others">
+                <unique ans="n"/>WHAT HAPPENED?
+            </bubble>
+            <bubble type="speech" spNum="4" who="others">
+                <unique ans="n"/>DID THEY KILL IT BY THEMSELVES?!
+            </bubble>
+            <bubble type="speech" spNum="5" who="Jo Gyu-Hwan">
+                <unique ans="y" uniNum="1"/>WAS THAT SPIDER JUST BIG AND STUPID?
+            </bubble>
+            <bubble type="speech" spNum="6" who="Jo Gyu-Hwan">
+                <unique ans="n"/>IF IT'S THAT BASTARD'S EQUIPMENT IT'S POSSIBLE HE COULD TAKE DOWN A C-RANK BOSS.
+            </bubble>
+            <bubble type="speech" spNum="7" who="Jo Gyu-Hwan">
+                <unique ans="n"/>IF A D-RANKER AND AN E-RANKER BEAT IT THAT'S ALL THE EVIDENCE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="thought" thtNum="1" who="Hwang Dong-Suk">
+                <unique ans="y" uniNum="2"/> YOO JIN-HO I UNDERESTIMATED YOU.
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Hwang Dong-Suk">
+                <unique ans="n"/> THERE'S NO WAY AN E-RANKER COULD BE ANY HELP. HE MUST HAVE TAKEN DOWN THE BOSS BY HIMSELF.
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Hwang Dong-Suk">
+                <unique ans="n"/> I DON'T KNOW WHAT KIND OF SPECIAL ABILITY HIS EQUIPMENT HAD SO IT MIGHT BE TOUBLESOME TO BECOME HIS ENEMY...
+            </bubble>
+            <bubble type="speech" spNum="8" who="Lee Chul-Jun">
+                <unique ans="y" uniNum="3"/> HWANG, WHAT DO WE DO NOW?
+            </bubble>
+            <bubble type="speech" spNum="9" who="Hwang Dong-Suk">
+                <unique ans="n"/> OF COURSE, WE HAVE TO WIN OVER HIM.
+            </bubble>
+            <bubble type="speech" spNum="10" who="Hwang Dong-Suk">
+                <unique ans="n"/> OF COURSE, WE HAVE TO WIN OVER HIM.
+            </bubble>
+            <bubble type="speech" spNum="11" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOO JIN-HO!
+            </bubble>
+            <bubble type="speech" spNum="12" who="Hwang Dong-Suk">
+                <unique ans="n"/> I SEARCHED YOU UP BECAUSE YOUR EQUIPMENT WAS FLASHY AND YOU TURNED OUT TO BE THE SON OF SOMEONE GREAT.
+            </bubble>
+            <bubble type="speech" spNum="13" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOO JIN ARCHITECTURES CHAIRMAN YOO MYEONG-HAN.
+            </bubble>
+            <bubble type="speech" spNum="14" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOUR FATHER RIGHT?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="15" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="4"/> S-SO WHAT?
+            </bubble>
+            <bubble type="speech" spNum="16" who="Hwang Dong-Suk">
+                <unique ans="n"/> I THOUGHT YOU WERE THE SON OF RICH FAMILY BUT FOR IT TO ACTUALLY BE TRUE.
+            </bubble>
+            <bubble type="speech" spNum="17" who="Hwang Dong-Suk">
+                <unique ans="n"/> I WANT TO TALK ABOUT SOMETHING WITH YOUR FATHER.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Hwang Dong-Suk">
+                <unique ans="n"/> WE'LL GIVE YOU A CHANCE IF YOU...
+            </bubble>
+            <bubble type="speech" spNum="19" who="Hwang Dong-Suk">
+                <unique ans="n"/> KILL SUNG JIN-WOO.
+            </bubble>
+            <bubble type="speech" spNum="20" who="Yoo Jin-Ho">
+                <unique ans="n"/> WHAT?!
+            </bubble>
+            <bubble type="speech" spNum="21" who="Hwang Dong-Suk">
+                <unique ans="n"/> KILL SUNG JIN-WOO AND JOIN OUR GROUP.
+            </bubble>
+            <bubble type="speech" spNum="22" who="Hwang Dong-Suk">
+                <unique ans="n"/> THAT'S THE ONLY WAY YOU'LL LIVE.
+            </bubble>
+            <bubble type="speech" spNum="23" who="Hwang Dong-Suk">
+                <unique ans="n"/> OTHERWISE YOU'LL BOTH DIE BY OUR HANDS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="24" who="Hwang Dong-Suk">
+                <unique ans="n"/> WHY HESITATE?
+            </bubble>
+            <bubble type="speech" spNum="25" who="Hwang Dong-Suk">
+                <unique ans="n"/> NOBODY WILL KNOW WHAT HAPPENED INSIDE THE DUNGEON ANYWAY.
+            </bubble>
+            <bubble type="speech" spNum="26" who="Hwang Dong-Suk">
+                <unique ans="n"/> ARE YOU PERHAPS SCARED OF AN E-RANKER
+            </bubble>
+            <bubble type="speech" spNum="27" who="Yoo Jin-Ho">
+                <unique ans="n"/> S... SIR.
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="5"/> IT'S OKAY.
+            </bubble>
+            <caption type="thought" thtNum="4" who="Sung Jin-Woo">WHAT FOOLOSH THOUGHTS...</caption>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S A GIVEN THAT I'LL BE BETRAYED BECAUSE I'M WEAK.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="30" who="Hwang Dong-Suk">
+                <unique ans="n"/> WHAT'S THIS?
+            </bubble>
+            <bubble type="speech" spNum="31" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU'RE GOING TO TAKE HIS SIDE AND FIGHT US?
+            </bubble>
+            <bubble type="speech" spNum="32" who="Jo Gyu-Hwan">
+                <unique ans="n"/> DONG-SUK, WHAT SHOULD WE DO?
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S A BIT OF A WASTER TO KILL THE SON OF A RICH FAMILY...
+            </bubble>
+            <bubble type="speech" spNum="33" who="Hwang Dong-Suk">
+                <unique ans="n"/> WE HAVE TO TAKE CARE EOF THE WEAK FIRST.
+            </bubble>
+            <bubble type="speech" spNum="34" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU TWO,
+            </bubble>
+            <bubble type="speech" spNum="35" who="Hwang Dong-Suk">
+                <unique ans="n"/> HAVE YOU EVER KILLED A HUMAN?
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="7">
+            <caption type="narration"> [AN EMMERGENCY QUEST HAS BEEN ISSUED.]</caption>
+            <caption type="narration"> [EMERGENCY QUEST: KILL THE ENEMIES!]</caption>
+            <caption type="narration"> [THERE ARE ENTITIES NEARBY THAT INTEND TO MURDER THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY.]</caption>
+            <caption type="narration"> [IF THIS QUEST IS NOT COMPLETED A PENALTY WILL BE ISSUED AS A RESULT.]</caption>
+            <caption type="narration"> [ENEMIES REQUIRED TO BE KILLED:8 ENEMIES KILLED: 0]</caption>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT IS THIS?!
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM SUDDENLY!!!
+            </bubble>
+            <caption type="narration"> QUEST INFO [EMERGENCY QUEST: KILL THE ENEMIES] THERE ARE ENTITIES NEARBY                                            THAT INTEND TO MURDER THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY. IF                                            THIS QUEST IS NOT COMPLETED YOUR HEART WILL STOP. ENEMIES REQUIRED TO BE                                            KILLED:8 ENEMIES KILLED: 0
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="36" who="Yoo Jin-Ho">
+                <unique ans="n"/> SIR!
+            </bubble>
+            <bubble type="speech" spNum="37" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOO JIN-HO! DON'T WORRY ABOUT THE DEAD AND COME OVER HERE.
+            </bubble>
+            <bubble type="speech" spNum="38" who="Yoo Jin-Ho">
+                <unique ans="n"/> Y... YOU MURDERERS...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <caption type="thought" thtNum="8" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="9" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="10" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="11" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="12" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="13" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="14" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="15" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="16" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="17" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="18" who="Sung Jin-Woo"> WHY</caption>
+            <caption type="thought" thtNum="19" who="Sung Jin-Woo"> WHY</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <caption type="thought" thtNum="20" who="Sung Jin-Woo"> WHY DID I FORGET THAT?</caption>
+            <caption type="thought" thtNum="21" who="Sung Jin-Woo"> THIS PLACE</caption>
+            <caption type="thought" thtNum="22" who="Sung Jin-Woo"> FOCUSES ON THE SURVIVAL OF THE FITTEST MORE                                                                         THAN ANYWHERE ELSE
+            </caption>
+            <caption type="thought" thtNum="23" who="Sung Jin-Woo"> YES...</caption>
+            <caption type="thought" thtNum="24" who="Sung Jin-Woo"> MY THINKING WAS WRONG UNTIL NOW.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> THE MANY TIMES, 
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> THE MANY TIMES I ENTERED DUNGEONS...
+            </bubble>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I STEPPED PAST MY LIMIT,
+            </bubble>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> HEALED,
+            </bubble>
+            <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> AND ENTERED A DUNGEON AGAIN...
+            </bubble>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> I ALWAYS MISTOOK THIS PALCE FOR A SAFE ONE.
+            </bubble>
+            <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> ENEMY.
+            </bubble>
+            <bubble type="thought" thtNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM IS FORCING ME TO MURDER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <caption type="narration">THREAT</caption>
+            <bubble type="thought" thtNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> KILL IF YOU DON'T WANT TO BE KILLED?
+            </bubble>
+            <bubble type="thought" thtNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> WOULDN'T IT BE AKWARD IF I DIE?
+            </bubble>
+            <bubble type="thought" thtNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS ISN'T A COINCIDENCE, NOR GOODWILL.
+            </bubble>
+            <bubble type="thought" thtNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS WHAT THE SYSTEM NEEDS.
+            </bubble>
+            <caption type="information">A STRONG SUNG JIN-WOO</caption>
+            <caption type="information">[HP : 1360/2600]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="thought" thtNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT GOING TO MAKE ME STRONG.
+            </bubble>
+            <bubble type="speech" spNum="39" who="Jin-Suk">
+                <unique ans="y" uniNum="6"/>HUH, THAT GUY IS ALIVE?
+            </bubble>
+            <bubble type="thought" thtNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> I SAW THAT IT WANTED ME TO E STRONG.
+            </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S GREAT THAT IT'S CLEAR.
+            </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM USES ME,
+            </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> AND I USE THE SYSTEM.
+            </bubble>
+            <bubble type="speech" spNum="43" who="Suk-Min">
+                <unique ans="y" uniNum="7"/> GYU-HWAN HAS YOUR SKILL DETERIORATED?
+            </bubble>
+            <bubble type="speech" spNum="44" who="Park Ji-Ho">
+                <unique ans="y" uniNum="8"/> HOW EMBARRASSING, HE SHOULD BE ABLE TO KILL AN E-RANKER IN ONE SHOT.
+            </bubble>
+            <bubble type="speech" spNum="45" who="Hwang Dong-Suk">
+                <unique ans="n"/> GYU-HWAN, YOU SHOULD HAAVE DONE IT SERIOUSLY.
+            </bubble>
+            <bubble type="speech" spNum="46" who="Jo Gyu-Hwan">
+                <unique ans="n"/> I... I GUESS SO
+            </bubble>
+            <bubble type="thought" thtNum="39" who="Jo Gyu-Hwan">
+                <unique ans="n"/> I DEFINITELY PUT MY ALL INTO THAT MAGIC ATTACK.
+            </bubble>
+            <caption type="thought" thtNum="40" who="Jo Gyu-Hwan">I PUT IN A LOT OF MAGICAL ENERGY BUT HOW DID IT                                                                     TURN OUT THIS WAY?
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <caption type="thought" thtNum="41" who="Jo Gyu-Hwan"> WAS MY AIM OFF? </caption>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/>YOU PLAYED AROUND WITH A PERSON'S LIFE, SO ARE YOU READY TO FACE THE CONSEQUENCES?
+            </bubble>
+            <bubble type="speech" spNum="48" who="Lee Chul-Jin">
+                <unique ans="y" uniNum="9"/>WHAT IS THIS BASTARD SAYING?
+            </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> IF YOU GUYS ARE HUNTERS,
+            </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M SAYING YOU SHOULD BE READY TO BECOME HUNTED.
+            </bubble>
+            <bubble type="speech" spNum="50" who="Goo Jun-Tae">
+                <unique ans="y" uniNum="10"/> SIR, I'LL TAKE CARE OF HIM.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="51" who="Goo Jun-Tae">
+                <unique ans="n"/> IT LOOKS LIKE YOU DON'T UNDERSTAND THIS SITUATION VERY WELL.
+            </bubble>
+            <bubble type="speech" spNum="52" who="Goo Jun-Tae">
+                <unique ans="n"/> HM?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="53" who="Goo Jun-Tae">
+                <unique ans="n"/> AH...
+            </bubble>
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> ONE
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <caption type="information">ENEMIES REQUIRED TO BE KILLED : 7 ENEMIES KILLED : 1</caption>
+            <bubble type="speech" spNum="55" who="others">
+                <unique ans="n"/> J-JUN-TAE!
+            </bubble>
+            <bubble type="speech" spNum="56" who="others">
+                <unique ans="n"/> W-WHAT?
+            </bubble>
+            <bubble type="speech" spNum="57" who="others">
+                <unique ans="n"/> THAT BASTARD, WHEN DID HE?!
+            </bubble>
+            <bubble type="speech" spNum="58" who="others">
+                <unique ans="n"/> WHERE DID HE GET THE KNIFE?!
+            </bubble>
+            <bubble type="thought" thtNum="42" who="Hwang Dong-Suk">
+                <unique ans="n"/> NO MATTER HOW UNGUARDED, JUN-TAE WAS STILL A D-RANK.
+            </bubble>
+            <bubble type="thought" thtNum="42" who="Hwang Dong-Suk">
+                <unique ans="n"/> HOW DID AN E-RANKER...?!
+            </bubble>
+        </page>
+        
+    </body>
+</chapter>
+<!-- 17 PAGES, 42 INSTANCES OF THOUGHT, 58 INSTANCES OF SPEECH, AND 10 UNIQUE SPEAKERS -->
