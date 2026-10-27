@@ -1,0 +1,6 @@
+count(//pageNum)
+count(//spNum)
+count(//thtNum)
+count(//uniNum)
+
+These can be used to properly number those 4 attributes that we want to track.

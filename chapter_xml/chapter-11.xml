@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="11">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <caption type="information">ALARM [WELCOME, PLAYER]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> A DREAM...?
+            </caption>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">WAS IT A DREAM?</caption>
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">A HOSPITAL...</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="speech" spNum="1" who="Woo Jin-Chul">
+                <unique ans="y" uniNum="2"/>ARE YOU FINALLY AWAKE NOW?
+            </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> WHO ARE YOU?
+            </bubble>
+            <bubble type="speech" spNum="3" who="Woo Jin-Chul">
+                <unique ans="n"/>I'M SORRY IF WE SUPRISED YOU.
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> THE KOREAN HUNTER'S GUILD'S INSPECTORS...
+            </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DO THE INSPECTORS WANT TO SEE ME...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> I WAS ASLEEP FOR THREE DAYS?!?
+            </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENED TO MISS JU-HEE AND MR. SONG CHI-YUL?
+            </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE THEY SAFE?
+            </bubble>
+            <bubble type="speech" spNum="9" who="Woo Jin-Chul">
+                <unique ans="n"/>YES THEY'RE SAFE, BUT...
+            </bubble>
+            <bubble type="speech" spNum="10" who="Woo Jin-Chul">
+                <unique ans="n"/>HUNTER SONG CHI-YUL'S MISSING ARM WILL MOST LIKELY IMPEDE HIS WORK FROM NOW ON, SO HE MAY RETIRE IF HE CHOOSES TO.
+            </bubble>
+            <bubble type="speech" spNum="11" who="Woo Jin-Chul">
+                <unique ans="n"/>HUNTER LEE JU-HEE IS STILL GETTING TREATED DUE TO HER EXTREME TRAUMA.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Woo Jin-Chul">
+                <unique ans="n"/>IT'S UNCERTAIN IF THEY WILL STAY AS HUNTERS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="13" who="Inspector">
+                <unique ans="y" uniNum="3"/>AND OTHER HUNTERS LIKE KIM SANG-SIK...
+            </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> NO...
+            </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> IT''S FINE, THAT'S ENOUGH.
+            </bubble>
+            <bubble type="speech" spNum="16" who="Woo Jin-Chul">
+                <unique ans="n"/> THE NUMBER OF PEOPLE THAT SURVIVED THE DOUBLE LAIR IS SIX.
+            </bubble>
+            <bubble type="speech" spNum="17" who="Woo Jin-Chul">
+                <unique ans="n"/> ALTHOUGH HUNTERS ARE IN DANGER EVERY TIME THEY HUNT, IT'S TATE FOR A MASSACRE LIKE THIS TO OCCUR.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Woo Jin-Chul">
+                <unique ans="n"/> WHEN THE INSPECTORS AND THE WHITE TIGER GUILD REACHED THE SCENE,
+            </bubble>
+            <bubble type="speech" spNum="19" who="Woo Jin-Chul">
+                <unique ans="n"/> THEY WERE ALL GONE.
+            </bubble>
+            <bubble type="speech" spNum="20" who="Woo Jin-Chul">
+                <unique ans="n"/> IN THAT ROOM WAS ONLY YOU, LYING ON THE ALTAR- NO STATUES OR ANYTHING THE OTHERS DESCRIBED WERE FOUND.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT CAN'T BE...!
+            </bubble>
+            <bubble type="speech" spNum="22" who="Woo Jin-Chul">
+                <unique ans="n"/> WE COULDN'T BELIEVE IT EITHER.
+            </bubble>
+            <bubble type="speech" spNum="23" who="Woo Jin-Chul">
+                <unique ans="n"/> IF THE SURVIVORS' TESTIMONIES HAD DIFFERED BY EVEN A LITTLE,
+            </bubble>
+            <bubble type="speech" spNum="24" who="Woo Jin-Chul">
+                <unique ans="n"/> OR IF SOME OF THE BODY PARTS OF THE DECEASED WEREN'T FOUND THERE, WE WOULD'VE THOUGHT OF A DIFFERENT EXPLANATION.
+            </bubble>
+            <bubble type="speech" spNum="25" who="Woo Jin-Chul">
+                <unique ans="n"/> THIS IS JUST OUR THEORY, BUT...
+            </bubble>
+            <bubble type="speech" spNum="26" who="Woo Jin-Chul">
+                <unique ans="n"/> WE BELIEVE YOU HAVE RECIEVED THE "DOUBLE AWAKENING"
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> DOUBLE AWAKENING?!
+            </bubble>
+            <caption type="information">A HUNTER'S STATS ARE SET WHEN THEY RECIEVE THE "AWAKENING" OR POWER.</caption>
+            <caption type="information">HOWEVER, SOME HUNTERS GET AWAKENED AGAIN AFTER THE FIRST TIME.</caption>
+            <caption type="information">THERE HAVE BEEN CASES OF C-RANKS PLOWING DIRECTLY TO AN A-RANK, OR A B-RANK SHOOTING STRAIGHT TO S-RANK.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="27" who="Inspector">
+                <unique ans="n"/> THIS IS THE MAGIC POWER DETECTOR.
+            </bubble>
+            <bubble type="speech" spNum="28" who="Inspector">
+                <unique ans="n"/> ALL YOU HAVE TO DO IS PLACE YOUR HAND ON THE MANA CRYSTAL.
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Woo Jin-Chul">
+                <unique ans="n"/> IF THERE WERE SUCH DEATH-LEVEL MONSTERS DESCIBED BY THE SURVIVORS, NORMAL HUNTERS WOULDN'T CUT IT.
+            </bubble>
+            <bubble type="thought" thtNum="6" who="Woo Jin-Chul">
+                <unique ans="n"/> ONLY BY GATHERING A-RANKS AND S-RANKS COULD THE SITUATION HAVE BEEN RESOLVED.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Woo Jin-Chul">
+                <unique ans="n"/> BUT ALL THOSE MONSTERS JUST DISAPPEARED...
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Woo Jin-Chul">
+                <unique ans="n"/> IT'S IMPOSSIBLE TO NOT SUSPECT THE POSSIBILITY OF HUNTER SUNG JIN-WOO RECEIVING A DOUBLE AWAKENING, SEEING THAT HE WAS THE ONLY SURVIVOR LEFT INSIDE.
+            </bubble>
+            <caption type="thought" thtNum="9" who="Woo Jin-Chul">HOWEVER...</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <caption type="thought" thtNum="10" who="Woo Jin-Chul">I GUESS TRASH IS TRASH THROUGH AND THROUGH.</caption>
+            <bubble type="thought" thtNum="11" who="Inspector">
+                <unique ans="n"/> EVEN THE LOWEST E-RANK IS AT LEAST A 70...
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S THE RESULT?
+            </bubble>
+            <bubble type="speech" spNum="30" who="Inspector">
+                <unique ans="n"/> IT LOOKS LIKE WE SUSPECTED YOU FOR NO REASON.
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> DAMN... NOTHING HUH?
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT AREN'T THOSE PEOPLE AWARE OF THAT?
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> COULD IT BE THAT THEY CAN'T SEE IT?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <caption type="thought" thtNum="15" who="Sung Jin-Woo">MY TORN LEG IS STILL THERE,</caption>
+            <caption type="thought" thtNum="16" who="Sung Jin-Woo">AND MY IMPALED CHEST IS BACK TO NORMAL,</caption>
+            <caption type="thought" thtNum="17" who="Sung Jin-Woo">I CAN'T TELL WHAT WAS A DREAM, AND WHAT WAS REALITY...</caption>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> SHOULD I HAVE TOLD THEM?
+            </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT I CAN SEE THIS...
+            </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> GUESS IT'S NOT A TOUCH SCREEN.
+            </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Ah">
+                <unique ans="y" uniNum="4"/> BROTHER, WHAT ARE YOU DOING?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="34" who="Sung Jin-Ah">
+                <unique ans="n"/> YOUR HEAD'S NOT HURT AS WELL, IS IT?
+            </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Ah">
+                <unique ans="n"/> DIDN'T I TELL YOU TO STOP GETTING INJURED?
+            </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Ah">
+                <unique ans="n"/> DO YOU KNOW HOW WORRIED I WAS?!
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> ...SORRY.
+            </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Ah">
+                <unique ans="n"/> THE OTHERS ALL RETURN FINE, SO WHY ARE YOU ALWAYS THE ONLY ONE GETTING INJURED!
+            </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> CAN'T BELIEVE I ALMOST LEFT HER BEHIND.
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT DOESN'T FEEL LIKE I'M OUT OF THIS DREAM YET, BUT...
+            </bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Ah">
+                <unique ans="n"/> UNDERSTAND? IF YOU GET HURT ONE MORE TIME I'M GONNA THROW AWAY STUDYING AND WORK INSTEADM SO YOU CAN QUIT BEING A HUNTER!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> JIN-AH.
+            </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> CAN YOU SEE THIS?
+            </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Ah">
+                <unique ans="n"/> WHAT?
+            </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> ...OH.
+            </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> WHEN THERE'S AN UNREAD MAIL IN A GAME,
+            </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW WOULD YOU READ IT?
+            </bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Ah">
+                <unique ans="n"/> YOU REALLY DIDN'T HURT YOUR HEAD, RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Ah">
+                <unique ans="n"/> WELL, YOU WOULD HAVE TO OPEN THE MAIL-BOX FIRST.
+            </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> OPEN THE MAILBOX?
+            </bubble>
+            <caption type="information">MESSAGE WELCOME, [PLAYER](UNREAD)[DAILY QUEST: PREPARING TO BECOME STRONG] HAS ARRIVED (UNREAD)</caption>
+            <bubble type="speech" spNum="49" who="Sung Jin-Ah">
+                <unique ans="n"/> WHAT, WHAT IS IT?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="50" who="Sung Jin-Ah">
+                <unique ans="n"/> I'LL BE GOING FOR NOW.
+            </bubble>
+            <bubble type="speech" spNum="51" who="Sung Jin-Ah">
+                <unique ans="n"/> LET'S GO.
+            </bubble>
+            <caption type="information">ALARM [THE SYSTEM WILL HELP THE 'PLAYER'S GROWTH.]</caption>
+            <caption type="information">ALARM [IF HE FAILS TO OBEY THE SYSTEMS ORDERS, THERE MAY BE A PENALTY.]</caption>
+            <caption type="information">ALARM [YOUR AWARDS HAVE ARIVED.]</caption>
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T UNDERSTAND WHAT THEY'RE SAYING.
+            </bubble>
+            <bubble type="speech" spNum="53" who="Sung Jin-Woo">
+                <unique ans="n"/> NOW THAT I THINK ABOUT IT, I REMEMBER SEEING SOMETHING SIMILAR WHEN I WAS LEFT ON THE ALTAR...
+            </bubble>
+            <caption type="information">ALARM [YOU HAVE COMPLETED ALL THE NECESSARY REQUIREMENTS OF THE SECRET QUEST 'COURAGE OF THE WEAK']</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <caption type="information">MESSAGE [DAILY QUEST: PREPARING TO BECOME STRONG] HAS ARRIVED (UNREAD)</caption>
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> PREPARING TO BECOME STRONG?
+            </bubble>
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo">
+                <unique ans="n"/> CHECK.
+            </bubble>
+            <caption type="information">QUEST DIRECTIONS</caption>
+            <caption type="information">DAILY QUEST - GETTING READY TO BECOME POWERFUL</caption>
+            <caption type="information">GOAL</caption>
+            <caption type="information">[INCOMPLETE] PUSH-UPS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] SIT-UPS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] SQUATS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] RUNNING [0/10km]</caption>
+            <caption type="information">WARNING- FAILING TO COMPLETE THIS DAILY QUEST WILL BRING A PUNISHMENT ASSOCIATED WITH THIS QUEST</caption>
+            <bubble type="speech" spNum="56" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHA... WHAT IS THIS...
+            </bubble>
+            <bubble type="speech" spNum="57" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS A JOKE RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="58" who="Sung Jin-Woo">
+                <unique ans="n"/> SOMEONE HOSPITALIZED DIESN'T EVEN HAVE THE STRENGTH TO DO THIS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="59" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL CHECK WHAT THIS IS,
+            </bubble>
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER I SLEEP...
+            </bubble>
+            <caption type="information">QUEST DIRECTIONS</caption>
+            <caption type="information">DAILY QUEST - GETTING READY TO BECOME POWERFUL</caption>
+            <caption type="information">GOAL</caption>
+            <caption type="information">[INCOMPLETE] PUSH-UPS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] SIT-UPS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] SQUATS [0/100]</caption>
+            <caption type="information">[INCOMPLETE] RUNNING [0/10km]</caption>
+            <caption type="information">WARNING- FAILING TO COMPLETE THIS DAILY QUEST WILL BRING A PUNISHMENT ASSOCIATED WITH THIS QUEST</caption>
+            <caption type="information">WARNING- FAILING TO COMPLETE THIS DAILY QUEST WILL BRING A PUNISHMENT ASSOCIATED WITH THIS QUEST</caption>
+            <caption type="information">ALARM [YOU HAVE NOT COMPLETED THE DAILY QUEST. YOU ARE NOW HEADING TOWARDS THE 'PENALTY ZONE' FOR A CERTAIN PERIOD OF TIME]</caption>
+            <bubble type="speech" spNum="61" who="Sung Jin-Woo">
+                <unique ans="n"/> E-EARTH-QUAKE?!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15"/>
+            
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="62" who="Sung Jin-Woo">
+                <unique ans="n"/> TH-THIS PLACE...!
+            </bubble>
+            <bubble type="speech" spNum="63" who="Sung Jin-Woo">
+                <unique ans="n"/> A DESERT!!
+            </bubble>
+            <bubble type="speech" spNum="64" who="Sung Jin-Woo">
+                <unique ans="n"/> NO WAY, IT WAS ACTUALLY ALL A DREAM?
+            </bubble>
+            <caption type="information">POISON-FANGED GIANT SAND CENTIPEDE</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <caption type="information">QUEST DIRECTIONS</caption>
+            <caption type="information">[PENALTY QUEST: SURVIVE.]</caption>
+            <caption type="information">GOAL: SURVIVE UNTIL THE TIME RUNS OUT.</caption>
+            <caption type="information">TIME RQUIRED: 4 HOURS TIME REMAINING: 3 H 59 MIN 57 SEC</caption>
+            <bubble type="speech" spNum="65" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE KIDDING RIGHT..?
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 17 PAGES, 65 INSATNCES OF SPEECH, 20 INSTANCES OF THOUGHT, 4 INSANCES UNIQUE SPEAKERS -->
