@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="12">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/>AHHHHHHHHHH
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <caption type="information">ALARM [PENALTY QUEST: SURVIVE.]</caption>
+            <caption type="information">GOAL: SURVIVE UNTIL THE TIME RUNS OUT. TIME REQUIRED: 4 HOURS TIME REMAINING 0H 0 MIN 7 SEC</caption>
+            <caption type="information">ALARM [YOU HAVE COMPLETED THE 'PENALTY' QUEST]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <caption type="information">ALARM [YOU HAVE COMPLETED THE 'PENALTY' QUEST]</caption>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> [PENALTY QUEST]?
+            </bubble>
+            <caption type="information">MESSAGE [YOUR REWARDS FOR COMPLETING THE PENALTY QUEST HAVE ARRIVED.] [WOULD YOU LIKE TO ACCEPT?]</caption>
+            <caption type="information">[ACCEPT] [REFUSE]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="3" who="nurseOne">
+                <unique ans="y" uniNum="2"/> OH MY GOSH! WHAT HAPPENED HERE?!
+            </bubble>
+            <bubble type="speech" spNum="4" who="nurseOne">
+                <unique ans="n"/> SOMEONE COME AND HELP, PLEASE
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="5" who="nurseTwo">
+                <unique ans="y" uniNum="3"/> YOU KNOW A PATIENT NAMED SUNG JIN-WOO? I HEARD THAT HE'S A HUNTER?
+            </bubble>
+            <bubble type="speech" spNum="6" who="nurseThree">
+                <unique ans="y" uniNum="4"/> AHH YEAH, YEAH. HE'S BEEN RUNNING EVERY DAY EVEN THOUGHT IT'S ONLY BEEN A COUPLE DAYS SINCE HE WOKE UP.
+            </bubble>
+            <bubble type="speech" spNum="7" who="nurseTwo">
+                <unique ans="n" /> WHAT DID THE DOCTOR SAY?
+            </bubble>
+            <bubble type="speech" spNum="8" who="nurseThree">
+                <unique ans="n" /> THE DOCTOR SAID THAT HUNTERS HEAL FASTER THAN NORMAL PEOPLE, SO LIGHT EXERCISE SHOULD BE FINE.
+            </bubble>
+            <bubble type="speech" spNum="9" who="nurseTwo">
+                <unique ans="n" /> LOOK, HE'S EVEN RUNNING RIGHT NOW.
+            </bubble>
+            <bubble type="speech" spNum="10" who="nurseTwo">
+                <unique ans="n" /> IF IT'S LIGHT EXERCISE...
+            </bubble>
+            <bubble type="speech" spNum="11" who="nurseTwo">
+                <unique ans="n" /> IT'S REALLY OKAY RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="12" who="nurseTwo">
+                <unique ans="n" /> HOW MANY HOURS HAS HE BEEN RUNNING?
+            </bubble>
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">IT'S BEEN 4 DAYS SINCE I WOKE UP.</caption>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">THERE ARE A FEW THINGS THAT I FOUND OUT.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">FIRST,</caption>
+            <caption type="thought" thtNum="4" who="Sung Jin-Woo">THIS THING IN FRONT OF MY EYES IS NOT AN ILLUSION.</caption>
+            <caption type="information">ALARM [RUNNING] 10KM: COMPLETE (10/10km)</caption>
+            <caption type="thought" thtNum="5" who="Sung Jin-Woo">ALTHOUGH NOBODY ELSE CAN, I CAN SEE IT CLEARLY IN FRONT OF MY EYES.</caption>
+            <caption type="information">QUEST DIRECTIONS</caption>
+            <caption type="information">GOAL</caption>
+            <caption type="information">PUSH-UPS [100/100]</caption>
+            <caption type="information">SIT-UPS [100/100]</caption>
+            <caption type="information">SQUATS [100/100]</caption>
+            <caption type="information">RUNNING [10/10km]</caption>
+            <caption type="information">QUEST REWARDS CHOOSE YOUR REWARD</caption>
+            <caption type="information">[YOU MAY CHOOSE ONE OF THE REWARDS BELOW.]</caption>
+            <caption type="information">REWARD#1. STATUS RECOVERY</caption>
+            <caption type="information">REWARD#2. STAT POINTS +3</caption>
+            <caption type="information">REWARD#3. RANDOM  BOX +1</caption>
+            <caption type="information">WILL YOU ACCEPT?</caption>
+            <caption type="information">[ACCEPT] [REJECT]</caption>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> ACCEPT STATUS RECOVERY.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <caption type="thought" thtNum="6" who="Sung Jin-Woo">MAGIC THAT CAN HEAL YOUR FATIGUE AFTER EXERCISING.</caption>
+            <caption type="thought" thtNum="7" who="Sung Jin-Woo">THE FATIGUE THAT NESTED IN MY WHOLE BODY ACTUALLY DISAPPEARS AS IF IT WASN'T EVEN THERE IN THE FIRST PLACE.</caption>
+            <caption type="thought" thtNum="8" who="Sung Jin-Woo">ASIDE FROM THAT, THERE ARE ASLO STAT POINTS AND THE RANDOM BOX ITEMS. YOU CAN INCREASE ANY ONE OF YOUR CHARACTER STATS AT WILL AS LONG AS YOU HAVE STAT POINTS.</caption>
+            <caption type="information">ALARM YOU HAVE RECIEVED THE [RANDOM BOX]</caption>
+            <caption type="information">           STATUS
+                                         NAME: SUNG     JIN-WOO LEVEL:1
+                                         JOB: NONE      FATIGUE:0
+                                         TITLE: NONE
+                                         HP: 100
+                                         MP: 10
+                                         STRENGTH:16    VITALITY:10
+                                         AGILITY: 10    INTELLIGENCE:10
+                                         SENSE:10
+                                                REMAINING POINTS: 3</caption>
+            <caption type="thought" thtNum="9" who="Sung Jin-Woo">I GET STRONGER AS I INCREASE MY STATS, OF COURSE, INCREASING LEVELS WOULD DO THE SAME.</caption>
+            <caption type="thought" thtNum="10" who="Sung Jin-Woo">STATUS, SKILLS, ITEMS, INVENTORY, ITEM STORAGE,</caption>
+            <caption type="thought" thtNum="11" who="Sung Jin-Woo">IT'S LIKE A GAME.</caption>
+            <caption type="thought" thtNum="12" who="Sung Jin-Woo">BEING CONTROLLED BY SOME STRANGE PHENOMENON...</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHA... WHAT'S ACTUALLY HAPPENING HERE...
+            </bubble>
+            <caption type="information">           STATUS
+                NAME: SUNG     JIN-WOO LEVEL:1
+                JOB: NONE      FATIGUE:0
+                TITLE: NONE
+                HP: 100
+                MP: 10
+                STRENGTH:16    VITALITY:10
+                AGILITY: 10    INTELLIGENCE:10
+                SENSE:10
+                REMAINING POINTS: 3</caption>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> CAN I TAKE A LEAVE FOR TODAY?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="16" who="receptionist">
+                <unique ans="y" uniNum="5"/> IT'S FINE, BUT WHERE ARE YOU GOING?
+            </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO TAKE CARE OF SOME BUISNESS OUTSIDE.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S TIME TO FIGURE OUT WHAT THIS DOES.
+            </bubble>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THE RANDOM BOX THAT COMES OUT EVERY TIME I CLEAR THE DAILY QUEST. ALTHOUGH SOMETIMES USELESS ITEMS LIKE BANDAGES AND PENS COME OUT... THIS SEEMS DIFFERENT.
+            </bubble>
+            <caption type="information">[ITEM: DUNGEON KEY]
+                                         ITEM CLASS: E
+                                         TYPE: KEY
+                                         A KEY THAT ALLOWS YOU TO CREATE AN INSTANT DUNGEON. YOU MAY USE THIS IN THE 3RD ENTERANCE OF HAPJUNG STATION.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> A KEY THAT CAN OPEN INSTANT DUNGEONS...
+            </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> QUESTS, THE STATUS WINDOW, REWARDS... COULD IT BE THAT ALL OF THIS...
+            </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> IS BECAUSE OF THE DOUBLE AWAKENING?
+            </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> OR, PERHAPS A PROCEDURE TOWARDS THE DOUBLE AWAKENING?
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> IT THAT'S THE CASE, IT'S WORTH TRYING OUT!
+            </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> THE WORLD'S WEAKEST RECIEVING A DOUBLE AWAKENING, HUH...
+            </bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> OTHER PEOPLE WOULD LAUGH IF THEY HEARD.
+            </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M CONFIDENT IN MY ABILITY TO RUN,
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> SO IF IT BECOMES TOO DANGEROUS LIKE ALST TIME, I'LL RUN AWAY NO MATTER WHAT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <caption type="information">ALARM [YOU HAVE ENTERED THE INSTANT DUNGEON]</caption>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> NO WAY... THE ENTRANCE GOT BLOCKED?!
+            </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THIS SOME OTHER DIMENSION...?
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S DIFFERENT FROM NORMAL DUNGEONS.
+            </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> I'VE NEVER SEEN IT BEFORE, BUT IT SHOULD BE SIMILAR TO THE RED GATE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT DO I DO NOW... I WAS PLANNING TO RUN IF SOMETHING BAD HAPPENED.
+            </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> IF THEY BLOCK THE EXIT THEN I CAN'T EVEN RUN AWAY!
+            </bubble>
+            <caption type="information">ALARM [YOU CANNOT LEAVE THE DUNGEON. EITHER KILL THE BOSS OR USE THE RETURN CRYSTAL]</caption>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU ACTUALLY CAN'T LEACE UNLESS YOU KILL THE BOSS...
+            </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> IT WAS ONLY A FEW DAYS AGO WHEN I STRUGGLED WITH E-RANK MONSTERS, AND NOW I'M SUPPOSED TO CLEAR THIS DUNGEON BY MYSELF?
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> DAMN... YOU GOTTA BE KIDDING ME...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M SERIOUSLY EXPECTED...
+            </bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> TO MANAGE THIS WITHOUT A PARTY?!
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 15 PAGES, 39 INSTANCES OF SPEECH, 12 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->
