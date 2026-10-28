@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="9">
+    <title> Solo Leveling chapter nine</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Others"> <unique ans="n"/>ALL IF THEM JUST STARTED MOVING!!</bubble>
+             </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="speech" spNum="2" who="Others"> <unique ans="n"/>W-WHAT ARE WE SUPPOSED DO NOW?</bubble>
+            <bubble type="speech" spNum="3" who="Kim"> <unique ans="y" uniNum="1"/>THE FUCK IS THIS?! SHIT!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3"></page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo"> <unique ans="y" uniNum="2"/>MISS JU-HEE, YOU CAN'T CLOSE YOUR EYES!</bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo"> <unique ans="n"/>IT'S THE SAME AS THE GAME WE PLAYED WHEN WE WERE YOUNG.</bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo"> <unique ans="n"/>THEY COME CLOSER WHEN YOU TAKE YOUR EYES OFF OF THEM!</bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo"> <unique ans="n"/>EVERYONE, DO NOT TAKE YOUR EYES OFF OF THE STATUES!</bubble>
+            <bubble type="speech" spNum="8" who="Others"> <unique ans="n"/>UUUU...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="9" who="Others"> <unique ans="n"/>AHHHHHCK!!!</bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo"> <unique ans="n"/>NO!!!</bubble>
+            <bubble type="speech" spNum="11" who="Song Chi-Yul"> <unique ans="y" uniNum="3"/>HEY!!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="12" who="Kim"> <unique ans="n"/>W-What?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="13" who="Kim"> <unique ans="n"/>MR.SUNG, HOW'S THIS POSSIBLE?!</bubble>
+            <bubble type="speech" spNum="14" who="Kim"> <unique ans="n"/>SHE'S STILL ALIVE?</bubble>
+            <bubble type="speech" spNum="15" who="Song Chi-Yul"> <unique ans="n"/>THE DOOR CLOSED A LITTLE...</bubble>
+            <bubble type="speech" spNum="16" who="Kim"> <unique ans="n"/>SHE WENT THROUGH THE DOOR!!</bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>WHAT? WHAT IS THIS?</bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>A BULE FLAME DISAPPEARS AFTER A SET AMOUNT OF TIME.</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>ONE OF THE RED FLAMES, THAT APPEARED BASED ON THE NUMBER OF PEOPLE ON THE ALTAR, DIFAPPEARED AS SOON AS SHE LEFT,</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>THE FIRST COMMANDMENT IS WORSHIPING THE LORD,</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>THE SECOND IS TO PRAISE THE LORD,</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>AT LEAST THE STEPS SO FAR WEREN'T RIDDLES LIKE THE SPHINX WOULD ASK.</bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>BUT THE OPEN DOOR IS A TRAP</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>A FALSE HOPE,</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>WHEN ALL THE RED FLAMES APPEARED, THE DOOR OPENED.</bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>WHILE IT CLOSES JUST A LITTLE EVERY TIME A RED FLAME DISAPPEARS...</bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo"> <unique ans="n"/>THE DOOR WILL DEFINITELY CLOSE WHEN ALL THE RED FLAMES ARE GONE!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo"> <unique ans="n"/>'PROVE YOUR FAITH' MEANS THAT EVEN IN</bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo"> <unique ans="n"/>TERROR AND DANGER,</bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo"> <unique ans="n"/>WITH SWEEI TEMPTATIONS,</bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo"> <unique ans="n"/>YOU KEEP YOUR FAITH</bubble>
+            <bubble type="speech" spNum="17" who="Others"> <unique ans="n"/>S-SORRY,</bubble>
+            <bubble type="speech" spNum="18" who="Others"> <unique ans="n"/>I DON'T THINK I CAN STAY ANY LONGER EITHER</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo"> <unique ans="n"/>NO!!!</bubble>
+            <bubble type="speech" spNum="20" who="Kim"> <unique ans="n"/>...UH, WHAT?!</bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo"> <unique ans="n"/>DON'T MOVE! WE CAN'T HAVE MORE PEOPLE LEAVING!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo"> <unique ans="n"/>ANY LESS AND WE WON'T HAVE ENOUGH PEOPLE TO LOOK AT ALL THE STATUES! WE WILL DIE!!</bubble>
+            <bubble type="speech" spNum="22" who="Song Chi-Yul"> <unique ans="n"/>MR.SUNG, WHAT'S HAPPENING?! PLEASE EXPLAIN!</bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo"> <unique ans="n"/>ALL WE HAVE TO DO IS STAY AND LOOK AT THE STATUES</bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo"> <unique ans="n"/>UNTILL THE BLUE FLAMES DISAPPEAR!</bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo"> <unique ans="n"/>THE BLUE FLAMES ARE A TIMER</bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo"> <unique ans="n"/>WE'LL ALL BE ABLE TO LEAVE ONCE THEY ALL DISAPPEAR.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="27" who="Kim"> <unique ans="n"/>HEY, MR.SUNG</bubble>
+            <bubble type="speech" spNum="28" who="Kim"> <unique ans="n"/>YOU MAY BE RIGHT...</bubble>
+            <bubble type="speech" spNum="29" who="Kim"> <unique ans="n"/>BUT COULDN'T THE DOOR JUST ONCE CLOSE COMPLETELY WHEN THE BLUE FLAMES RUN OUT?</bubble>
+            <bubble type="speech" spNum="30" who="Kim"> <unique ans="n"/>ARE YOU CERTAIN?</bubble>
+            <bubble type="speech" spNum="31" who="Kim"> <unique ans="n"/>TO BE HONEST, I NEVER IMAGINED SOMEONE AS WEAK AS YOU COULD BE SO HELPFUL</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="32" who="Kim"> <unique ans="n"/>I ALWAYS LOOKED DOWN ON YOU,</bubble>
+            <bubble type="speech" spNum="33" who="Kim"> <unique ans="n"/>NEVER REALLY EXPECTING ANYTHING FROM YOU, EVEN WHEN YOU JOINED OUR PARTY,</bubble>
+            <bubble type="speech" spNum="34" who="Kim"> <unique ans="n"/>A LOT OF PEOPLE DIED WHEN WE ENTERED THIS ROOM...</bubble>
+            <bubble type="speech" spNum="35" who="Kim"> <unique ans="n"/>BUT THE ONES ALIVE ARE BECAUSE OF YOU</bubble>
+            <bubble type="speech" spNum="36" who="Kim"> <unique ans="n"/>ALL BECAUSE YOU MANAGED TO SOLVE THE RIDDLES HERE.</bubble>
+            <bubble type="speech" spNum="37" who="Kim"> <unique ans="n"/>I'M ALSO ALIVE BECAUSE OF YOU</bubble>
+            <bubble type="speech" spNum="38" who="Kim"> <unique ans="n"/>THANK YOU</bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo"> <unique ans="n"/>MR.KIM SANG-SHIK...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="40" who="Kim"> <unique ans="n"/>BUT,</bubble>
+            <bubble type="speech" spNum="41" who="Kim"> <unique ans="n"/>BUT,</bubble>
+            <bubble type="speech" spNum="42" who="Kim"> <unique ans="n"/>I ALSO HAVE A FAMILY.</bubble>
+            <bubble type="speech" spNum="43" who="Kim"> <unique ans="n"/>I DON'T WANT TO DIE...</bubble>
+            <bubble type="speech" spNum="44" who="Kim"> <unique ans="n"/>I'M SORRY...</bubble>
+            <bubble type="speech" spNum="45" who="Kim"> <unique ans="n"/>I DON'T THINK I CAN STAY HERE ANY LONGER</bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo"> <unique ans="n"/>MISTER!!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <bubble type="speech" spNum="47" who="Kim"> <unique ans="n"/>I'M SORRY</bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo"> <unique ans="n"/>MISTER!!!</bubble>
+            <caption type="narration" who="Sung Jin-Woo">THANK YOU?</caption>
+            <caption type="narration" who="Sung Jin-Woo">DON'T MAKE ME LAUGH</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="16">
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo"> <unique ans="n"/>UUUK...</bubble>
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo"> <unique ans="n"/>HUK...</bubble>
+            <caption type="narration" who="Sung Jin-Woo">YOU...</caption>
+            <caption type="narration" who="Sung Jin-Woo">YOU RUNNING FROM HERE</caption>
+            <caption type="narration" who="Sung Jin-Woo">WILL RESULT IN OUR DEATHS</caption>
+        </page>
+    </body>
+</chapter>
+<!--16 pages, 15 thought bubles 50 speech bubles, and 3 uni speakers -->

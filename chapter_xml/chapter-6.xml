@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="4">
+    <title> Solo Leveling chapter six</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>SIR, THERE'S A RULE IN THIS DUNGEON.</bubble>
+            <bubble type="speech" spNum="2" who="Song Chi-Yul"> <unique ans="y" uniNum="2"/>WHAT ARE YOU DOING?!</bubble>
+            <bubble type="speech" spNum="3" who="Song Chi-Yul"> <unique ans="n"/>THOSE EYES AREN'T THE EYES OF A MAN WHO WISHES TO DIE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>HE STARTS TO ATTACK IF YOU MOVE PAST A CERTAIN HEIGHT.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>I FINALLY UNDERSTAND THE MEANING OF THE FIRST COM-MANDMENT.</bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo"> <unique ans="n"/>EVERYONE!!! BOW DOWN TO THE STATUE!!!</bubble>
+            <bubble type="speech" spNum="5" who="Kim"> <unique ans="y" uniNum="3"/>SUNG JIN-WOO, HAVE YOU GONE MAD?!</bubble>
+            <bubble type="speech" spNum="6" who="Bak"> <unique ans="y" uniNum="4"/>WHAT ARE YOU TALKING ABOUT?!</bubble>
+            <bubble type="speech" spNum="7" who="others"> <unique ans="n"/>HUH?</bubble>
+            <bubble type="speech" spNum="8" who="Song Chi-Yul"> <unique ans="n"/>YOU FIGURED SOMETHING OUT, RIGHT?</bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo"> <unique ans="n"/>YES.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo"> <unique ans="n"/>HE ATTACKS IF YOU MOVE PAST A CERTAIN HEIGHT, AND THEREFORE DOESN'T ATTACK WHEN YOU BOW DOWN LOW ENOUGH.</bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo"> <unique ans="n"/>"WORSHIP THE LORD", MEANS TO LITERALLY BOW DOWN AND WORSHIP HIM.</bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo"> <unique ans="n"/>SO WHEN YOU BOW DOWN TO HIM...</bubble>
+            <bubble type="speech" spNum="13" who="Song Chi-Yul"> <unique ans="n"/>THIS DIDN'T COME FROM JUST A GUT FEELING, RIGHT?</bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo"> <unique ans="n"/>...IT DID, FOR NOW.</bubble>
+            <bubble type="speech" spNum="15" who="Song Chi-Yul"> <unique ans="n"/>WELL... THERE'S NOTHING ELSE WE CAN DO RIGHT NOW.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>WE GET TO LIVE?</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>WE CAN FINALLY GET OUT OF HERE..?</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>BY JUST BOWING?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>WH-WHAT'S WITH THAT FACE...!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>HIS EXPRESSION...</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>IT CHANGED?!</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>HOW MANY HAS HE ATTACKED BEFORE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>HOW MANY ARE STILL ALIVE?</bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo"> <unique ans="n"/>HOW LONG...</bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo"> <unique ans="n"/>HOW LONG DO WE HAVE TO DO THIS?</bubble>
+            <bubble type="speech" spNum="16" who="Bak"> <unique ans="n"/>...LOOKS LIKE HE STOPPED ATTACKING.</bubble>
+            <bubble type="speech" spNum="17" who="Kim"> <unique ans="n"/>NO WAY...</bubble>
+            <bubble type="speech" spNum="18" who="Kim"> <unique ans="n"/>DON'T YOU THINK HE'S GOING TO TRY SOMETHING ELSE NOW?</bubble>
+            <bubble type="speech" spNum="19" who="Bak"> <unique ans="n"/>IS EVERYTHING ACTUALLY GOING TO BE FINE NOW BECAUSE WE BOWED TO HIM?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="20" who="Kim"> <unique ans="n"/>H-H-HEY!! IF YOU STAND UP LIKE THAT..!</bubble>
+            <bubble type="speech" spNum="21" who="Bak"> <unique ans="n"/>L-LOOK!</bubble>
+            <bubble type="speech" spNum="22" who="Bak"> <unique ans="n"/>THE ATTACKS STOPPED!!</bubble>
+            <bubble type="speech" spNum="23" who="Others"> <unique ans="n"/>IT'S TRUE!</bubble>
+            <bubble type="speech" spNum="24" who="Others"> <unique ans="n"/>HE ISN'T DOING ANYTHING!!</bubble>
+            <bubble type="speech" spNum="25" who="Others"> <unique ans="n"/>NO WAY, IS IT REALLY OVER?!</bubble>
+            <bubble type="speech" spNum="26" who="Others"> <unique ans="n"/>WE SURVIVED!</bubble>
+            <bubble type="speech" spNum="27" who="Others"> <unique ans="n"/>WE GET TO LIVE!!!</bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo"> <unique ans="n"/>NO...</bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo"> <unique ans="n"/>NOT YET...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="28" who="Kim"> <unique ans="n"/>W-WAIT. IT'S NOT OVER YET???</bubble>
+            <bubble type="speech" spNum="29" who="Others"> <unique ans="n"/>AH... AH...</bubble>
+            <bubble type="speech" spNum="30" who="Others"> <unique ans="n"/>NO...!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="31" who="Kim"> <unique ans="n"/>DON'T TELL ME WE HAVE TO FACE HIM?</bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yul"> <unique ans="n"/>SUNG!</bubble>
+            <bubble type="speech" spNum="33" who="Song Chi-Yul"> <unique ans="n"/>SUNG JIN-WOO! DON'T YOU HAVE ANY OTHER PLANS?!</bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo"> <unique ans="n"/>EVEN IF YOU ASK ME...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="35" who="Song Chi-Yul"> <unique ans="n"/>YOU REALLY DON'T HAVE ANY IDEAS?!?</bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo"> <unique ans="n"/>I DON'T KNOW WHAT TO DO EITHER.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo"> <unique ans="n"/>OH, WAIT! THIS DUNGEON HAS ITS OWN RULES!!</bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo"> <unique ans="n"/>THE FIRST WAS TO WORSHIP THE LORD!</bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo"> <unique ans="n"/>THE SECOND IS TO PRAISE THE LORD!</bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo"> <unique ans="n"/>THAT HAS TO BE THE KEY!!!</bubble>
+            <bubble type="speech" spNum="41" who="Others"> <unique ans="n"/>PRAISE?!</bubble>
+            <bubble type="speech" spNum="42" who="Others"> <unique ans="n"/>IF IT'S PRAISING, THEN...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="43" who="Others"> <unique ans="n"/>I WILL GIVE IT A SHOT!</bubble>
+            <bubble type="speech" spNum="44" who="Others"> <unique ans="n"/>I WAS A MEMBER OF THE CHURCH CHOIR.</bubble>
+            <bubble type="speech" spNum="45" who="Others"> <unique ans="n"/>IF IT'S SINGING AND PRAISING, I'VE GOT THIS!</bubble>
+            <bubble type="speech" spNum="46" who="Others"> <unique ans="n"/>I APPROACH THE LORD,</bubble>
+            <bubble type="speech" spNum="47" who="Others"> <unique ans="n"/>MAKE ME ANEW,</bubble>
+            <bubble type="speech" spNum="48" who="Others"> <unique ans="n"/>AND POUR YOUR GRACES.</bubble>
+            <bubble type="speech" spNum="49" who="Others"> <unique ans="n"/>THE WEAKNESS FOUND WITHIN ME,</bubble>
+            <bubble type="speech" spNum="50" who="Others"> <unique ans="n"/>ALL WILL WASH AWAY,</bubble>
+            <bubble type="speech" spNum="51" who="Others"> <unique ans="n"/>FROM THE LOVE OF THE LORD,</bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo"><unique ans="n"/>!!</bubble>
+            <bubble type="speech" spNum="52" who="Others"> <unique ans="n"/>YOUR LOVE HOLDS ON TO ME.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <bubble type="speech" spNum="53" who="Kim"> <unique ans="n"/>IS IT WORKING??</bubble>
+            <bubble type="speech" spNum="54" who="Bak"> <unique ans="n"/>IT DOES LOOK LIKE HE'S MOVING SLOWER...</bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo"><unique ans="n"/>NO...!</bubble>
+            <bubble type="speech" spNum="55" who="Others"> <unique ans="n"/>LIKE AN EAGLE FLAPPING ITS WINGS ABOVE,</bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo"> <unique ans="n"/>THAT'S...!</bubble>
+            <bubble type="speech" spNum="56" who="Others"> <unique ans="n"/>I SHALL ALSO WALK WITH MY LORD ABOVE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="16">
+            <bubble type="speech" spNum="57" who="Others"> <unique ans="n"/>FROM WITHIN THE LORD'S LOVE,</bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo"> <unique ans="n"/>THAT'S PRAISING THE WRONG GOD...!</bubble>
+        </page>
+    </body>
+</chapter>
+<!--16 pages, 18 thought bubles 57 speech bubles, and 4 uni speakers -->

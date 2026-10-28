@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="7">
+    <title> Solo Leveling chapter seven</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>UUUK...</bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo"> <unique ans="n"/>HUK...</bubble>
+            <caption type="narration" who="Sung Jin-Woo">YOU...</caption>
+            <caption type="narration" who="Sung Jin-Woo">YOU RUNNING FROM HERE</caption>
+            <caption type="narration" who="Sung Jin-Woo">WILL RESULT IN OUR DEATHS</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="speech" spNum="3" who="Song Chi-Yul"> <unique ans="n"/>THE DOOR'S NEARLY CLOSED...</bubble>
+            <bubble type="speech" spNum="4" who="Song Chi-Yul"> <unique ans="n"/>IT'S TOO LATE NOW, BUT I FINALLY GET WHAT'S HAPPENING NOW.</bubble>
+            <bubble type="speech" spNum="5" who="Song Chi-Yul"> <unique ans="n"/>YOU ALL SHOULD LEAVE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo"> <unique ans="n"/>MR. SONG, CHI-YUL?!</bubble>
+            <bubble type="speech" spNum="7" who="Song Chi-Yul"> <unique ans="n"/>THE DOOR WON'T CLOSE FULLY AS LONG AS THERE'S AT LEAST ONE PERSON ON THE ALTAR, RIGHT?</bubble>
+            <bubble type="speech" spNum="8" who="Song Chi-Yul"> <unique ans="n"/>YOU TWO HAVE MANY MORE YEARS LEFT AHEAD OF YOU... YOU SHOULD LEAVE.</bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yul"> <unique ans="n"/>MISS JU-HEE, COULD YOU HELP MR. SUNG?</bubble>
+            <bubble type="speech" spNum="10" who="Ju-Hee"> <unique ans="y" uniNum="3"/>Y-YES!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="11" who="Ju-Hee"> <unique ans="n"/>AH...</bubble>
+            <bubble type="speech" spNum="12" who="Ju-Hee"> <unique ans="n"/>WHAT...</bubble>
+            <bubble type="speech" spNum="13" who="Ju-Hee"> <unique ans="n"/>WHAT,</bubble>
+            <bubble type="speech" spNum="14" who="Ju-Hee"> <unique ans="n"/>WHAT?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="15" who="Ju-Hee"> <unique ans="n"/>MY LEGS...</bubble>
+            <bubble type="speech" spNum="16" who="Ju-Hee"> <unique ans="n"/>THEY WON'T MOVE!</bubble>
+            <bubble type="speech" spNum="17" who="Song Chi-Yul"> <unique ans="n"/>IT MUST BE MANA EXHAUSTION.</bubble>
+            <bubble type="speech" spNum="18" who="Song Chi-Yul"> <unique ans="n"/>YOU USED WAY TOO MUCH MANA TRYING TO HEAL MR. SUNG.</bubble>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo"> <unique ans="n"/>......</bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo"> <unique ans="n"/>MISTER, YOU SHOULD TAKE MISS JU-HEE OUT OF HERE.</bubble>
+            <bubble type="speech" spNum="21" who="Song Chi-Yul"> <unique ans="n"/>I SAID I WOULD STAY!</bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo"> <unique ans="n"/>THEN WHO WILL HELP MISS JU-HEE OUT OF HERE?</bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo"> <unique ans="n"/>THERE'S NO TIME! GO!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="24" who="Song Chi-Yul"> <unique ans="n"/>......</bubble>
+            <bubble type="speech" spNum="25" who="Ju-Hee"> <unique ans="n"/>NO! JIN-WOO... I'D RATHER STAY...</bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo"> <unique ans="n"/>I PROMISED TO BUY YOU DINNER, DIDN'T I?</bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo"> <unique ans="n"/>EAT IT FIRST.</bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo"> <unique ans="n"/>I'LL GET MY PAYMENT FROM YOU WHEN I RETURN.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7">
+            <bubble type="speech" spNum="29" who="Ju-Hee"> <unique ans="n"/>THIS ISN'T THE TIME FOR JOKES-</bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yul"> <unique ans="n"/>...SORRY, BUT THERE REALLY ISN'T ANY TIME LEFT.</bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo"> <unique ans="n"/>PLEASE, TAKE CARE OF HER.</bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yul"> <unique ans="n"/>YEAH, I WILL.</bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo"> <unique ans="n"/>HUU...</bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo"> <unique ans="n"/>HUU-</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>THANK GOD.</bubble> 
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/>AT LEAST I'M THE ONLY ONE THAT'S DYING...</bubble> 
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo"> <unique ans="n"/>I WOULD'VE AT LEAST GOTTEN AN INSURANCE IF I HAD KNOWN THIS WOULD HAPPEN.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo"> <unique ans="n"/>HAAH</bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo"> <unique ans="n"/>HAAH</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>SINCE IT HAS COME DOWN TO THIS, I'M GONNA TAKE AT LEAST ONE MONSTER WITH ME!</bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo"> <unique ans="n"/>HUK</bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo"> <unique ans="n"/>HUK</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo"> <unique ans="n"/>HUK</bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo"> <unique ans="n"/>HUK...</bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo"> <unique ans="n"/>COME.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo"> <unique ans="n"/>EEEEEEAAAAAAAAAACK</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo"> <unique ans="n"/>HURRRK!!</bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo"> <unique ans="n"/>UUU...</bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo"> <unique ans="n"/>UUUUU...</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>I DON'T WANNA...</bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>DON'T WANNA DIE.</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>I DON'T WANNA DIE!!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>OF COURSE IT'S NOT "FINE".</bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>WHAT DO YOU MEAN, "THANKFUL"!</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>QUIT IT WITH ALL THESE BETRAYALS!</bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>I HAVE A FAMILY TOO...!</bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo"> <unique ans="n"/>I DON'T WANNA DIE EITHER!!!!</bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo"> <unique ans="n"/>GLAD FOR BEING THE ONLY ONE DYING HERE?</bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo"> <unique ans="n"/>STOP LYING TO YOURSELF!!</bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo"> <unique ans="n"/>YOU LIAR!!</bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo"> <unique ans="n"/>I... DON'T WANNA DIE...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo"> <unique ans="n"/>IF ONLY I HAD,</bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo"> <unique ans="n"/>JUST ONE MORE CHANCE!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <caption type="information">[ALARM]</caption>
+            <caption type="information">[YOU HAVE COMPLETED ALL THE NECESSARY REQUIREMENTS OF THE SECRET QUEST "COURAGE OF THE WEAK".]</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="16">
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo"> <unique ans="n"/>WHAT'S THIS?</bubble>
+            <caption type="information">[ALARM]</caption>
+            <caption type="information">[YOU HAVE COMPLETED ALL THE NECESSARY REQUIREMENTS OF THE SECRET QUEST 'COURAGE OF THE WEAK']</caption>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo"> <unique ans="n"/>SECRET QUEST?</bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo"> <unique ans="n"/>COMPLETED ALL THE REQUIREMENTS?</bubble>
+            <caption type="information">[YOU HAVE COMPLETED ALL THE NECESSARY REQUIREMENTS OF THE SECRET QUEST 'COURAGE OF THE WEAK']</caption>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo"> <unique ans="n"/>WAIT, WHERE IS THIS SOUND EVEN COMING FROM?</bubble>
+            <caption type="information">[YOU HAVE EARNED THE RIGHT TO BECOME A PLAYER. WILL YOU ACCEPT?]</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="17">
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo"> <unique ans="n"/>EARNED? ACCEPT?</bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo"> <unique ans="n"/>WHAT'S GOING ON...</bubble>
+            <caption type="information">[YOU DO NOT HAVE MUCH TIME REMAINING.]</caption>
+            <caption type="information">[IF YOU REFUSE, YOUR HEART WILL STOP APPROXIMATELY 0.02 SECONDS LATER. WILL YOU ACCEPT?]</caption>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo"> <unique ans="n"/>AH...</bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo"> <unique ans="n"/>IF I ACCEPT...</bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo"> <unique ans="n"/>THEN... I DON'T HAVE TO DIE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="18">
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo"> <unique ans="n"/>YES... THIS CHANCE...</bubble>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo"> <unique ans="n"/>I'LL TAKE IT.</bubble>
+            <caption type="information">[ALARM]</caption>
+            <caption type="information">[WELCOME, PLAYER.]</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="19"></page>
+    </body>
+</chapter>
+<!--19 pages, 28 thought bubles 46 speech bubles, and 3 uni speakers -->
