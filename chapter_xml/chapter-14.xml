@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="14">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <caption type="information">
+                NAME: SUNG JIN-WOO      LEVEL: 2
+                JOB: NONE               FATIGUE: 0
+                TITLE: NONE
+                HP: 205
+                MP:22
+                STRENGTH:20     VITALITY: 11
+                AGILITY: 11     INTELLIGENCE: 11
+                SENSE: 11
+                REMAINING POINTS: 0
+            </caption>
+            <caption type="information">
+                [PASSIVE]
+                (UNKNOWN)       MAX
+                MUSCULARITY     Lv.1
+                
+                [ACTIVE]
+                SPRINT          Lv.1
+            </caption>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> I SEE, IF I LEVEL UP EVERY STAT GOES UP BY 1.
+            </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> CLEARING THE DAILY QUEST GIVES ME 3 STAT POINTS.
+            </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> LEVELING UP MEANS ALL MY STATS GO UP BY ONE, SO I GET A TOTAL OF 5 POINTS.
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE HUNTING MONSTERS AND LEVELING UP IS MORE EFFICIENT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW MUCH STRONGER DO I BECOME PER STAT POINT?
+            </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN MY INTELLIGENCE AND SENSE CAN BE EXPRESSED BY NUMBERS.
+            </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THE EASIEST ONE TO UNDERSTAND IS STRENGTH...
+            </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IT WAS ONLY RAISED BY 10, BUT I CAN DEFINITELY FEEL THE IMPROVEMENTS.
+            </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> COULD IT BE...
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT MY STATS ARE WEIGHTED?
+            </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> ANYWAYS, I CAN SEE THAT YOU GET STRONGER AS YOU LEVEL UP.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IT SEEMS LIKE EVEN I...
+            </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> CAN GET STRONGER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">
+                AM I OVERREACTING JUST BECAUSE I DEFEATED TWO MONSTERS...
+            </caption>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> DON;T THESE ONES DROP MAGICAL CORES?
+            </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I THOUGHT ALL MONSTERS IN A DUNGEON POSSESS A MAGICAL CORE... LOOKS LIKE THIS IS A DIFFERENT SPECIES ALTOGETHER THOUGH.
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> THE STRANGE PHENOMENON THAT OCCURED TO ME.
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I'M BEING CONTROLLED BY THE GAME'S SYSTEM, THERE'S A HIGH CHANCE THAT THESE INSTANT DUNGEONS AND MONSTERS WERE ALSO SPECIALLY CREATED BY THE SYSTEM.
+            </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> MAYBE THAT'S WHY THEY DROP ITEMS AND NOT MAGICAL CORES...
+            </bubble>
+            <caption type="information">
+                [ITEM: RAIKANS'S FANG]
+                ITEM CLASS: NONE
+                TYPE: JUNK
+                A LARGE AND SHARP FANG OF A RAIKAN. YOU CAN KEEP IT ON YOUR INVETORY OR SELL IT IN THE STORE.
+            </caption>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S EVEN A STORE IN HERE...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT DOES BUYING DO?
+            </bubble>
+            <caption type="information">ALARM -YOUR LEVEL IS NOT HIGH ENOUGH TO BUY FROM THE STORE.</caption>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE NEW PLAYERS CAN'T USE THIS FUNCTION.
+            </bubble>
+            <caption type="information">-WOULD YOU LIKE TO SELL [ITEM: RAIKAN'S FANG]?</caption>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> YES.
+            </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> 20 GOLD? I CAN'T TELL HOW MUCH IT'S WORTH SINCE IT'S NOT CASH.
+            </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN AGAIN, THIS DUNGEON...
+            </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> SHOULD BE ABOUT AN E-RANK.
+            </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> IT PROBABLY ISN'T WORTH MUCH.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT DO I DO NOW?
+            </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T LEAVE UNLESS I KILL THE BOSS.
+            </bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> I COULD LEAVE IF I GOT A RETURN CRYSTAL, BUT I DON'T KNOW IF THAT'LL EVEN HAPPEN.
+            </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> AND BEFORE LONG I'D LOSE MY SUPPLY OF FOOD.
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF THE BOSS IS E-RANK, IT'S STILL TOO MUCH FOR ME TO HANDLE BY MYSELF.
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> NO... SHOULDN'T IT BE POSSIBLE IF I LEVELED UP SOME MORE?
+            </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> WELL, I COULD...
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> DIE BEFORE THEN.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NOTHING TO FEAR.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> I'VE ALREADY "DIED" ONCE BEFORE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> I WON'T DIE THAT EASILY!
+            </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> SO YOU ALL SHOULDN'T DIE TOO EASILY EITHER,
+            </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> OR I'LL FEEL SORRY...
+            </bubble>
+        </page>
+            
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> FIERCELY.
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> FIGHT FIERCELY.
+            </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> AS MUCH AS MY BODY CAN ENDURE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> I TRULY REALIZE NOW.
+            </bubble>
+            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I QUIT HERE, I'LL GET SLAUGHTERED
+            </bubble>
+            <caption type="information">ALARM YOU HAVE LEVELED UP</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DIE, I CAN'T PROTECT THOSE WHO I WISH TO PROTECT!
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> I WILL LOSE EVERYTHING.
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T JUST KEEP MY HEAD DOWN LIKE A WEAKLING.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CAN BECOME STRONGER... 
+            </bubble>
+            <caption type="thought" thtNum="13" who="Sung Jin-Woo">I'LL EVEN FOLOW THESE BULLSHIT RULES!</caption>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> AHHHHHHHHHH
+            </bubble>
+            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+            <caption type="information">STEEL FANG RAIKAN</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <caption type="information">ALARM YOU HAVE LEARNED [TITLE: WOLF SLAYER]</caption>
+        </page>
+    </body>
+</chapter>
+<!-- 15 PAGES, 36 INSTANCES OF SPEECH, 13 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->

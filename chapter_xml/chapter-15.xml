@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="15">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> LOOKS LIKE THE BLADE'S ALL DULL.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> IN THE END, A WEAPON WILL INEVITABLY LOSE DURABILITY...
+            </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF I PURCHASE A HIGH GRADE WEAPON, IT BECOMES LIKE THIS ONCE I CYCLE THROUGH THE DUNGEON A DEW TIMES...
+            </bubble>
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">
+                THERE WAS ONCE A TIME I PURCHESED A DAGGER THAT COSTED MORE THAN 50,000 WON.
+            </caption>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/>ALTHOUGH HUNTING BECAME A LOT EASIER, 
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/>THE DAGGER BROKE WAY TOO EASILY AT THE BOSS FIGHT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/>THAT DAY I LOOTED THREE E-CLASS CRYSTALS.
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/>I STILL COULDN'T MAKE ENDS MEET, SO I NEVER BOUGHT A WEAPON AGAIN.
+            </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF IT WAS TIRING, I CHOSE TO TAKE CARE IF THEM ONE BY ONE USING MY BODY.
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> THANKS.
+            </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> THANKS TO YOU, 
+            </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS WORKED OUT
+            </bubble>
+            <caption type="information">
+                [TITLE: WOLF SLAYER]
+                A TITLE GIVEN TO A HUNTER PROFICIENT IN FIGHTS AGAINST WOLVES. 40% INCREASED EXPERIENCE AGAINST BEAST-TYPE MONSTERS.
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> 34 WOLD FANGS, TWO WORN DAGGERS, TRAVELER'S CLOTHES, HEARTHSTONE.
+            </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT'S MORE THAN I WAS EXPECTING
+            </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/>[HEARTHSTONE]
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> SHOULD I RETURN?
+            </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> NO.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO GUARANTEE THAT THERE WILL BE ANOTHER CHANCE TO BECOME STRONGER THIS EASILY.
+            </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENS TO THIS DUNGEON AFTER I USE THE HEARTHSTONE?
+            </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> WILL IT JUST DISAPEAR?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> IF THIS IS SOMETHING LIKE A LIMITED EVENT MADE BY THE SYSTEM, IT WOULD BE POSSIBLE.
+            </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> ULTIMATELY I'M DANCING IN THE PALM OF SOMETHING I DON'T KNOW...
+            </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> LIKE WUKONG DANCING IN THE PALM OF BUDDHA.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> ADVANCE, OR RETREAT...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> EVERY TIME I LEVEL UP, 
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THE FIGHT AGAINST THE MONSTERS
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> BECOMES A LITTLE EASIER.
+            </bubble>
+            <caption type="information">[YOU HAVE SLAIN RAZOR CLAW BRIGA.]</caption>
+            <caption type="information">[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</caption>
+            <caption type="information">[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</caption>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN DEFINITELY FEEL MYSELF GETTING STRONGER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE THE MONSTERS KEEP RESPAWNING UNLIKE NORMAL DUNGEONS...
+            </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> THEY DON'T FEEL LIKE LIVING CREATURES.
+            </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THEREFORE FIGHTING THEM FEELS LIKE A GAME WHERE THEIR PATTERNS ARE DETERMINED.
+            </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I LEARN THE PATTERNS,
+            </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN FIGURE OUT WHERE THEY'RE COMING FROM...!
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> A MONKEY FROM ABOVE, 
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> AND A CAR FROM EACH SIDE.
+            </bubble>
+            <caption type="information">[BLACK SHADOW RAZAN]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <caption type="information">[STEEL FANG RAIKAN]</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <caption type="information">[STEEL FANG RAIKAN]</caption>
+            <caption type="information">[STEEL FANG RAIKAN]</caption>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THE COLOR OF THE NAME CHANGES ACCORDING TO THE MONSTERS STRENGTH.
+            </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> WHITE MEANS IT'S WEAK. ORANGE MEANS IT'S STRONG
+            </bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> RED MEANS VERY STRONG.
+            </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE RAIKANS WHO WERE ORANGE AT FIRST ARE NOW WHITE.
+            </bubble>
+            <caption type="information">[STEEL FANG RAIKAN]</caption>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE BECOME QUITE A BIT STRONGER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT EVEN WITH MY CURRENT STRENGTH,
+            </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT SURE I CAN BEAT THAT GUY DOWN THERE...
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M GETTING GOOSEBUMBS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> MAYBE IT'S BECAUSE MY SENSE STATS HAVE INCREASED, 
+            </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT I CAN TELL...
+            </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW STRONG THE
+            </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> MONSTER
+            </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> DOWN THER IS...
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> MY LEVEL DOESN'T SEEM TO BE RISING ANYMORE.
+            </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> ALSO MY SWORD WON'T LAST IF I KEEP FIGHTING NEEDLESSLY.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT JUST ME OR DO THESE STAIRS SEEM LONGER?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THIS REALLY HAPJEONG STATION?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> FAST!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> URK
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="18">
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> MY SWORD...?!
+            </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> I THOUGHT I LEVELED UP QUITE A BIT...
+            </bubble>
+            <caption type="information">[SWAMP'S RULER, BLUE POISON FANGS RASAKA]</caption>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT YOUR NAME'S STILL ORANGE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE YOU THE BOSS OF THIS PLACE...
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 44 INSTANCES OF SPEECH, 14 INSTANCES OF THOUGHT, AND 1 UNIQUE SPEAKER -->
