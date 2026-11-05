@@ -5,6 +5,158 @@
     <title> Solo Leveling chapter eight</title>
     <author>Chugong</author>
     <body>
-        
+        <page pageNum="1"></page>
+        <pageBrk/>
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>THAT'S GOOD ENOUGH, JOOHEE...</bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo"> <unique ans="n"/>YOU CAN STOP NOW...</bubble>
+            <bubble type="speech" spNum="3" who="Ju-Hee"> <unique ans="y" uniNum="2"/>HANG IN THERE JUST A LITTLE LONGER!</bubble>
+            <bubble type="speech" spNum="4" who="Ju-Hee"> <unique ans="n"/>I'LL HEAL YOU!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="3">
+            <bubble type="speech" spNum="5" who="Ju-Hee"> <unique ans="n"/>KHOFF</bubble>
+            <bubble type="speech" spNum="6" who="Ju-Hee"> <unique ans="n"/>KHOFF</bubble>
+            <bubble type="speech" spNum="7" who="Song Chi-Yul"> <unique ans="y" uniNum="3"/>DO YOU THINK HE'S GONNA BE OKAY?</bubble>
+            <bubble type="speech" spNum="8" who="Kim"> <unique ans="y" uniNum="4"/>LOOKS REAL BAD...</bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yul"> <unique ans="n"/>WELL, AT LEAST HE'S STILL ALIVE.</bubble>
+            <bubble type="speech" spNum="10" who="Kim"> <unique ans="n"/>WE STARTED THIS RAID WITH 17 MEMBERS, BUT THERE'S ONLY SIX OF US LEFT...</bubble>
+            <bubble type="speech" spNum="11" who="Song Chi-Yul"> <unique ans="n"/>OUT OF THOSE THAT ARE LEFT, TWO PEOPLE HAVE SUSTAINED SERIOUS INJURIES...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="4">
+            <bubble type="speech" spNum="12" who="Kim"> <unique ans="n"/>I'M SORRY THAT YOU LOST YOUR ARM, BUT WE'RE IN THIS MESS BECAUSE OF THE RECKLESS DECISIONS YOU MADE AS THE PARTY LEADER.</bubble>
+            <bubble type="speech" spNum="13" who="Kim"> <unique ans="n"/>SONG... YOU MUST PREPARE TO TAKE RESPONSIBILITY FOR ALL OF THIS.</bubble>
+            <bubble type="speech" spNum="14" who="Song Chi-Yul"> <unique ans="n"/>YOU'RE RIGHT...</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="5">
+            <bubble type="speech" spNum="15" who="Kim"> <unique ans="n"/>THAT BASTARD...! IS IT GOING TO ATTACK US AGAIN?!</bubble>
+            <caption type="information">BOOM</caption>
+            <caption type="information">BOOM</caption>
+            <caption type="information">BOOM</caption>
+            <caption type="information">BOOM</caption>
+            <caption type="information">BOOM</caption>
+            <caption type="information">REACH</caption>
+            <caption type="information">RUMBLE</caption>
+            <caption type="information">RUMBLE</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="6">
+            <bubble type="speech" spNum="16" who="Others"><unique ans="n"/>WHAT THE HELL IS GOING ON?!</bubble>
+            <bubble type="speech" spNum="17" who="Others"> <unique ans="n"/>AN EARTHQUAKE?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="7"></page>
+        <pageBrk/>
+        <page pageNum="8">
+            <bubble type="speech" spNum="16" who="Kim"> <unique ans="n"/>WHAT... WHAT IS THAT?</bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo"> <unique ans="n"/>...AN ALTAR.</bubble>
+            <bubble type="speech" spNum="18" who="Song Chi-Yul"> <unique ans="n"/>"AN ALTAR"?</bubble>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo"> <unique ans="n"/>YES, LIKE THE ONES IN MYTHS.</bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo"> <unique ans="n"/>ALTARS ARE USED TO OFFER SACRIFICES TO GOD...</bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo"> <unique ans="n"/>FOR EXAMPLE, LIVESTOCK SUCH AS COWS, PIGS, AND SHEEP ARE OFTEN SACRIFICED, AS WELL AS YOUNG CHILDREN AND MAIDENS.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="9">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo"> <unique ans="n"/>THE THIRD AND LAST COMMANDMENT IS...</bubble>
+            <bubble type="speech" spNum="22" who="Song Chi-Yul"> <unique ans="n"/>"THOU SHALL PROVE THY FAITH."</bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="n"/>THIS WILL PROBABLY BE THE LAST HURDLE!</bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo"> <unique ans="n"/>HAA</bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo"> <unique ans="n"/>HAA</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="10">
+            <bubble type="speech" spNum="25" who="Kim"> <unique ans="n"/>I MAY NOT BE THE SHARPEST TOOL IN THE SHED, BUT EVEN I GET THE GIST OF WHAT YOU'RE TRYING TO SAY RIGHT NOW.</bubble>
+            <caption type="information">VWOOM</caption>
+            <bubble type="speech" spNum="26" who="Kim"> <unique ans="n"/>SUNG, YOU'RE SAYING WE HAVE TO MAKE A SACRIFICIAL OFFERING, HUH?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="11">
+            <bubble type="speech" spNum="27" who="Kim"> <unique ans="n"/>WHO WAS IT THAT DRAGGED ALL OF US HERE?</bubble>
+            <bubble type="speech" spNum="28" who="Kim"> <unique ans="n"/>IT WAS YOU, SONG CHI-YUL.</bubble>
+            <bubble type="speech" spNum="29" who="Kim"> <unique ans="n"/>I REMEMBER BAK HAPPILY BRAGGING ABOUT HIS WIFE BEFORE GOING ON THIS RAID, BUT HE ENDED UP GETTING SPLIT IN TWO...</bubble>
+            <bubble type="speech" spNum="30" who="Kim"> <unique ans="n"/>IT'S NOT JUST HIM. TEN OTHERS SUFFERED THE SAME FATE...</bubble>
+            <bubble type="speech" spNum="31" who="Kim"> <unique ans="n"/>YOU AGREED TO TAKE RESPONSIBILITY FOR ALL OF THIS EARLIER DIDN'T YOU?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="12">
+            <bubble type="speech" spNum="32" who="Kim"> <unique ans="n"/>OF THIS EARLIER, DIDN'T YOU?</bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo"> <unique ans="n"/>THEN I WANT YOU TO PROVE IT TO US RIGHT NOW.</bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo"> <unique ans="n"/>MR. KIM...</bubble>
+            <bubble type="speech" spNum="35" who="Kim"> <unique ans="n"/>THAT'S...</bubble>
+            <bubble type="speech" spNum="36" who="Kim"> <unique ans="n"/>YOU KEEP YOUR MOUTH SHUT AND STAY OUT OF THIS!</bubble>
+            <bubble type="speech" spNum="37" who="Song Chi-Yul"> <unique ans="n"/>KIM IS RIGHT. I HAVE TO TAKE RESPONSIBILITY.</bubble>
+            <bubble type="speech" spNum="38" who="Song Chi-Yul"> <unique ans="n"/>PUT THAT SWORD AWAY. I WANT TO WALK TO THE ALTAR MYSELF</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="13">
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo"> <unique ans="n"/></bubble>
+            <caption type="information"></caption>
+            <bubble type="speech" spNum="39" who="Ju-Hee"> <unique ans="n"/>JINWOO, YOUR WOUNDS ARE STILL...</bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo"> <unique ans="n"/>WE DECIDED TO ENTER THIS DUNGEON AFTER TAKING A VOTE!</bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo"> <unique ans="n"/>IT'D BE COWARDLY OF US TO FORCE MR. SONG TO TAKE RESPONSIBILITY FOR EVERYTHING!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="14">
+            <bubble type="speech" spNum="40" who="Kim"> <unique ans="n"/>WHAT THE...!</bubble>
+            <bubble type="speech" spNum="41" who="Kim"> <unique ans="n"/>WHAT'S HAPPENING?</bubble>
+            <bubble type="speech" spNum="42" who="Song Chi-Yul"> <unique ans="n"/>HEY,SUNG! DID I DO SOMETHING WRONG?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="15">
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo"> <unique ans="n"/>A FLAME?</bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo"> <unique ans="n"/>WHAT'S THE MEANING OF THIS? I THOUGHT IT WANTED US TO MAKE AN OFFERING.</bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo"> <unique ans="n"/>I WANT TO TAKE A LOOK AT THE ALTAR. CAN SOMEONE HELP ME GET TO IT?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="16">
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo"> <unique ans="n"/>LET'S GO ON TOP OF THE ALTAR.</bubble>
+            <bubble type="speech" spNum="45" who="Others"> <unique ans="n"/>WH...WHAT?</bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo"> <unique ans="n"/>WE SHOULD BE FINE.</bubble>
+            <bubble type="speech" spNum="47" who="Ju-Hee"> <unique ans="n"/>JINWOO!</bubble>
+            <bubble type="speech" spNum="48" who="Others"> <unique ans="n"/>!?</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="17">
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo"> <unique ans="n"/>SO THAT'S HOW IT WORKS?</bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo"> <unique ans="n"/>WILL OTHER HUNTERS COME TO OUR RESCUE IF WE WAIT HERE?</bubble>
+            <bubble type="speech" spNum="50" who="Song Chi-Yul"> <unique ans="n"/>TODAY MARKS ONE WEEK SINCE THE OPENING OF THIS GATE.</bubble>
+            <bubble type="speech" spNum="51" who="Song Chi-Yul"> <unique ans="n"/>THOSE STATUES WILL PROBABLY MAKE A MOVE BEFORE REINFORCEMENTS ARRIVE.</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="18">
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo"> <unique ans="n"/>THIS GATE MUST BE LOW ON THEIR LIST BECAUSE IT'S D-RANK. STILL, THEY LEFT IT NEGLECTED FOR TOO LONG.</bubble>
+            <bubble type="speech" spNum="53" who="Song Chi-Yul"> <unique ans="n"/>WELL, THAT'S THE HUNTER'S ASSOCIATION FOR YOU.</bubble>
+            <caption type="narration" who="Sung Jin-Woo">A GATE FULLY OPENS AFTER SEVEN DAYS.</caption>
+            <caption type="narration" who="Sung Jin-Woo">ONCE IT DOES, MAGIC BEASTS ARE ABLE TO CROSS OVER INTO OUR WORLD...</caption>
+            <caption type="narration" who="Sung Jin-Woo">...SO THE TRUE OBJECTIVE OF A RAID IS TO DEFEAT THE DUNGEON'S BOSS AND CLOSE THE GATE BEFORE IT'S TOO LATE.</caption>
+        </page>
+        <pageBrk/>
+        <page pageNum="19">
+            <caption type="narration" who="Sung Jin-Woo">IF WE FAIL...</caption>
+            <caption type="narration" who="Sung Jin-Woo">...THERE'S A POSSIBILITY OF THAT THING GETTING OUT ON THE LOOSE.</caption>
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo"> <unique ans="n"/>GUYS, JOIN US UP HERE.</bubble>
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo"> <unique ans="n"/>THE NUMBER OF FLAMES CORRESPONDS TO THE NUMBER OF PEOPLE ON THE ALTAR.</bubble>
+            <bubble type="speech" spNum="56" who="Sung Jin-Woo"> <unique ans="n"/>I THINK ALL OF US NEED TO BE UP HERE IN ORDER TO MAKE SOMETHING HAPPEN.</bubble>
+            </page>
+        <pageBrk/>
+        <page pageNum="20"></page>
+        <pageBrk/>
+        <page pageNum="21"></page>
+        <pageBrk/>
+        <page pageNum="22">
+            <bubble type="speech" spNum="57" who="Song Chi-Yul"> <unique ans="n"/>THE DOORS OPENED?!</bubble>
+            <bubble type="speech" spNum="58" who="Kim"> <unique ans="n"/>WHAT THE?!</bubble>
+        </page>
+        <pageBrk/>
+        <page pageNum="23">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo"> <unique ans="n"/>WHAT'S GOING ON?!</bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo"> <unique ans="n"/>ARE WE ALLOWED TO LEAVE?</bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo"> <unique ans="n"/>NO, SOMETHING ELSE MIGHT HAPPEN...</bubble>
+            <bubble type="speech" spNum="58" who="Kim"> <unique ans="n"/>WHAT IS IT THIS TIME?!</bubble>
+            <bubble type="speech" spNum="59" who="Song Chi-Yul"> <unique ans="n"/>TH, THEY'RE WALKING TOWARD US</bubble>
+            <bubble type="speech" spNum="60" who="Song Chi-Yul"> <unique ans="n"/>ALL OF THEM MOVED JUST NOW!</bubble>
+        </page>
     </body>
 </chapter>
