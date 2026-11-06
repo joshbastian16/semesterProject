@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="16">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> ARE YOU THE BOSS OF THIS PLACE...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <caption type="information">[SWAMPS RULER, BLUE POISON FANGS RASAKA]</caption>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> A SWORD WON'T PIERCE THOSE SCALES.
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> PUNCHES WON'T HAVE ANY EFFECT EITHER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> I NEED A SUPER FAST ATTACK WITH WEIGHT BEHIND IT!
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> AT THE SAME TIME, I HAVE TO WEAKENS THIS GUY'S DEFENCE.
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT, HOW DO I DEAL WITH THESE THICK SCALES!?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/>URK! I MIGHT DIE IF IT HITS ME DIRECTLY!!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> KUAH!!
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I THOUGHT I GOT A BIT STRONGER...
+            </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT I AM STILL LACKING...!
+            </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW MUCH STRONGER DO I HAVE TO GET...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> TO ESCAPE MY PAST AS THE WEAKEST?!
+            </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> WORLD'S WEAKEST HUNTER?
+            </bubble>
+            <bubble type="speech" spNum="8" who="Song Chi-Yul">
+                <unique ans="y" uniNum="2"/> THAT'S RIGHT. THERE'S RUMORS ABOUT YOU RECENTLY.
+            </bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yul">
+                <unique ans="n"/> DID YOU NOT KNOW?
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> YES......
+            </bubble>
+            <bubble type="speech" spNum="11" who="Song Chi-Yul">
+                <unique ans="n"/> THERE SEEM TO BE PEOPLE WHO CHILDLISHLY DO THESE THINGS.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Song Chi-Yul">
+                <unique ans="n"/> SINCE THERE ARE RUMORS, TRY TO EXERT YOURSELF MORE.
+            </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> YES, I UNDERSTAND.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT NICK-NAME STUCK BECAUSE I'M WEAK...
+            </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> WEAKNESS ISN'T SOMETHING TO BRAG ABOUT!
+            </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> I KNOW JUST HOW WEAK I AM!
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> STRENGTH.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> A PRESSURING FORCE SQUEEZES YOUR HEAD,
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> AND CAN MAKE YOU YIELD.
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN FALSE HYPOCRISY WON'T PROTECT ME.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> WHATEVER THE OPPONET DOES...
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> PURE STRENGTH WILL OVERWHELM YOU,
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> AND FEAR WILL MAKE YOUR KNEES COLLAPSE AND TOES DIG INTO THE GROUND.
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M BEING IGNORED BECAUSE I;M WEAK.
+            </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF YOU'RE KNOWLEGEABLE, 
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> OR WISE,
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> OR RECIEVED THANKS,
+            </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> IN FRONT OF STREGTH...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S EASY TO GET BETRAYED!!
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO GET STRONGER.
+            </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAME HERE TO GET STRONGER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> KURK!
+            </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> I...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO BECOME EVEN STRONGER...
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> NOT YET...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> NOT YET!
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> ...COMPARED TO THAT GUY...
+            </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> NCOMPARED TO THE FEAR FROM THAT TIME...
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT SCARED AT ALL!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> HUP!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> I PUT ALL MY POINTS INTO STRENGTH!
+            </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> IF IT'S THIS MUCH...!
+            </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> KURK!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> DIE!
+            </bubble>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> DIE!
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> DIE!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="18">
+            <bubble type="speech" spNum="25" who="Doctor">
+                <unique ans="y" uniNum="3"/> SUNG JIN-WOO STILL ISN'T BACK YET?
+            </bubble>
+            <bubble type="speech" spNum="26" who="Nurse">
+                <unique ans="y" uniNum="4"/> YES, HE WENT OUT IN THE MORNING...
+            </bubble>
+            <bubble type="speech" spNum="27" who="Doctor">
+                <unique ans="n"/> WHY ISN'T HE RETURNING EVEN AFTER THE SUNSET?
+            </bubble>
+            <bubble type="speech" spNum="28" who="Nurse">
+                <unique ans="n"/> BUT HE'S RECOVERED A LOT AND WILL BE DISCHARGED SOON.
+            </bubble>
+            <bubble type="speech" spNum="29" who="Doctor">
+                <unique ans="n"/> WE CAN'T BE SURE WITH HUNTERS, WE SHOULD STABILIZE HIM INDOORS.
+            </bubble>
+            <bubble type="speech" spNum="30" who="Doctor">
+                <unique ans="n"/> THEY SAY HIGH-CLASS HUNTERS ARE RICH,M BUT LOWER-CLASS HUNTERS DON'T GET MUCH MONEY, AND IT'S SO DANGEROUS...
+            </bubble>
+            <bubble type="speech" spNum="31" who="Doctor">
+                <unique ans="n"/> I DON'T KNOW WHY THEY DO THAT WORK.
+            </bubble>
+            <bubble type="speech" spNum="32" who="Doctor">
+                <unique ans="n"/> IT'S HORRIFYING TO SEE SOME OF THE CONDITIONS OF THE HUNTERS THAT GET CARRIED IN.
+            </bubble>
+            <bubble type="speech" spNum="33" who="Nurse">
+                <unique ans="n"/> WHY?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="34" who="Doctor">
+                <unique ans="n"/> I WONDER WHAT THEY DO INSIDE THE DUNGEONS... THEIR WOUNDS AREN'T NORMAL.
+            </bubble>
+            <bubble type="speech" spNum="35" who="Doctor">
+                <unique ans="n"/> THEY COME COVERED IN BLOOD...
+            </bubble>
+            <bubble type="speech" spNum="36" who="Doctor">
+                <unique ans="n"/> COMPLETELY ON ANOTHER LEVEL FROM PATIENTS THAT GET INTO ACCIDENTS.
+            </bubble>
+            <bubble type="speech" spNum="37" who="Doctor">
+                <unique ans="n"/> IT'S AMAZING THAT THEY'RE STILL ALIVE IN THAT CONDITION.
+            </bubble>
+            <bubble type="speech" spNum="38" who="Nurse">
+                <unique ans="n"/> EVEN SO ISN'T IT A MIRACLE THAT THEY'RE ABLE TO RETURN ALIVE FROM THE DUNGEON?
+            </bubble>
+            <bubble type="speech" spNum="39" who="Doctor">
+                <unique ans="n"/> NOT AT ALL.
+            </bubble>
+            <bubble type="speech" spNum="40" who="Doctor">
+                <unique ans="n"/> EVEN THE WEAKEST HUNTERS ARE STRONG COMPARED TO NORMAL HUMANS.
+            </bubble>
+            <bubble type="speech" spNum="41" who="Doctor">
+                <unique ans="n"/> THEY'RE MONSTERS THEMSELVES
+            </bubble>
+            <caption type="information">
+                ALARM
+                YOU LEVELED UP!
+                YOU LEVELED UP!
+                YOU LEVELED UP!
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="20">
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> HaaH
+            </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> Haah
+            </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> HaaH
+            </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> HA...
+            </bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHA...
+            </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHAHAHA...
+            </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUESS,
+            </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> I GOT A BIT...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="21">
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo">
+                <unique ans="n"/> STRONGER?
+            </bubble>
+            <caption type="information">
+                ALARM
+                [YOU HAVE SLAIN SWAMP'S RULER, BLUE POISON FANGS RASAKA.]
+            </caption>
+            <caption type="information">
+                [ITEM: RASAKA'S VENOM]
+                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.                  DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
+                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
+                -EFFECT 'WEAKENED MUSCLES': -35 STRENGTH
+            </caption>
+            <caption type="information">
+                [ITEM: RASAKA'S FANG]
+                A DAGGER MADE FROM RASAKA'S FANG. ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED EFFECT. CAN                  BE EQUIPED, STORED, OR SOLD
+                -EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE BECOME UNABLE TO MOVE.
+                -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND
+            </caption>
+        </page>
+    </body>
+</chapter>
+<!-- 21 PAGES, 50 INSTANCES OF SPEECH, 28 INSTANCES OF THOUGHT, 4 UNIQUE SPEAKERS -->
