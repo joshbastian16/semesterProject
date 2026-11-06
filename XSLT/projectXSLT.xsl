@@ -14,7 +14,7 @@
                 <thoughtCount><xsl:value-of select="count(//caption[@type='thought'] | //bubble[@type='thought'])"/></thoughtCount>
 
                 <uniqueSpeakers>
-                    <xsl:value-of select="count(//bubble[@who and not(@who = preceding::bubble/@who)] | //caption[@who and not(@who = preceding::caption/@who or @who = preceding::bubble/@who)])"/>
+                    <xsl:value-of select="count(//unique[@ans = 'y'])"/>
                 </uniqueSpeakers>
             </summary>
     </xsl:template>
