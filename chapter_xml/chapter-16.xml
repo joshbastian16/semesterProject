@@ -357,6 +357,9 @@
             </caption>
             <caption type="information">
                 [ITEM: RASAKA'S FANG]
+                ITEM CLASS: C
+                TYPE: DAGGER
+                ATTACK: +25
                 A DAGGER MADE FROM RASAKA'S FANG. ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED EFFECT. CAN                  BE EQUIPED, STORED, OR SOLD
                 -EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE BECOME UNABLE TO MOVE.
                 -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND

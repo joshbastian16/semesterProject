@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="17">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> HAHA...
+            </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHAHAHA...
+            </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUESS,
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I GOT A BIT...
+            </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> STRONGER?
+            </bubble>
+            <caption type="information">
+                ALARM
+                [YOU HAVE SLAIN SWAMP'S RULER, BLUE POISON FANGS RASAKA.]
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> MY CLOTHES ARE RUINED,
+            </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SWORD I GOT IS BROKEN,
+            </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> URK...
+            </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> MY BODY ACHES A BIT TOO.
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT,
+            </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I OBTAINED A BETTER BLADE THAN THE ONE FROM MISTER KIM SANG-SHIK.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> A DAGGER MADE FROM A FANG, NOT BONE.
+            </bubble>
+            <caption type="information">
+                [ITEM: RASAKA'S FANG]
+                ITEM CLASS: C
+                TYPE: DAGGER
+                ATTACK: +25
+                A DAGGER MADE FROM RASAKA'S FANG. ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED EFFECT. CAN                  BE EQUIPED, STORED, OR SOLD
+                -EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE BECOME UNABLE TO MOVE.
+                -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND
+            </caption>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> THE ATTACK STAT IS MORE THAN TWICE MY OLD DAGGER?! AND IT HAS PARALYSIS AND BLEED AS WELL.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> COMPARED TO THAT, THIS IS A BIT AKWARD TO USE.
+            </bubble>
+            <caption type="information">
+                [ITEM: RASAKA'S VENOM]
+                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.                  DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
+                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
+                -EFFECT 'WEAKENED MUSCLES': -35 STRENGTH
+            </caption>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> ...I'LL STORE IT FOR NOW.
+            </bubble>
+            <caption type="information">
+                ALARM
+                [THE BOSS HAS BEEN SLAIN. THE DUNGEON'S INTERIOR WILL REVERT TO NORMAL.]
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT OVER...
+            </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT TIME IS IT NOW?
+            </bubble>
+            <bubble type="speech" spNum="18" who="Soldier">
+                <unique ans="y" uniNum="2"/> WHO ARE YOU?
+            </bubble>
+            <bubble type="speech" spNum="19" who="Soldier">
+                <unique ans="n"/> HOW DID YOU COME OUT FROM THERE?
+            </bubble>
+            <bubble type="speech" spNum="20" who="Soldier">
+                <unique ans="n"/> DIDN'T YOU HEAR THE BROADCAST?
+            </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> A SOLDIER?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENED?
+            </bubble>
+            <bubble type="speech" spNum="22" who="Soldier">
+                <unique ans="n"/> HUH, WHAT ARE YOU SAYING NOW...!
+            </bubble>
+            <bubble type="speech" spNum="23" who="Soldier">
+                <unique ans="n"/> COULD YOU BE A HUNTER?
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> YES, THAT'S RIGHT BUT...
+            </bubble>
+            <bubble type="speech" spNum="25" who="Soldier">
+                <unique ans="n"/> AH, EXCUSE ME.
+            </bubble>
+            <bubble type="speech" spNum="26" who="Soldier">
+                <unique ans="n"/> I WILL GUIDE YOU, SIR HUNTER.
+            </bubble>
+            <bubble type="speech" spNum="27" who="Soldier">
+                <unique ans="n"/> THIS WAY.
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> AH... OKAY.
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENED?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE A GATE OPENED NEARBY.
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> DID THE MONSTERS COME OVER?
+            </bubble>
+            <bubble type="speech" spNum="30" who="Soldier">
+                <unique ans="n"/> NEARBY MONSTERS HAVE BEEN TAKEN CARE OF, LEAVING ONE BIG MONSTER LEFT.
+            </bubble>
+            <caption type="thought" thtNum="4" who="Sung Jin-Woo">MAYBE DUE TO MY SENSE STAT,</caption>
+            <caption type="thought" thtNum="5" who="Sung Jin-Woo">I CAN FEEL IT.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <caption type="thought" thtNum="6" who="Sung Jin-Woo">THAT'S THE BOSS.</caption>
+            <bubble type="speech" spNum="31" who="SoldierTwo">
+                <unique ans="y" uniNum="3"/> PLEASE DON'T TAKE PHOTOS!
+            </bubble>
+            <bubble type="speech" spNum="32" who="SoldierThree">
+                <unique ans="y" uniNum="4"/> PLEASE LEAVE QUICKLY!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="33" who="others">
+                <unique ans="n"/> WHAT ARE THE HUNTERS DOING?
+            </bubble>
+            <bubble type="speech" spNum="34" who="others">
+                <unique ans="n"/> HOW LONG ARE THEY GOING TO FIGHT?
+            </bubble>
+            <bubble type="speech" spNum="35" who="others">
+                <unique ans="n"/> I WISH THEY BEAT IT QUICKLY.
+            </bubble>
+            <bubble type="speech" spNum="36" who="others">
+                <unique ans="n"/> WHAT A MESS.
+            </bubble>
+            <bubble type="speech" spNum="37" who="others">
+                <unique ans="n"/> THAT'S A LOT OF DAMAGE. WHAT IF THE LAND VALUE DROPS?
+            </bubble>
+            <bubble type="speech" spNum="38" who="SoldierThree">
+                <unique ans="n"/> PLEASE EVACUATE!
+            </bubble>
+            <bubble type="speech" spNum="39" who="DPS">
+                <unique ans="y" uniNum="5"/> HEALERS!
+            </bubble>
+            <bubble type="speech" spNum="40" who="DPS">
+                <unique ans="n"/> PLEASE HEAL THE TANK!
+            </bubble>
+            <bubble type="speech" spNum="41" who="Healer">
+                <unique ans="y" uniNum="6"/> WE'RE TRYING OUR BEST!
+            </bubble>
+            <bubble type="speech" spNum="42" who="others">
+                <unique ans="n"/> WHAT ARE THE DAMAGE DEALERS DOING? IT'S NOT BUDGING!
+            </bubble>
+            <bubble type="speech" spNum="43" who="others">
+                <unique ans="n"/> IT'S DEFENCE IS TOO HIGH!
+            </bubble>
+            <bubble type="speech" spNum="44" who="others">
+                <unique ans="n"/> UNFORTUNATELY WE DON'T HAVE MANY MAGICIANS!
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="45" who="Soldier">
+                <unique ans="n"/> EXCUSE ME COMING THROUGH!
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT BECAUSE THEY WERE CALLED OUT ON A SHORT NOTICE?
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THEIR COMMUNICATION ISN'T WORKING.
+            </bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+                <unique ans="n"/> THEIR RANKS ARE LOW TOO.
+            </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/> AROUND 8 D-RANKS AND 1 D-RANK.
+            </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE HE'S A TANK HE CAN'T DEAL DAMAGE AND IS GOING FOR A BATTLE OF ATTRITION...
+            </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> THE HEALERS...
+            </bubble>
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo">
+                <unique ans="n"/> TWO D-RANKS AND ONE...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="51" who="Sung Jin-Woo">
+                <unique ans="n"/> HM?
+            </bubble>
+            <bubble type="speech" spNum="52" who="DPSTwo">
+                <unique ans="y" uniNum="7"/> HEY! MISS WHAT ARE YOU DOING?!
+            </bubble>
+            <bubble type="speech" spNum="53" who="DPSTwo">
+                <unique ans="n"/> I NEED HEALING!!
+            </bubble>
+            <bubble type="speech" spNum="54" who="DPSTwo">
+                <unique ans="n"/> YOU SAID YOU WERE A D-RANK HEALER
+            </bubble>
+            <bubble type="speech" spNum="55" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="8"/> ......
+            </bubble>
+            <bubble type="speech" spNum="56" who="DPSTwo">
+                <unique ans="n"/> WHY ARE YOU SPACING OUT?!
+            </bubble>
+            <bubble type="speech" spNum="57" who="Lee Joo-Hee">
+                <unique ans="n"/> S... SORRY!
+            </bubble>
+            <bubble type="speech" spNum="58" who="DPSTwo">
+                <unique ans="n"/> WHAT'S WITH HER?
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="11">
+            <bubble type="thought" thtNum="9" who="Lee Joo-Hee">
+                <unique ans="n"/> IF I RETREAT I CAN'T GET BACK UP...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="59" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN AFTER A WEEK...
+            </bubble>
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo">
+                <unique ans="n"/> SHE STILL HASN'T OVERCOME IT.
+            </bubble>
+            <bubble type="speech" spNum="61" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT'S TO BE EXPECTED...
+            </bubble>
+            <bubble type="speech" spNum="62" who="Sung Jin-Woo">
+                <unique ans="n"/> I ALSO...
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> NO.
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO OVERCOME IT.
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="13">
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> THE BOSS IS AROUND D-RANK.
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> COMPARED TO THE BOSS I FOUGHT JUST THEN, IT'S ONE RANK LOWER.
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CAN WEAKEN HIS DEFENCE,
+            </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN DO IT!
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> I NEED A BLOW THAT CAN PIERCE THIS STUPID ROCK!
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> GO!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="63" who="Healer">
+                <unique ans="n"/> IF THIS GOES ON WE'LL ALL DIE!
+            </bubble>
+            <bubble type="speech" spNum="64" who="HealerTwo">
+                <unique ans="y" uniNum="9"/> IF A HIGH-RANK HUNTER DOESN'T COME...
+            </bubble>
+            <bubble type="speech" spNum="65" who="others">
+                <unique ans="n"/> NO, NO!
+            </bubble>
+            <bubble type="speech" spNum="66" who="others">
+                <unique ans="n"/> THE TANK MIGHT DIE AT THIS RATE!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="67" who="HealerTwo">
+                <unique ans="n"/> WHAT DO YOU WANT US TO DO?! OUR MAGIC IS RUNNING OUT!
+            </bubble>
+            <bubble type="speech" spNum="68" who="Tank">
+                <unique ans="y" uniNum="10"/> HM?
+            </bubble>
+            <bubble type="speech" spNum="69" who="others">
+                <unique ans="n"/> YES! THE ATTACK WORKED!
+            </bubble>
+            <bubble type="speech" spNum="70" who="others">
+                <unique ans="n"/> IT'S COLLAPSING!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="71" who="others">
+                <unique ans="n"/> A BIT MORE!
+            </bubble>
+            <bubble type="speech" spNum="72" who="others">
+                <unique ans="n"/> ATTACK NOW!
+            </bubble>
+            <bubble type="speech" spNum="73" who="others">
+                <unique ans="n"/> WE DID IT!
+            </bubble>
+            <bubble type="speech" spNum="74" who="others">
+                <unique ans="n"/> WE BEAT IT!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <bubble type="thought" thtNum="18" who="Tank">
+                <unique ans="n"/> WHAT?!
+            </bubble>
+            <bubble type="thought" thtNum="19" who="Tank">
+                <unique ans="n"/> THE ATTACKS DIDN'T WORK AT ALL UNTIL A WHILE AGO BUT IT SUDDENLY COLLAPSED?
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Tank">
+                <unique ans="n"/> NO.
+            </bubble>
+            <bubble type="thought" thtNum="21" who="Tank">
+                <unique ans="n"/> OUR ATTACKS DID NOTHING.
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Tank">
+                <unique ans="n"/> WHAT WAS THAT THAT FLEW IN JUST THEN?
+            </bubble>
+            <bubble type="thought" thtNum="23" who="Tank">
+                <unique ans="n"/> IS THAT WHAT MADE IT FALL DOWN?
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Tank">
+                <unique ans="n"/> WHAT IN THE WORLD BLEW UP THIS ROCK'S HEAD?!
+            </bubble>
+            <bubble type="thought" thtNum="25" who="Tank">
+                <unique ans="n"/> A BOSS GOLEM THAT COILD WITHSTAND ATTACKS FROM 10 HUNTERS,
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Tank">
+                <unique ans="n"/> WAS DEFEATED BY THIS...
+            </bubble>
+            <bubble type="thought" thtNum="27" who="Tank">
+                <unique ans="n"/> JUST WHO?!
+            </bubble>
+            <bubble type="speech" spNum="75" who="Tank">
+                <unique ans="n"/> EXUSE ME!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="18">
+            <bubble type="speech" spNum="76" who="Soldier">
+                <unique ans="n"/> YES? ARE YOU TALKING TO ME?
+            </bubble>
+            <bubble type="speech" spNum="77" who="Tank">
+                <unique ans="n"/> DID YOU SEE WHO THREW THIS?
+            </bubble>
+            <bubble type="speech" spNum="78" who="Soldier">
+                <unique ans="n"/> AH, THE HUNTER OVER THERE...
+            </bubble>
+            <bubble type="speech" spNum="79" who="Soldier">
+                <unique ans="n"/> HUH? THRERE WAS A HUNTER RIGTH THERE A MOMENT AGO?
+            </bubble>
+            <bubble type="thought" thtNum="28" who="Tank">
+                <unique ans="n"/> THAT STRENGTH, THAT DESTRUCTIVENESS...
+            </bubble>
+            <bubble type="thought" thtNum="29" who="Tank">
+                <unique ans="n"/> WAS HE A HIGH-RANKED HUNTER?
+            </bubble>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> I DIDN'T THINK IT WOULD FALL IN ONE HIT.
+            </bubble>
+            <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> WAS ITS HEALTH LOWER THAN I EXPECTED
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="80" who="Lee Joo-Hee">
+                <unique ans="n"/> ......
+            </bubble>
+            <bubble type="speech" spNum="81" who="Lee Joo-Hee">
+                <unique ans="n"/> JIN-WOO....?
+            </bubble>
+            <caption type="information">
+                STATUS
+                NAME: SUNG JIN-WOO      LEVEL: 18
+                JOB: NONE               FATIGUE: 72
+                TITLE: WOLF SLAYER
+                HP: 2220
+                MP:35
+                STRENGTH:48     VITALITY: 27
+                AGILITY: 27    INTELLIGENCE: 27
+                SENSE: 27
+                REMAINING POINTS: 0
+            </caption>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 81 INSTANCES OF SPEECH, 31 INSTANCES OF THOUGHT, 10 UNIQUE SPEAKERS -->
