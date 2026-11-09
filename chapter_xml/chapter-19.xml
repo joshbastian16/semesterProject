@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="19">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1"/>
+            
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="Hwang Dong-Suk">
+                <unique ans="y" uniNum="1"/> LET US GO!
+            </bubble>
+            <bubble type="speech" spNum="2" who="Hwang Dong-Suk">
+                <unique ans="n"/> IS IT BECAUSE GYEONGGI ISN'T GOOD LATELY?
+            </bubble>
+            <bubble type="speech" spNum="3" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT SEEMS LIKE THE CONSTRUCTION WAS POSTPONED RECENTLY.
+            </bubble>
+            <bubble type="speech" spNum="4" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="2"/> THE BOSS RAN AWAY OVERSEAS WITH 9,000,000,000 WON JUST TWO WEEKS AGO.
+            </bubble>
+            <bubble type="speech" spNum="5" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE WORKERS AND FUNDERS ARE HAVING A HARD TIME.
+            </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="3"/> WHY ARE YOU TELLING ME THAT...?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="speech" spNum="6" who="Yoo Jin-Ho">
+                <unique ans="n"/> ISN'T THAT BAG HEAVY? WILL YOU BE FINE?
+            </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> AH... YES, I CAN CARRY IT.
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> THANKS TO THE STRENGTH STAT THIS IS NOTHING...
+            </bubble>
+            <bubble type="speech" spNum="8" who="Yoo Jin-Ho">
+                <unique ans="n"/> NO NEED TO BE SO FORMAL.
+            </bubble>
+            <bubble type="speech" spNum="9" who="Yoo Jin-Ho">
+                <unique ans="n"/> ARE YOU NORMALLY THIS QUIET?
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> I THINK IT'S YOU WHO TALKS A BIT TO MUCH...
+            </bubble>
+            <bubble type="speech" spNum="11" who="Yoo Jin-Ho">
+                <unique ans="n"/> DID I BOTHER YOU BY TALKING TOO MUCH?
+            </bubble>
+            <bubble type="speech" spNum="12" who="Yoo Jin-Ho">
+                <unique ans="n"/> PEOPLE NEVER REALLY TOOK NOTICE OF ME.
+            </bubble>
+            <bubble type="speech" spNum="13" who="Yoo Jin-Ho">
+                <unique ans="n"/> BEING A HUNTER IS MY HOBBY.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="14" who="Hwang Dong-Suk">
+                <unique ans="n"/> WE'RE HERE.
+            </bubble>
+            <bubble type="speech" spNum="15" who="others">
+                <unique ans="n"/> WOW~
+            </bubble>
+            <bubble type="speech" spNum="16" who="others">
+                <unique ans="n"/> THIS IS PRETTY UNUSUAL.
+            </bubble>
+            <bubble type="speech" spNum="17" who="others">
+                <unique ans="n"/> THE ENTRANCE IS PRETTY BIG.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Jo Gyu-Hwan">
+                <unique ans="y" uniNum="4"/> ARE YOU SURE THIS IS A C-RANK GATE? IT'S A BIT BIG.
+            </bubble>
+            <bubble type="speech" spNum="19" who="Hwang Dong-Suk">
+                <unique ans="n"/> ARE YOU SAYING THE GUILD IS UNTRUSTWORTHY? I'VE SEEN PEOPLE GO IN AND OUT PLENTY                                     OF TIMES,
+            </bubble>
+            <bubble type="speech" spNum="20" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE GATE LOOKS A BIT TOO BIG, BUT IT SHOULD BE FINE, RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THIS YOUR FIRST TIME?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> A GATE'S SIZE ISN'T THAT IMPORTANT.
+            </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THE IMPORTANT THING IS THE MAGICAL ENERGY FLOWING FROM WITHIN.
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THE GUILD DETERMINES THE AMOUNT AND QUALITY OF THE ENERGY AND GIVES IT A RANK.
+            </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> A LARGE GUILD TAKES CARE OF GATES ABOVER B-RANK, AND C-RANK GATES AND LOWER                                         AREN'T THAT DANGEROUS.
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> ...ALTHOUGH THAT'S THE CASE,
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S MY FIRST TIME AT A C-RANK GATE...
+            </bubble>
+            <bubble type="speech" spNum="26" who="Hwang Dong-Suk">
+                <unique ans="n"/> I'M HEADING IN FIRST. EVERYONE FOLLOW ME!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="27" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES!
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> NORMALLY D AND E-RANKS LIKE ME DON'T MAKE MUCH MONEY SO THEY BARELY CAN SCRAPE                                      TOGETHER WEAPONS AND CAN'T EVEN CONSIDER SHIELDS...
+            </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DOES THIS D-RANK HAVE SUCH GOOD EQUIPMENT?!
+            </bubble>
+            <bubble type="speech" spNum="28" who="Yoo Jin-Ho">
+                <unique ans="n"/> LET'S GO!
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> OK... BUT LET'S NOT WALK SIDE BY SIDE.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE THIS PERSONAL FORCE MAKES A DECENT AMOUNT OF MONEY.
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> EVERYONE IS EQUIPPED WELL...
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S PRETTY DIFFERENT FROM THE D AND E-RANK DUNGEONS I'VE BEEN IN SO FAR. Mister                                    Song Chi-Yeol is C-rank but he's a magician, so...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="30" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S WAY TOO DARK.
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> GYU-HWAN, CREATE SOME LIGHT
+            </bubble>
+            <bubble type="speech" spNum="32" who="Jo Gyu-Hwan">
+                <unique ans="n"/> OK.
+            </bubble>
+            <bubble type="speech" spNum="33" who="others">
+                <unique ans="n"/> WHAT IS THIS...?
+            </bubble>
+            <bubble type="speech" spNum="34" who="others">
+                <unique ans="n"/> WHY ARE THERE NO MONSTERS?
+            </bubble>
+            <bubble type="speech" spNum="35" who="others">
+                <unique ans="n"/> WEIRD, THERE ARE NO LIGHTDS AS WELL.
+            </bubble>
+            <bubble type="speech" spNum="36" who="others">
+                <unique ans="n"/> IT'S NOREMAL FOR DUNGEONS TO AHVE A FEW LUMINOUS STONES.
+            </bubble>
+            <bubble type="speech" spNum="37" who="Yoo Jin-Ho">
+                <unique ans="n"/> ARE THERE DUNGEONSN WITH NO MONSTERS?
+            </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> SH.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+       <page pageNum="8">
+           <caption type="thought" thtNum="10" who="Sung Jin-Woo">
+               IF THERE ARE NO LIGHTS, IT MEANS THE MONSTERS LIKE DARKNESS.
+           </caption>
+           <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+               <unique ans="n"/> IT'S NOT THAT THERE ARE NONE. IT'S THAT THEY HAVEN'T APPEARED YET.
+           </bubble>
+           <caption type="thought" thtNum="11" who="Sung Jin-Woo">
+               NORMALLY IT'S HARD FOR MONSTERS TO LIVE IN DARK DUNGEONS, BUT IF THEY'RE INTELLIGENT...
+           </caption>
+           <caption type="thought" thtNum="12" who="Sung Jin-Woo">
+               THAT MEANS IT'S POSSIBLE THAT THE MONSTERS DON'T DEPEND ON SIGTH,
+           </caption>
+           <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+               <unique ans="n"/> AND MOVE IN PACKS, LIVE IN DARKNESS AND CHARGE TOWARDS LIGHT?
+           </bubble>
+           <caption type="thought" thtNum="13" who="Sung Jin-Woo">
+               THIS SOUND...!
+           </caption>
+           <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+               <unique ans="n"/> IT'S INSECT-TYPE MONSTERS!!
+           </bubble>
+       </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="42" who="others">
+                <unique ans="n"/> AN INSECT-TYPE?!
+            </bubble>
+            <bubble type="speech" spNum="43" who="others">
+                <unique ans="n"/> COULD THIS BE AN INSECT NEST?
+            </bubble>
+            <bubble type="speech" spNum="44" who="others">
+                <unique ans="n"/> DON'T SAY THAT!
+            </bubble>
+            <bubble type="speech" spNum="45" who="others">
+                <unique ans="n"/> THE SOUND IS CLOSE!
+            </bubble>
+            <bubble type="speech" spNum="46" who="others">
+                <unique ans="n"/> WHAT? WHY CAN'T I SEE THEM?!
+            </bubble>
+            <bubble type="speech" spNum="47" who="others">
+                <unique ans="n"/> THERE AER TOO MANY TUNNELS!
+            </bubble>
+            <bubble type="speech" spNum="48" who="others">
+                <unique ans="n"/> CAN YOU SEE ANYTHING?!
+            </bubble>
+            <bubble type="speech" spNum="49" who="others">
+                <unique ans="n"/> I CAN'T SEE ANYTHING!!
+            </bubble>
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo">
+                <unique ans="n"/> !!
+            </bubble>
+            <bubble type="speech" spNum="51" who="Sung Jin-Woo">
+                <unique ans="n"/> ABOVE!!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="52" who="Hwang Dong-Suk">
+                <unique ans="n"/> DARN! ABOVE?!
+            </bubble>
+            <bubble type="speech" spNum="53" who="Yoo Jin-Ho">
+                <unique ans="n"/> STAY RIGHT NECT TO ME!
+            </bubble>
+            <bubble type="speech" spNum="54" who="others">
+                <unique ans="n"/> THEY APPEARED!!
+            </bubble>
+            <bubble type="speech" spNum="55" who="others">
+                <unique ans="n"/> ABOVE US!!
+            </bubble>
+            <bubble type="speech" spNum="56" who="others">
+                <unique ans="n"/> WHAT ARE THESE NUMBERS?!
+            </bubble>
+            <bubble type="speech" spNum="57" who="others">
+                <unique ans="n"/> USE MAGIC!
+            </bubble>
+            <bubble type="speech" spNum="58" who="others">
+                <unique ans="n"/> GROUND THEM!
+            </bubble>
+            <bubble type="speech" spNum="59" who="others">
+                <unique ans="n"/> GET THEM OFF THE CEILING!
+            </bubble>
+            <bubble type="speech" spNum="60" who="others">
+                <unique ans="n"/> THERE ARE TOO MANY!!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="61" who="Hwang Dong-Suk">
+                <unique ans="n"/> OVER HERE!
+            </bubble>
+            <bubble type="speech" spNum="62" who="Hwang Dong-Suk">
+                <unique ans="n"/> YES! THIS WAY INSECTS!
+            </bubble>
+            <bubble type="speech" spNum="63" who="Hwang Dong-Suk">
+                <unique ans="n"/> DAMAGE DEALERS! DO SOMETHING!!
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> C-RANK HUNTERS!
+            </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> THEIR TEAMWORK IS GOOD!
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> IF IT'S THIS MUCH, THEY CAN CREATE A FORCE WITH NO HEALERS.
+            </bubble>
+            <bubble type="speech" spNum="64" who="Hwang Dong-Suk">
+                <unique ans="n"/> JIN-SEOK, 11 O'CLOCK
+            </bubble>
+            <bubble type="speech" spNum="65" who="Hwang Dong-Suk">
+                <unique ans="n"/> THEY'RE ON THE RIGHT AS WELL!
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> LEADER HWANG DONG-SEOK IS FULFILLING HIS DUTY WELL,
+            </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> AND THE DAMAGE DEALERS HAVE GOOD TIMING.
+            </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THEY'VE BEEN FIGHTING TOGETHER FOR SOME TIME.
+            </bubble>
+            <bubble type="speech" spNum="66" who="Hwang Dong-Suk">
+                <unique ans="n"/> JUN-TE, SUK-MIN, GYU-HWAN! YOU GUYS TAKE CARE OF THE RIGHT!
+            </bubble>
+            <bubble type="speech" spNum="67" who="Jun-Te, Suk-Min, Gyu-Hwan">
+                <unique ans="n"/> YESSIR!!
+            </bubble>
+            <caption type="thought" thtNum="20" who="Sung Jin-Woo">
+                IS IT BECAUSE THEY'VE ALWAYS CREATED A SQUAD WITH NO HEALER...
+            </caption>
+            <caption type="thought" thtNum="21" who="Sung Jin-Woo">
+                THEY'RE A BIT ROUGH.
+            </caption>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> YOO JIN-HO... HIS EQUIPMENT IS GOOD SO HIS LACK OF SKILL AND EXPERIENCE ARE                                         CANCELLED OUT.
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="12">
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> EVERYONE'S DOING WELL BUT...
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS A BIT FRUSTRATING.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="speech" spNum="68" who="Hwang Dong-Suk">
+                <unique ans="n"/> ARE WE HEADING BACK AFTER CLEARING OUT THE ENTRANCE?
+            </bubble>
+            <bubble type="speech" spNum="69" who="Hwang Dong-Suk">
+                <unique ans="n"/> THIS COULD TAKE A WHILE SO DON'T EXERT YOURSELVES TOO MUCH AND CONTROL YOUR PACE.
+            </bubble>
+            <bubble type="speech" spNum="70" who="Jo Gyu-Hwan">
+                <unique ans="n"/> YES!
+            </bubble>
+            <bubble type="speech" spNum="71" who="Hwang Dong-Suk">
+                <unique ans="n"/> TAKE ALL THE MAGIC CRYSTALS! WE'RE SPLITTING THEM AMONG NINE!
+            </bubble>
+            <bubble type="speech" spNum="72" who="Sukmin">
+                <unique ans="y" uniNum="5"/> THIS IS MY FAVORITE PART.
+            </bubble>
+            <bubble type="speech" spNum="73" who="Jo Gyu-Hwan">
+                <unique ans="n"/> MINE TOO.
+            </bubble>
+            <bubble type="speech" spNum="74" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU SAVED US BEFORE.
+            </bubble>
+            <bubble type="speech" spNum="75" who="Hwang Dong-Suk">
+                <unique ans="n"/> HOW DID YOU KNOW THE MONSTERS WERE COMING FROM ABOVE?
+            </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> AS EXPECTED, THE SENSE STAT DOES MORE THAN WHAT MEETS THE EYE.
+            </bubble>
+            <bubble type="speech" spNum="76" who="Sung Jin-Woo">
+                <unique ans="n"/> I JUST... FELT IT.
+            </bubble>
+            <bubble type="speech" spNum="77" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOUR  SENSES ARE SHARP.
+            </bubble>
+            <bubble type="speech" spNum="78" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S GREAT THAT EVERYONE WAS TAKEN CARE OF CLEANLY. THANK YOU.
+            </bubble>
+            <bubble type="speech" spNum="79" who="Hwang Dong-Suk">
+                <unique ans="n"/> BUT IT WOULD BE GOOD IF YOU DIDN'T PAY ATTENTION TO SMALL THINGS THAT MUCH.
+            </bubble>
+            <bubble type="speech" spNum="80" who="Sung Jin-Woo">
+                <unique ans="n"/> HUH?
+            </bubble>
+            <bubble type="speech" spNum="81" who="Jo Gyu-Hwan">
+                <unique ans="n"/> DONG-SUK! COME LOOK AT THIS!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="82" who="Jo Gyu-Hwan">
+                <unique ans="n"/> LOOK AT THEIR WOUNDS.
+            </bubble>
+            <bubble type="speech" spNum="83" who="Jo Gyu-Hwan">
+                <unique ans="n"/> IT'S NOT A BLADE WOUND. WE DIDN'T INFLICT THIS, I GUESS?
+            </bubble>
+            <bubble type="speech" spNum="84" who="Hwang Dong-Suk">
+                <unique ans="n"/> RIGHT? IT'S NOT A BURN FROM MAGIC EITHER. IT SEEMS LIKE THEY WERE BITTEN OFF, AND                                   THERE AREN'T JUST ONE OR TWO OF THESE.
+            </bubble>
+            <bubble type="speech" spNum="85" who="Hwang Dong-Suk">
+                <unique ans="n"/> SO IT WAS LIKE THIS BEFORE FIGHTING US?
+            </bubble>
+            <bubble type="speech" spNum="86" who="Hwang Dong-Suk">
+                <unique ans="n"/> WERE THE MONSTERS HACE A TERRITORIAL FEUD AMONGST THEMSELVES?
+            </bubble>
+            <bubble type="speech" spNum="87" who="Hwang Dong-Suk">
+                <unique ans="n"/> THAT MEANS THERE IS A MONSTER STRONGER THAN THESE GUYS...
+            </bubble>
+            <bubble type="speech" spNum="88" who="Hwang Dong-Suk">
+                <unique ans="n"/> A BOSS? OR...
+            </bubble>
+            <caption type="thought" thtNum="26" who="Hwang Dong-Suk">
+                THIS...
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <caption type="thought" thtNum="27" who="Hwang Dong-Suk">
+                SMELLS LIKE MONEY.
+            </caption>
+            <bubble type="speech" spNum="89" who="Sung Jin-Woo">
+                <unique ans="n"/> JIN-HO.
+            </bubble>
+            <bubble type="speech" spNum="90" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT SWORD AND SHIELD ARE EXPENSIVE RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="91" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES? OH, MY FATHER TOOK EXTRA CARE AFTER HEARING THAT I'M GOING ON MY FIRST RAID.
+            </bubble>
+            <bubble type="speech" spNum="92" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT SURE BUT...
+            </bubble>
+            <bubble type="speech" spNum="93" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU SHOULD BE WARY.
+            </bubble>
+            <caption type="thought" thtNum="28" who="Sung Jin-Woo">
+                WHAT IS THIS?
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <caption type="thought" thtNum="29" who="Sung Jin-Woo">
+                THIS BAD FEELING...
+            </caption>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 93 INSTANCES OF SPEECH, 29 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->

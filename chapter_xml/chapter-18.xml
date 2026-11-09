@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="18">
+    <title>Solo Leveling </title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="Nurse">
+                <unique ans="y" uniNum="1"/> I'M COMING IN.
+            </bubble>
+            <bubble type="speech" spNum="2" who="Nurse">
+                <unique ans="n"/> OH!
+            </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> AH, I'M SORRY!
+            </bubble>
+            <bubble type="speech" spNum="4" who="Nurse">
+                <unique ans="n"/> NO. IT'S MY BAD...
+            </bubble>
+            <bubble type="thought" thtNum="1" who="Nurse">
+                <unique ans="n"/> WOW...
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Nurse">
+                <unique ans="n"/> THIS PATIENT...
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Nurse">
+                <unique ans="n"/> WAS HIS BODY THIS CHISELED WHEN HE CAME IN?
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="3">
+            <bubble type="speech" spNum="5" who="Nurse">
+                <unique ans="n"/> UM... ARE YOU BEING DISCHARGED TODAY?
+            </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> YES.
+            </bubble>
+            <bubble type="speech" spNum="7" who="Nurse">
+                <unique ans="n"/> IF IT'S OKAY WITH YOU COULD I HAVE YOUR NUMBER?
+            </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> NUMBER?
+            </bubble>
+            <bubble type="speech" spNum="9" who="Nurse">
+                <unique ans="n"/> YES... I MEAN IF YOU'RE OKAY WITH IT...
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THERE A TEST RESULT THEY NEED TO SEND ME LATER?
+            </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> OKAY, PLEASE WAIT A SECOND
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> OI, SUNG-JIN! YOU'RE GOING TO SCHOOL?
+            </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Ah">
+                <unique ans="y" uniNum="3"/> WHAT? YOU WERE AWAKE?
+            </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S BEEN A WHIWLE SINCE I WOKE UP. BE CAREFUL OF CARS ON THE WAY/
+            </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Ah">
+                <unique ans="n"/> YOU WORKED OUT?
+            </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> UH...... A BIT?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="16" who="Sung Jin-Ah">
+                <unique ans="n"/> YOUR BODY LOOKS MORE TONED, AND I THINK YOU'VE GOTTEN TALLER?
+            </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Ah">
+                <unique ans="n"/> DO MEN STILL GROW AFTER THEY TURN TWENTY?
+            </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> STOP TALKING NONSENSE AND TAKE AN UMBRELLA.
+            </bubble>
+            <bubble type="speech" spNum="19" who="Sung Jin-Ah">
+                <unique ans="n"/> IT DOESN'T LOOK LIKE IT'LL RAIN... AND IT'S HEAVY.
+            </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S A FOLDING UMBRELLA SO IT'S HEAVY. STOP MAKING SUCH A FUSS ABOUT IT.
+            </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Ah">
+                <unique ans="n"/> AW...
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUESS I'LL DO THE SPRINT LATER.
+            </bubble>
+            <caption type="information">
+                QUEST DIRECTIONS
+                GOAL
+                [COMPLETE] PUSH-UPS [100/100]
+                [COMPLETE] SIT-UPS [100/100]
+                [COMPLETE] SQUATS [100/100]
+                [INCOMPLETE] RUNNING [0/10km]
+                WARNING- FAILING TO COMPLETE THIS DAILY QUEST WILL BRING A PUNISHMENT ASSOCIATED WITH THIS QUEST
+            </caption>
+            <caption type="thought" thtNum="5" who="Sung Jin-Woo">MY MUSCLES GREW.</caption>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO WAY THAT MY PHYSICAL STATE CHANGED EXERCISING FOR JUST A FEW WEEKS, SO                                   IT DEFINETELY MEANS THAT MY STATUS AFFECTS MY BODY.
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I KEEP INCREASING MY STRENGTH STAT, MY BODY'S PROBABLY CHANGING ACCORDINGLY.
+            </bubble>
+            <caption type="information">
+                STATUS
+                NAME: SUNG JIN-WOO      LEVEL: 18
+                JOB: NONE               FATIGUE: 0
+                TITLE: WOLF SLAYER
+                HP: 2220
+                MP:35
+                STRENGTH:48     VITALITY: 27
+                AGILITY: 27    INTELLIGENCE: 27
+                SENSE: 27
+                REMAINING POINTS: 12
+            </caption>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> MAYBE I PUT TOO MANY POINTS ON STRENGTH...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENS IN I KEEP PUTTING POINTS IN?
+            </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> HOPEFULLY NOT THIS...
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN WITH HIGH DAMAGE, IT'S NOT GOOD WITHOUT BALANCE.
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> THE OPPOSITE IS THE SAME.
+            </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE THE SYNERGY BETWEEN STRENGTH AND AGILITY IS GOOD I'LL PUT SOME INTO THAT...                                   HEALTH IS BETTER THE HIGHER IT GETS, AND SENSE IS MORE USEFUL THAN I IMAGINED.
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> INTELLGENCE IS THE PROBLEM...
+            </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> IT SEEMS TO BE RELATED TO MAGIC BUT DO I NEED THIS?
+            </bubble>
+            <caption type="information">
+                HP: 2220
+                MP:35
+                STRENGTH:50     VITALITY: 27
+                AGILITY: 35    INTELLIGENCE: 27
+                SENSE: 29
+            </caption>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUESS THIS SHOULD BE FINE?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT FROM THE GUILD?
+            </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> HUNTER SUNG JIN-WOO SPEAKING.
+            </bubble>
+            <bubble type="speech" spNum="35" who="LandLord">
+                <unique ans="y" uniNum="4"/> AT LAST, YOU PICKED UP!
+            </bubble>
+            <bubble type="speech" spNum="36" who="LandLord">
+                <unique ans="n"/> WHY AREN'T YOU PICKING UP RECENTLY?
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M SORRY MISTER LANDLORD, I GOT INTO AN ACCIDENT AND WAS HOSPITALISED.
+            </bubble>
+            <bubble type="speech" spNum="38" who="LandLord">
+                <unique ans="n"/> TSK TSK, NO WONDER.
+            </bubble>
+            <bubble type="speech" spNum="39" who="LandLord">
+                <unique ans="n"/> WELL THAT'S THAT. STUDENT JIN-WOO... I'M CALLING BECAUSE THIS MONTH'S RENT IS                                       DUE...
+            </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> AH... YES...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="41" who="LandLord">
+                <unique ans="n"/> IF YOU CAN'T PAY RIGHT NOW SHOULD I DELAY YOUR PAY FOR A MONTH?
+            </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S FINR, I'LL TRANSFER IT SOON.
+            </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> DOUBLE AWAKENING,
+            </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I'M REALLY AN AWAKENED PERSON THEN I SHOULD BE ABLE TO MAKE MONEY QUICKLY.
+            </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CONTINUE TO GROW AT THIS RATE, THEN I'LL SOON BECOME A TOP-RANK HUNTER.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> HUNTERS KILL MONSTERS AND MAKE MONEY.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THE HIGHER THE EXPERIENCE,
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> THE HIGHER THE RANK,
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> THE MORE MONEY THE MAGIC CRYSTAL DROPS ARE WORTH.
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> TO BEAT A HIGH RANL MONSTER YOU NEED TO ENTER THROUGH A GATE OF THE SAME                                            DIFFICULTY,
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THERE'S A LOT OF COMPETITION FOR D-RANK OR E-RANK GATES THAT CAN BE ENTERED BY                                   THE MASSES OF LOWER RANKED HUNTERS.
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE IF THAT E-RANK HUNTERS AREN'T ACCEPED BY THE GUILD, AND EVEN IF THEY                                        WERE, IT WOULDN;T BE EASY TO FIND A JOB.
+            </bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+                <unique ans="n"/> MY GUILD RANK IS E, AND FOR ME, WHO NEVER EXPERIENCED A GATE ABOVE D-RANK, THIS                                     IS A HARSH CONDITION.
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> PEOPLE ARE CHOSEN BASED ON COMPETENCE, AND BACK THEN I COULD NOT ESCAPE FROM THE                                    TITLE OF 'WORLD'S WEAKEST HUNTER'.
+            </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/> SHOULD I JUST GET REVIEWED AND RAISE MY RANK?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT MY AWAKENING WILL BECOME A WILDFIRE IF IT'S REVEALED.
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> THE MASSES ENJOY GOSSIP, AND HUNTERS ARE A GOOD SUBJECT.
+            </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> THE PAY MIMGHT BE BETTER THE MORE ATTENTION I GET.
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT... MALICIOUS EYES WILL FALL UPON ME AS WELL.
+            </bubble>
+            <bubble type="speech" spNum="49" who="others">
+                <unique ans="n"/> THERE'S A HUNTER THAT CAN GAIN EXPERIENCE?
+            </bubble>
+            <bubble type="speech" spNum="50" who="others">
+                <unique ans="n"/> HE GET'S STRONGER WITH TIME?
+            </bubble>
+            <bubble type="speech" spNum="51" who="others">
+                <unique ans="n"/> HOW IS THAT POSSIBLE?
+            </bubble>
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T REVEAL IT UNTIL I CAN BE SURE.
+            </bubble>
+            <bubble type="speech" spNum="53" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL MAKE MONEY FIRST.
+            </bubble>
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> IT WOULD BE GREAT IF I COULD ENTER AN ATTACK FORCE FIRST...
+            </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> !
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="55" who="Hwang Dong-Suk">
+                <unique ans="y" uniNum="5"/> THIS WAY!
+            </bubble>
+            <bubble type="speech" spNum="56" who="Hwang Dong-Suk">
+                <unique ans="n"/> I'M HWANG DONG-SUK. WHAT'S YOUR NAME AGAIN
+            </bubble>
+            <bubble type="speech" spNum="57" who="Sung Jin-Woo">
+                <unique ans="n"/> SUNG JIN-WOO.
+            </bubble>
+            <bubble type="speech" spNum="58" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU'RE AN E-RANK CORRECT?
+            </bubble>
+            <bubble type="speech" spNum="59" who="Sung Jin-Woo">
+                <unique ans="n"/> YES...
+            </bubble>
+            <bubble type="speech" spNum="60" who="Sukmin">
+                <unique ans="y" uniNum="6"/> AH! I KNOW HIM. HE"S A PRETTY FAMOUS PERSON...
+            </bubble>
+            <bubble type="speech" spNum="61" who="Sukmin">
+                <unique ans="n"/> WHAT WAS HIS NICKNAME... WORLD'S WEAKEST HUNTER?
+            </bubble>
+            <bubble type="speech" spNum="62" who="Jo Gyu-Hwan">
+                <unique ans="y" uniNum="7"/> PFFT! WHAT THE HELL.
+            </bubble>
+            <bubble type="speech" spNum="63" who="Hwang Dong-Suk">
+                <unique ans="n"/> STOP IT.
+            </bubble>
+            <bubble type="speech" spNum="64" who="Sung Jin-Woo">
+                <unique ans="n"/> ......
+            </bubble>
+            <bubble type="speech" spNum="65" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S OKAY. THE MOST IMPORTANT THING IS NUMBERS.
+            </bubble>
+            <bubble type="speech" spNum="66" who="Hwang Dong-Suk">
+                <unique ans="n"/> AS I SAID ON THE PHONE, IT;S GOING TO BE HARD FOR YOU TO FIGHT AS IT'S A C-RANK                                     GATE. SO YOU'RE EXEMPTED FROM FIGHTING, BUT I'LL PAY YOU 2'000'000 WON FOR                                          FILLING OUR MEMBER COUNT, IT'S A GOOD DEAL, RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="67" who="Sung Jin-Woo">
+                <unique ans="n"/> YES...
+            </bubble>
+            <bubble type="speech" spNum="68" who="Hwang Dong-Suk">
+                <unique ans="n"/> THEN PLEASE SIGN THIS CONTRACT
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> 5 C-RANKS.
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> 4 THAT ARE LOWER THAN D-RANK.
+            </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE IS A RULE THAT WHEN ENTERING A C-RANK GATE, THERE MUST BE 10 PEOPLE OR MORE                                   AND AT LEAST HALF OF THEM MUST BE AT LEAST C-RANK.
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE OF THATM THERE ARE CASES WHERE ONLY NUMBERS MAKE UP THE ATTACK FORCE,
+            </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> ALWAYS A BREIDESMAID.
+            </bubble>
+            <bubble type="speech" spNum="69" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="8"/> EXUSE ME, IT SEEMS WE'RE BOTH SMALL FRIES.
+            </bubble>
+            <bubble type="speech" spNum="70" who="Yoo Jin-Ho">
+                <unique ans="n"/> I'M YOO JIN-HO. I'M TWENTY TWO, AND THE RANK'S D.
+            </bubble>
+            <bubble type="speech" spNum="71" who="Yoo Jin-Ho">
+                <unique ans="n"/> I WAS CALLED HERE AS WELL, UNDER THE SAME CIRCUMSTANCE AS YOU.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="72" who="Sung Jin-Woo">
+                <unique ans="n"/> AH... OK...
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS GUY...!
+            </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S WITH THE FLASHY EQUIPMENT?!
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE YOU THE SON OF A MILLIONARE?!
+            </bubble>
+            <bubble type="speech" spNum="73" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN WHAT SHOULD I DO?
+            </bubble>
+            <bubble type="speech" spNum="74" who="Hwang Dong-Suk">
+                <unique ans="n"/> NOTHING MUCH, JUST FOLLOW US AND TAKE CARE OF OUR BAGGAGE.
+            </bubble>
+            <bubble type="speech" spNum="75" who="Hwang Dong-Suk">
+                <unique ans="n"/> INSIDE THERE ARE PACKED FOOD, CLOTHES AND EQUIPMENT, A FIRST AID KIT... JUST                                        ABOUT EVERYTHING,
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="76" who="Sung Jin-Woo">
+                <unique ans="n"/> AER WE GOING WITHOUT A HEALER?
+            </bubble>
+            <bubble type="speech" spNum="77" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU KNOW HOW HARD IT IS TO BRING A HEALING HUNTER INTO A PERSONAL ATTACK FORCE.
+            </bubble>
+            <bubble type="speech" spNum="78" who="Hwang Dong-Suk">
+                <unique ans="n"/> WE ALWAYS DID IT THIS WAY.
+            </bubble>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> A FORCE MADE OUT OF ONLY TANKS AND DAMAGE DEALERS.
+            </bubble>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT A MESS.
+            </bubble>
+            <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> I ACCEPT THAT I WON'T BLAME ANYONE ELSE FOR ANY ACCIDENTS INSIDE THE DUNGEON.
+            </bubble>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO HEALER SO THIS IS A BIT HARD TO ACCEPT...
+            </bubble>
+            <bubble type="speech" spNum="79" who="Jo Gyu-Hwan">
+                <unique ans="n"/> SIR, LET'S GO INSIDE.
+            </bubble>
+            <bubble type="speech" spNum="80" who="Sukmin">
+                <unique ans="n"/> WE'LL BEAT THEM ALL ANYWAY SO YOU DON'T NEED TO EXPLAIN SO MUCH!
+            </bubble>
+            <bubble type="speech" spNum="81" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S TIME WE WENT INSIDE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="82" who="Yoo Jin-Ho">
+                <unique ans="n"/> STOP WORRYING SO MUCH.
+            </bubble>
+            <bubble type="speech" spNum="83" who="Yoo Jin-Ho">
+                <unique ans="n"/> YOU SAID YOU WERE E-RANK? I'LL PROTECT YOU.
+            </bubble>
+            <bubble type="speech" spNum="84" who="Sung Jin-Woo">
+                <unique ans="n"/> HAHA...
+            </bubble>
+            <caption type="information">
+                STATUS
+                NAME: SUNG JIN-WOO      LEVEL: 18
+                JOB: NONE               FATIGUE: 0
+                TITLE: WOLF SLAYER
+                HP: 2220
+                MP:35
+                STRENGTH:50     VITALITY: 27
+                AGILITY: 35     INTELLIGENCE: 27
+                SENSE: 29
+                REMAINING POINTS: 0
+            </caption>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 84 INSTANCES OF SPEECH, 30 INSTANCES OF THOUGHT, 8 UNIQUE SPEAKERS -->
