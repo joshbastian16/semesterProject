@@ -1,10 +1,11 @@
 start = chapter
 
-chapter = element chapter {num, title, author,body}
+chapter = element chapter {num, title, author, illustrator, body}
 num = attribute num {xsd:int}
 
 title = element title{text}
 author = element author {text}
+illustrator = element illustrator {text}
 
 body = element body {(page | pageBrk)+}
 page = element page {(pageNum|caption|bubble)+}
