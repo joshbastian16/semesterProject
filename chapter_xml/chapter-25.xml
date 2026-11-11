@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="25">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Clerk">
+                <unique ans="y" uniNum="1"/> MANAGER WOO JIN-CHUL
+            </bubble>
+            <bubble type="speech" spNum="2" who="Woo Jin-Chul">
+                <unique ans="y" uniNum="2"/> WHAT IS IT?
+            </bubble>
+            <bubble type="speech" spNum="3" who="Clerk">
+                <unique ans="n"/> A MOMENT...
+            </bubble>
+            <bubble type="speech" spNum="4" who="Clerk">
+                <unique ans="n"/> IN THIS C-RANK DUNGEON RAID 8 PEOPLE WERE KILLED IN ACTION.
+            </bubble>
+            <bubble type="speech" spNum="5" who="Clerk">
+                <unique ans="n"/> THE SURVIVORS WERE A D AND E-RANK HUNTER.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="speech" spNum="6" who="Woo Jin-Chul">
+                <unique ans="n"/> LOOKS LIKE THEY RAN AWAY. ISN'T IT A COMMON OCCURRENCE?
+            </bubble>
+            <bubble type="speech" spNum="7" who="Clerk">
+                <unique ans="n"/> NO. THEY DIDN'T RUN, THEY CLEARED THE DUNGEON.
+            </bubble>
+            <bubble type="speech" spNum="8" who="Clerk">
+                <unique ans="n"/> THE D-RANK, YOO JIN-HO'S EQUIPMENT WAS ESPECIALLY HIGH-CLASS, SO IT'S POSSIBLE                                       THAT A C-RANK BOSS WAS DEFEATED BY HIM.
+            </bubble>
+            <bubble type="speech" spNum="9" who="Clerk">
+                <unique ans="n"/> THE BOSS &lt;GIANT ARACHNID BURYURA&gt; SHOULDN'T HAVE BEEN MUCH OF A THREAT TO                                      ORGANISED PARTIES, SO IT'S STRANGE THAT 8 PEOPLE DIED.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="speech" spNum="10" who="Woo Jin-Chul">
+                <unique ans="n"/> DON'T BEAT AROUND THE BUSH AND TELL ME.
+            </bubble>
+            <bubble type="speech" spNum="11" who="Woo Jin-Chul">
+                <unique ans="n"/> IF THERE WASN'T A REALLY STRANGE PART YOU WOULDN'T HAVE CONSULTED ME AND TAKEN                                       CARE OF IT YOURSELF
+            </bubble>
+            <bubble type="speech" spNum="12" who="Clerk">
+                <unique ans="n"/> WELL...
+            </bubble>
+            <bubble type="speech" spNum="13" who="Clerk">
+                <unique ans="n"/> THE OTHER SURVIVOR WAS HUNTER SUNG JIN-WOO FROM THAT DUNGEON INCIDENT.
+            </bubble>
+            <bubble type="speech" spNum="14" who="Woo Jin-Chul">
+                <unique ans="n"/> SUNG JIN-WOO?
+            </bubble>
+            <bubble type="speech" spNum="15" who="Woo Jin-Chul">
+                <unique ans="n"/> IT SEEMS LIKE THERE ARE SUSPICOUS PARTS. BUT IT'S UNNECESSARY TO WORRY.
+            </bubble>
+            <bubble type="speech" spNum="16" who="Woo Jin-Chul">
+                <unique ans="n"/> THE MAGIC STRENGTH MEASUREMENT DEVICE WE USED THEN WAS A SUPER-HIGH CLASS ONE THAT                                   DROP FROM A-RANK MONSTERS.
+            </bubble>
+            <bubble type="speech" spNum="17" who="Woo Jin-Chul">
+                <unique ans="n"/> AWAKENINGS AREN'T EVEN THAT COMMON, AND THERE'S NO NEED TO BE SUSPICIOUS OF HIM                                      AGAIN. CHECKING ONCE WILL DO.
+            </bubble>
+            <bubble type="speech" spNum="18" who="Clerk">
+                <unique ans="n"/> I ALSO WANT TO THINK IT'S A COINCIDENCE, BUT I CAN'T JUST LET THIS GO.
+            </bubble>
+            <bubble type="speech" spNum="19" who="Clerk">
+                <unique ans="n"/> BECAUSE ONE FO THE WARRIORS HAPPENED TO BE...
+            </bubble>
+            <bubble type="speech" spNum="20" who="Clerk">
+                <unique ans="n"/> THE HUNTER 'HWANG DONG-SUK'.
+            </bubble>
+            <bubble type="speech" spNum="21" who="Woo Jin-Chul">
+                <unique ans="n"/> HWANG DONG-SUK? PERHAPS... ARE YOU TALKING ABOUT HUNTER HWANG DONG-SU'S OLDER                                        BROTHER?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="speech" spNum="22" who="Woo Jin-Chul">
+                <unique ans="n"/> IN THAT CASE...
+            </bubble>
+            <bubble type="speech" spNum="23" who="Woo Jin-Chul">
+                <unique ans="n"/> I CAN'T JUST IGNORE THIS.
+            </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Ah">
+                <unique ans="y" uniNum="3"/> WHY CHICKEN WINGS?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="25" who="Sung Jin-Ah">
+                <unique ans="n"/> DID SOMETHING GOOD HAPPEN?
+            </bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="4"/> WELL, I'M NOT SURE IF IT'S GOOD OR BAD YET...
+            </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Ah">
+                <unique ans="n"/> WOW, WHAT HAPPENED? YOU'RE USUALLY SO STINGY.
+            </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I WANT TO GET DRUNK BUT THE FEELING ISN'T COMING.
+            </bubble>
+            <caption type="information">
+                ALARM
+                [A HARMFUL SUBSTANCE HAS BEEN DETECTED.]
+                [BUFF: CURE POISON'S EFFECT IS HEALING YOU.]
+            </caption>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE OF THE SPECIAL ABILITY THAT GAVE ME EVEN ALCOHOL IS BEING PURIFIED.
+            </bubble>
+            <caption type="information">3,2,1...... CURE POISON HAS BEEN COMPLETED.</caption>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> A REWARD THE SYSTEM GAVE AS SOON AS I WOKE UP AFTER MAKING IT THROUGH THE DUNGEON                                   DISASTER.
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE THERE'S A LOT TO TAKE IN RECENTLY, I JUST OVERLOOKED IT...
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> TO THINK IT GAVE ME THIS AS REWARD.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <caption type="information">
+                QUEST REWARD
+                'SECRET QUEST: COURAGE OF THE WEAK'
+                -GREAT SPELLCASTER KANDIARU'S BLESSING: THE GREAT SPELLCASTER KANDIARU HAS GIFTED A SPECIAL SPELL                   TO YOU. KANDIARU'S BLESSING WILL ENSURE THAT YOU WILL ALWAYS BE STRONG AND HEALTHY DURING YOUR LIFE                 TIME.
+            </caption>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S ALSO THANKS TO THIS QUEST'S REWARD THAT THE LEG I LOST LAST TIME WAS                                           REGENERATED.
+            </bubble>
+            <caption type="information">
+                QUEST REWARD
+                -TEMPORARY EFFECT WILL TO REHABILITATE: ANY DISMEMBERED BODY PARTS ARE RESTOREED.
+                -PERMANENT EFFECT LONGEVITYl ALL DISEASES, POISONS AND STATUS EFFECTS ARE HEALED, AND SLEEPING WILL                 EXPLOSIVELY INCREASE REGENERATION ABILITY.
+            </caption>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT...
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I'M IMMUNE TO ALL POISONS...
+            </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Ah">
+                <unique ans="n"/> AREN'T YOU EATING? IF YOU DON'T EAT I'LL EAT IT ALL FOR YOU!
+            </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> FEEL FREE TO GAIN WEIGHT.
+            </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Ah">
+                <unique ans="n"/> IT'S HARD TO ADJUST TO HIM AFTER HE STARTED TRAINING.
+            </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Ah">
+                <unique ans="n"/> HE WAS EASY-GOING BEFORE AND IT SEEMS LIKE HIS PERSONALITY CHANGED A BIT...
+            </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Ah">
+                <unique ans="n"/> IT'S NOT LIKE SOMETHING HAPPENED IN A DUNGEON RIGHT?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <caption type="information">
+                [ITEM: RASAKA'S VENOM]
+                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.                  DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
+                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
+                -DEBUFF 'WEAKENED MUSCLES': -35 STRENGTH
+            </caption>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> IF STATUS EFFECTS ARE AUTOMATICALLY HEALED, WON'T THIS ITEM'S DEBUFF BE REMOVED                                     AS WELL
+            </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO REASON TO THINK.
+            </bubble>
+            <caption type="information">[A HARMFUL SUBSTANCE HAS BEEN DETECTED IN YOUR BODY.]</caption>
+            <caption type="information">3,2,1...... CURE POISON HAS BEEN COMPLETED.</caption>
+            <caption type="information">ITEM: RASAKA'S VENOM'S EFFECT WEAKENED MUSCLES IS FADING.</caption>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S JUST AS A I THOUGHT.
+            </bubble>
+            <caption type="information">
+                STRENGTH: 53    VITALITY: 30
+                AGILITY: 53     INTELLIGENCE: 30
+                SENSE: 36
+                PHYSICAL DAMAGE REDUCTION: 20% ACTIVATING
+            </caption>
+            <bubble type="speech" spNum="36" who="Sung Jin-Ah">
+                <unique ans="n"/> DO YOU KNOW ANYONE CALLED YOO JIN-HO?
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> WHO?
+            </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> HE'S CALLING FOR YOU ON THE PHONE.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="39" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="5"/> SIR, OVER HERE!
+            </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW DID YOU FIND MY NUMBER?
+            </bubble>
+            <bubble type="speech" spNum="41" who="Yoo Jin-Ho">
+                <unique ans="n"/> I HAVE A FEW CONNECTIONS IN THE GUILD.
+            </bubble>
+            <bubble type="speech" spNum="42" who="Yoo Jin-Ho">
+                <unique ans="n"/> DO YOU WANT A CUP OF COFFEE?
+            </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M FINE
+            </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> I DIDN'T EXPECT TO MEET YOU AGAIN.
+            </bubble>
+            <bubble type="speech" spNum="45" who="Yoo Jin-Ho">
+                <unique ans="n"/> YOU'RE MY SAVIOR.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+                <unique ans="n"/> WELL, YOU SHARED ALL THE MAGIC CRYSTALS WITH ME SO O EARNED SOME MONEY.
+            </bubble>
+            <bubble type="speech" spNum="47" who="BankTeller">
+                <unique ans="y" uniNum="6"/> IT TOTALS TO 1 MILLION AND 8 THOUSAND WON MINUS TAX. 
+            </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> ALSO, SINCE YOU KEPT QUIET THERE'S BEEN NO PROBLEMS SO FAR.
+            </bubble>
+            <bubble type="speech" spNum="49" who="Yoo Jin-Ho">
+                <unique ans="n"/> T... THOSE GUYS TRIED TO KILL US FIRST.
+            </bubble>
+            <bubble type="speech" spNum="50" who="Yoo Jin-Ho">
+                <unique ans="n"/> WE'RE HUNTERS SO WE CAN'T JUST DIE EASILY...
+            </bubble>
+            <bubble type="speech" spNum="51" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT WAS A FIGHT AMONG HUNTERS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="thought" thtNum="9" who="Yoo Jin-Ho">
+                <unique ans="n"/> THIS GUY IS A FALSE RANKER. A MANIAC THAT ENJOYS MURDERING AND KILLING
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Yoo Jin-Ho">
+                <unique ans="n"/> NORMALLY HE'S NOT A PERSON I SHOULD EVER BECOME INVOLVED WITH...
+            </bubble>
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo">
+                <unique ans="n"/> SO, WHY DID YOU REQUEST TO MEET ME?
+            </bubble>
+            <bubble type="speech" spNum="53" who="Yoo Jin-Ho">
+                <unique ans="n"/> SIR...
+            </bubble>
+            <bubble type="speech" spNum="54" who="Yoo Jin-Ho">
+                <unique ans="n"/> I'M ACTUALLY PLANNING TO CREATE A PERSONAL ATTACK...
+            </bubble>
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo">
+                <unique ans="n"/> DECLINED.
+            </bubble>
+            <bubble type="speech" spNum="56" who="Yoo Jin-Ho">
+                <unique ans="n"/> B... BUT, I DIDN'T EVEN FINISH MY SENTENCE?!!
+            </bubble>
+            <bubble type="speech" spNum="57" who="Sung Jin-Woo">
+                <unique ans="n"/> I DON'T NEED TO HEAR IT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="58" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE YOU'RE CREATING AN ATTACK FORCE AND YOU WANT ME TO ENTER.
+            </bubble>
+            <bubble type="speech" spNum="59" who="Yoo Jin-Ho">
+                <unique ans="n"/> S-SIR!
+            </bubble>
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo">
+                <unique ans="n"/> I WAS WONDERING WHAT IT WAS, BUT I HAVE NO INTENTION TO PLAY AROUND WITH A RICH                                     KID. I'M GOING IF THERE'S NOTHING ELSE.
+            </bubble>
+            <bubble type="speech" spNum="61" who="Yoo Jin-Ho">
+                <unique ans="n"/> JUST 20 TIMES!
+            </bubble>
+            <bubble type="speech" spNum="62" who="Yoo Jin-Ho">
+                <unique ans="n"/> NO, PLEASE JUST GO WITH ME 19 TIMES!
+            </bubble>
+            <bubble type="speech" spNum="63" who="Sung Jin-Woo">
+                <unique ans="n"/> WHERE, DUNGEONS?
+            </bubble>
+            <bubble type="speech" spNum="64" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES! I'LL GIVE YOU YOUR SHARE PROPERLY.
+            </bubble>
+            <bubble type="speech" spNum="65" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU SHOULD KNOW BASED ON THE LAST INCIDENT, 
+            </bubble>
+            <bubble type="speech" spNum="66" who="Sung Jin-Woo">
+                <unique ans="n"/> HUNTERS CAN NOT ONLY KILL MONSTERS, BUT HUMANS JUST AS EASILY.
+            </bubble>
+            <bubble type="speech" spNum="67" who="Sung Jin-Woo">
+                <unique ans="n"/> RAIDS AREN'T JUST EXTREME SPORTS.
+            </bubble>
+            <bubble type="speech" spNum="68" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN SO YOU'RE GOING TO CREATE AN ATTACK FORCE? ARE YOU IN THE MIND TO SAY THAT                                     EVEN AFTER SEEING SUCH A TERRIFYING SCENE?
+            </bubble>
+            <bubble type="speech" spNum="69" who="Sung Jin-Woo">
+                <unique ans="n"/> COULD IT BE...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="70" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU WANT TO BECOME A GUILD MASTER?
+            </bubble>
+            <bubble type="speech" spNum="71" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES, SIR!
+            </bubble>
+            <bubble type="speech" spNum="72" who="Yoo Jin-Ho">
+                <unique ans="n"/> PLEASE AT LEAST LISTEN TO WHAT I HAVE TO SAY.
+            </bubble>
+            <bubble type="speech" spNum="73" who="Yoo Jin-Ho">
+                <unique ans="n"/> AS YOU SAID, I WANT TO RECIEVE A LISCENSE TO BECOME A GUILD MASTER.
+            </bubble>
+            <bubble type="speech" spNum="74" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT'S NOT HARD FOR HUNTERS TO RECIEVE A GUILD MASTERS LISCENSE.
+            </bubble>
+            <bubble type="speech" spNum="75" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE HUNTER MUST PARTICIPATE IN A RAID AT LEAST 20 TIMES.
+            </bubble>
+            <bubble type="speech" spNum="76" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE FIRST ONE, I ALREADY WENT THROUGH LAST TIME. NOW I HAVE 19 RAIDS LEFT TO                                        ATTEND.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="speech" spNum="77" who="Yoo Jin-Ho">
+                <unique ans="n"/> OF COURSE THERE'S AN EXAMINATION, BUT IF I DIDN'T HAVE A GOOD BRAIN I WOULDN'T BE                                   ABLE TO INHERIT THE COMPANY, SO I HAVE CONFIDENCE IN THAT.
+            </bubble>
+            <bubble type="speech" spNum="78" who="Sung Jin-Woo">
+                <unique ans="n"/> ......
+            </bubble>
+            <bubble type="speech" spNum="79" who="Sung Jin-Woo">
+                <unique ans="n"/> THINKING ABOUT IT, YOU WERE YOO-JIN, ARCHITECTURES' SECOND SON.
+            </bubble>
+            <bubble type="speech" spNum="80" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES. ME BECOMING A GUILD MASTER IS ACTUALLY RELATED TO OUR COMPANY AS WELL.
+            </bubble>
+            <bubble type="speech" spNum="81" who="Yoo Jin-Ho">
+                <unique ans="n"/> MY FATHER WANTS TO CREATE A GUILD.
+            </bubble>
+            <bubble type="speech" spNum="82" who="Sung Jin-Woo">
+                <unique ans="n"/> YOO-JIN ARCHITECTURES IS BUILDING A GUILD?
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> DUNGEONS ARE DANGEROUS. BUT PROPORTIONAL TO THAT THEY CONTAIN MOUNTAINS OF                                          TREASURES.
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> MAGIC CRYSTALS OR MANA CRYSTALS ARE JUST A FEW.
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> MONSTERS ARE USED AS MATERIAL AS WELL SO THERE'S NOTHING USELESS IN DUNGEONS.
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> OF COURSE, MAJOR COMPANIES GET INVOLVED.
+            </bubble>
+            <bubble type="speech" spNum="83" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THE HUNTERS THAT WORK AT THE COMPANY COMPLETE THE DUNGEON, AND THE COMPANY                                       TAKES THE REWARD.
+            </bubble>
+            <bubble type="speech" spNum="84" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THEY'RE PLANNING ON BECOMING SELF-SUFFICIENT.
+            </bubble>
+            <bubble type="speech" spNum="85" who="Yoo Jin-Ho">
+                <unique ans="n"/> THAT'S CORRECT, SIR!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="86" who="Yoo Jin-Ho">
+                <unique ans="n"/> MY FATHER IS PLANNING TO EMPLY AN S-RANK HUNTER AND SET HIM AS THE MASTER. MY                                       BROTHER WILL BE THE VICE MASTER AND OPERATE THE GUILD UNDER THE GUISE OF                                            CONTRIBUTING. 
+            </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I'M CORRECT THERE ARE ONLY 9 S-RANK HUNTERS WITHIN OUT COUNTRY.
+            </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> IF HE PLANS ON EMPLOYING A HUNTER NOT REGISTERED IN A GUILD THAT ONLY LEAVES                                        HUNTER MIN BYEING-GYU... BUT DIDN'T HE RETIRE?
+            </bubble>
+            <bubble type="speech" spNum="87" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF YOUR BROTHER IS GOING TO BECOME THE VICE MASTER, THE AUTHORITY DIFFERENCE                                   IS TOO BIG. FRICTION BETWEEN THE TWO PROBABLY CAN'T BE AVOIDED.
+            </bubble>
+            <bubble type="speech" spNum="88" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES, MY BROTHER IS TALENTED, BUT WITHOUT BEING REAWAKENED HE IS STRONG ENOUGH FOR                                   THE SEAT OF THE GUILD MASTER.
+            </bubble>
+            <bubble type="speech" spNum="89" who="Sung Jin-Woo">
+                <unique ans="n"/> WITH A LOW RANK AND AGE, SOMEONE LIKE YOU, WITH NO EXPERIENCE, COULDN'T BECOME                                      INVOLVED.
+            </bubble>
+            <bubble type="speech" spNum="90" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE YOU PLANNING TO GAIN SOME EXPERIENCE AND THEN CONSULT YOUR FATHER?
+            </bubble>
+            <bubble type="speech" spNum="91" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES. THAT'S CORRECT SIR.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="92" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE FACT THAT YOU'RE A FALSE RA... I MEAN THE FACT THAT YOU HIDE YOUR ABILITIES                                     WILL BE KEPT SECRET BY ME FOREVER!
+            </bubble>
+            <bubble type="speech" spNum="93" who="Yoo Jin-Ho">
+                <unique ans="n"/> IF YOU PLAN TO HIDE YOUR ABILITIES AND RAID, DON'T YOU NEED AN ATTACK FORCE?
+            </bubble>
+            <bubble type="speech" spNum="94" who="Yoo Jin-Ho">
+                <unique ans="n"/> COMPARED TO RAIDING WITH A HIGH RANKED HUNTER, THE ACHIEVEMENT OF SAFELEY                                           COMPLETING A RAID WITH AN E-RANK HUNTER IS MUCH BIGGER!
+            </bubble>
+            <bubble type="thought" thtNum="17" who="Yoo Jin-Ho">
+                <unique ans="n"/> SIR IS AT LEAST A B-RANK...
+            </bubble>
+            <bubble type="thought" thtNum="18" who="Yoo Jin-Ho">
+                <unique ans="n"/> OR EVEN HIGHER THAN THAT.
+            </bubble>
+            <bubble type="thought" thtNum="19" who="Yoo Jin-Ho">
+                <unique ans="n"/> HE MAY BE AN E-RANK HUNTER BUT HE DISPATCHED A C-RANK BOSS AND SEVERAL C-RANK                                       HUNTERS WITHOUT A SCRATCH.
+            </bubble>
+            <bubble type="thought" thtNum="20" who="Yoo Jin-Ho">
+                <unique ans="n"/> IF I RAID WITH INCOMPETENT HUNTERS I COULD LOSE MY LIFE, BUT SIR IS TRUSTWORTHY!
+            </bubble>
+            <bubble type="thought" thtNum="21" who="Yoo Jin-Ho">
+                <unique ans="n"/> HE MAY SEEM CRUEL, BUT HE SAVED ME ONCE FROM THE SPIDER BOSS, AND ONCE FROM HWANG                                   DONG-SUK
+            </bubble>
+            <bubble type="speech" spNum="95" who="Sung Jin-Woo">
+                <unique ans="n"/> SO WHAT DO I GET OUT OF JOINING?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="96" who="Yoo Jin-Ho">
+                <unique ans="n"/> THIS...
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 96 INSTANCES OF SPEECH, 21 INSTANCES OF THOUGHT, 6 UNIQUE SPEAKERS -->

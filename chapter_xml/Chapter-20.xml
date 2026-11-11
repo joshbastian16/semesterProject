@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="20">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <body>
+        <page pageNum="1">
+            
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> JIN-HO.
+            </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT SWORD AND SHIELD ARE EXPENSIVE RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="3" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="2"/> YES? OH, MY FATHER TOOK EXTRA CARE AFTER HEARING THAT I'M GOING ON MY FIRST RAID.
+            </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT SURE BUT...
+            </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU SHOULD BE WARY.
+            </bubble>
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">
+                WHAT IS THIS?
+            </caption>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">
+                THIS BAD FEELING...
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="2">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> A DUNGEON'S SIZE VARIES, BUT NOT ACCORDING TO RANK.
+            </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> DEPENDING ON THE CIRCUMSTANCES THERE ARE TIMES WHEN IT TAKES WEEKS TO ANALYSE THE INTERIOR,
+            </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> OR TIMES WHEN IT ONLY TAKES AFEW HOURS TO GET TO THE BOSS ROOM.
+            </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS DUNGEON WAS LAID OUT LIKE A MAZE SO THERE WEREN'T MANY FIGHTS BUT IT TOOK A WHILE TO MOVE AROUND.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> MY JOB IS THE BAGGAGE CARRIER.
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> I DIDN'T REALLY NEED TO GET INVOLVED IN BATTLES.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="3">
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> TO BE ABLE TO EARN MONEY WITHOUT FIGHTING...
+            </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> I THOUGHT IT WAS A DECENT DEAL.
+            </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> BEWARRE OF LIZARDS,
+            </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> AN UNEXPECTED WARNING.
+            </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> I DIDN'T KNOW WHY THIS WARNING APPEARED.
+            </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT ONE THING I WAS SURE OF:
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="4">
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> MY BAD PREMONITIONS WERE NEVER WRONG.
+            </bubble>
+            <bubble type="speech" spNum="6" who="Hwang Dong-Suk">
+                <unique ans="y" uniNum="3"/> THIS IS GRAVE.
+            </bubble>
+            <bubble type="speech" spNum="7" who="Hwang Dong-Suk">
+                <unique ans="n"/> QUITE A WHILE HAS PASSED BUT WE STILL HAVEN'T FOUND ANY LIMBS INTACY, THERE ARE ONLY...
+            </bubble>
+            <bubble type="speech" spNum="8" who="Hwang Dong-Suk">
+                <unique ans="n"/> CORPSES AND DYING MONSTERS SINCE A WHILE AGO.
+            </bubble>
+            <bubble type="speech" spNum="9" who="Hwang Dong-Suk">
+                <unique ans="n"/> BUT THERE SHOULD BE A BOSS, RIGHT?
+            </bubble>
+            <bubble type="speech" spNum="10" who="Hwang Dong-Suk">
+                <unique ans="n"/> IF THERE'S NO BOSS THE GATE WOULDN'T OPEN.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="5">
+            <bubble type="speech" spNum="11" who="Hwang Dong-Suk">
+                <unique ans="n"/> WAIT.
+            </bubble>
+            <bubble type="speech" spNum="12" who="Lee Chul-Jin">
+                <unique ans="y" uniNum="4"/> WAH!
+            </bubble>
+            <bubble type="speech" spNum="13" who="Hwang Dong-Suk">
+                <unique ans="n"/> GYU-HWAN, ILLUMINATE THAT AREA.
+            </bubble>
+            <bubble type="speech" spNum="14" who="Jo Gyu-Hwan">
+                <unique ans="y" uniNum="5"/> ?
+            </bubble>
+            <bubble type="speech" spNum="15" who="Hwang Dong-Suk">
+                <unique ans="n"/> MY GOD...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="6">
+            <bubble type="speech" spNum="16" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S THE BOSS ROOM.
+            </bubble>
+            <bubble type="speech" spNum="17" who="Hwang Dong-Suk">
+                <unique ans="n"/> GET READY.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="18" who="Lee Chul-Jin">
+                <unique ans="y" uniNum="6"/> HUH?!
+            </bubble>
+            <bubble type="speech" spNum="19" who="others">
+                <unique ans="n"/> T-THIS IS!
+            </bubble>
+            <bubble type="speech" spNum="20" who="others">
+                <unique ans="n"/> J-JACKPOT!
+            </bubble>
+            <bubble type="speech" spNum="21" who="others">
+                <unique ans="n"/> MANA CRYSTALS?!
+            </bubble>
+            <bubble type="speech" spNum="22" who="others">
+                <unique ans="n"/> HOW MANY ARE THERE?
+            </bubble>
+            <bubble type="speech" spNum="23" who="others">
+                <unique ans="n"/> WOW, THIS IS AMAZING!
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="24" who="Jo Gyu-Hwan">
+                <unique ans="n"/> IT'S WORTH LESS THAN MONSTER DROPPED CRYSTALS BECAUSE OF ITS LOW ENERGY BUT...
+            </bubble>
+            <bubble type="speech" spNum="25" who="Jo Gyu-Hwan">
+                <unique ans="n"/> IF IT'S THIS MANY, I GUESS THEY SHOULD FETCH A HIGHER PRICE THAN MAGIC CRYTALS?                                     JUST LOOKING AT THEM, THEY SHOULD FETCH OVER 10,000,000 WON.
+            </bubble>
+            <bubble type="speech" spNum="26" who="Lee Chul-Jin">
+                <unique ans="n"/> IF IT'S THIS MUCH, I THINK EVEN YOUR YOUNGER BROTHER WOULD BE JEALOUS
+            </bubble>
+            <bubble type="speech" spNum="27" who="Jo Gyu-Hwan">
+                <unique ans="n"/> HEY!
+            </bubble>
+            <bubble type="speech" spNum="28" who="Jo Gyu-Hwan">
+                <unique ans="n"/> IN THIS SITUATION, YOU SHOULDN'T TALK SO LIGHTLY ABOUT HIS BROTHER.
+            </bubble>
+            <caption type="thought" thtNum="16" who="Hwang Dong-Suk">
+                 HWANG DONG-SOO... LOOK AT THIS. YOU'RE NOT ALWAYS CORRECT.
+            </caption>
+            <caption type="thought" thtNum="17" who="Hwang Dong-Suk">
+                 IGNORING ME JUST BECAUSE YOU OBTAINED A HIGH RANK...
+            </caption>
+            <caption type="thought" thtNum="18" who="Hwang Dong-Suk">
+                 AND EVEN DITCHING YOUR COUNTRY FOR AMERICA JUST BECAUSE OF MONEY?
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <caption type="thought" thtNum="19" who="Hwang Dong-Suk">
+                I CAN TELL HE'S STILL BEING TREATED AS A VIP IN AMERICA AND HE IS IGNORING ME.
+            </caption>
+            <caption type="thought" thtNum="20" who="Hwang Dong-Suk">
+                DON'T THINK OF ME AS A BROTHER THAT WILL GROVEL AT HIS YOUNGER BROTHER'S KNEES.
+            </caption>
+            <caption type="thought" thtNum="21" who="Hwang Dong-Suk">
+                I WILL TAKE ADVANTAGE OF THIS SITUATION AND INCREASE MY SQUAD'S MANPOWER.
+            </caption>
+            <bubble type="speech" spNum="29" who="Cheul-Bin">
+                <unique ans="y" uniNum="7"/> WHAT A HAUL. EVEN AFTER DIVIDING IT IT'S 1,000,000 WIN EACH?
+            </bubble>
+            <bubble type="speech" spNum="30" who="Yoo Jin-Ho">
+                <unique ans="n"/> HAND ME THE CONTRACT YOU SIGNED EARLIER FOR A SECOND.
+            </bubble>
+            <bubble type="speech" spNum="31" who="Yoo Jin-Ho">
+                <unique ans="n"/> I LIKE TO CHECK THESE THINGS THOROUGHLY.
+            </bubble>
+            <bubble type="speech" spNum="32" who="Yoo Jin-Ho">
+                <unique ans="n"/> SIRS, I HAVE SOMETHING TO ASK YOU QUICKLY.
+            </bubble>
+            <bubble type="speech" spNum="33" who="Yoo Jin-Ho">
+                <unique ans="n"/> LEADER HAWNG DONG-SUK, THIS IS JIN-WOO'S CONTRACT.
+            </bubble>
+            <bubble type="speech" spNum="34" who="Yoo Jin-Ho">
+                <unique ans="n"/> AS YOU CAN SEE THERE IS NOTHING ABOUT DIVIDING EXCEPT FOR MAGIC CRYSTALS FROM                                       MONSTERS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="35" who="Yoo Jin-Ho">
+                <unique ans="n"/> WHAT'S GOING ON HERE?
+            </bubble>
+            <bubble type="speech" spNum="36" who="Yoo Jin-Ho">
+                <unique ans="n"/> ISN'T IT CORRECT TO DIVIDE THE MANA CRYSTALS AMONG 10, NOT 9?
+            </bubble>
+            <bubble type="speech" spNum="37" who="Hwang Dong-Suk">
+                <unique ans="n"/> OF COURSE WE'RE SPLITTING IT EVENLY.
+            </bubble>
+            <bubble type="speech" spNum="38" who="Hwang Dong-Suk">
+                <unique ans="n"/> I KNOW THAT WELL,
+            </bubble>
+            <bubble type="speech" spNum="39" who="Hwang Dong-Suk">
+                <unique ans="n"/> BUT THERE IS SOMETHING TO TAKE CARE OF BEFORE THAT.
+            </bubble>
+            <bubble type="speech" spNum="40" who="others">
+                <unique ans="n"/> ?!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="41" who="others">
+                <unique ans="n"/> !!
+            </bubble>
+            <bubble type="speech" spNum="42" who="Yoo Jin-Ho">
+                <unique ans="n"/> DUNGEON BOSS...
+            </bubble>
+            <bubble type="speech" spNum="43" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU SHOULD KNOW ALL TOO WELL, BUT ONCE THE BOSS IS DEFEATED THE GATE CLOSES.                                        BECAUSE OF THAT WE MUST MINE AND TRANSPORT THE MANA CRYSTALS BEFORE DEFEATING THE                                   SPIDER.
+            </bubble>
+            <bubble type="speech" spNum="44" who="Hwang Dong-Suk">
+                <unique ans="n"/> THANKFULLY IT LOOKS LIKE IT'S SLEEPING AFTER ITS STOMACH WAS FILLED...
+            </bubble>
+            <bubble type="speech" spNum="45" who="Hwang Dong-Suk">
+                <unique ans="n"/> AND THIS SEEMS LIKE THE BEST CHANCE TO MOVE THE CRYSTALS.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12">
+            <bubble type="speech" spNum="46" who="Hwang Dong-Suk">
+                <unique ans="n"/> CHEUL-BIN, HAVE YOU BROUGHT THE EQUIPMENT?
+            </bubble>
+            <bubble type="speech" spNum="47" who="Cheul-Bin">
+                <unique ans="n"/> SORRY. WHO WOULD EXPECT THERE WOULD BE MANA CRYSTALS IN A C-RANK DUNGEON?
+            </bubble>
+            <bubble type="speech" spNum="48" who="Cheul-Bin">
+                <unique ans="n"/> I LEFT ALL THE MINING GEAR IN THE CAR.
+            </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> ......
+            </bubble>
+            <bubble type="speech" spNum="50" who="Hwang Dong-Suk">
+                <unique ans="n"/> IDIOT... DIDN'T I TELL YOU TO MAKE A HABIT OF BRINGING IT AROUND WITH YOU?
+            </bubble>
+            <bubble type="speech" spNum="51" who="Hwang Dong-Suk">
+                <unique ans="n"/> PHEW, THIS IS TROUBLE-SOME.
+            </bubble>
+            <bubble type="speech" spNum="52" who="Cheul-Bin">
+                <unique ans="n"/> I'M SORRY, I'M SORRY.
+            </bubble>
+            <bubble type="speech" spNum="53" who="Hwang Dong-Suk">
+                <unique ans="n"/> I APOLOGIZE, BUT COULD YOU TWO GUARD THIS PLACE?
+            </bubble>
+            <bubble type="speech" spNum="54" who="Hwang Dong-Suk">
+                <unique ans="n"/> I THINK WE'LL HAVE TO GO AND BRING OUR EQUIPMENT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="speech" spNum="55" who="Yoo Jin-Ho">
+                <unique ans="n"/> ARE YOU TELLING US TO STAY HERE BY OURSELVES IN THE BOSS ROOM?
+            </bubble>
+            <bubble type="speech" spNum="56" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT'S FINE, IT'S FINE.
+            </bubble>
+            <bubble type="speech" spNum="57" who="Hwang Dong-Suk">
+                <unique ans="n"/> I DON'T THINK IT'S THE TYPE TO ATTACK UNLESS YOU ENTER ITS TERRITORY FIRST...
+            </bubble>
+            <bubble type="speech" spNum="58" who="Hwang Dong-Suk">
+                <unique ans="n"/> AND IT LOOKS LIKE IT ATE A LOT AND IS SLEEPING NOW.
+            </bubble>
+            <bubble type="speech" spNum="59" who="Hwang Dong-Suk">
+                <unique ans="n"/> IT SHOULD BE OKAY FOR NOW AS LONG AS YOU DON'T PROVOKE IT.
+            </bubble>
+            <bubble type="speech" spNum="60" who="Yoo Jin-Ho">
+                <unique ans="n"/> BUT...
+            </bubble>
+            <bubble type="speech" spNum="61" who="Hwang Dong-Suk">
+                <unique ans="n"/> YOU SAID THIS WAS YOUR FIRST RAID?
+            </bubble>
+            <bubble type="speech" spNum="62" who="Hwang Dong-Suk">
+                <unique ans="n"/> AND IT'S SUNG JIN-WOO'S FIRST TIME IN A C-RANK DUNGEON AS WELL.
+            </bubble>
+            <bubble type="speech" spNum="63" who="Hwang Dong-Suk">
+                <unique ans="n"/> TRUST MY WORDS.
+            </bubble>
+            <bubble type="speech" spNum="64" who="Hwang Dong-Suk">
+                <unique ans="n"/> OKAY?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="65" who="Hwang Dong-Suk">
+                <unique ans="n"/> DO YOU THINK ANYTHING WOULD HAPPEN, WHEN WE ARE ETALING INI LOUD VOICES LIKE THIS                                   FOR SOME TIME ALREADY?
+            </bubble>
+            <bubble type="speech" spNum="66" who="Hwang Dong-Suk">
+                <unique ans="n"/> I HAVE SOMETHING TO SAY TO THE OTHERS AS WELL SO WE'LL GO HAVE A SMOKE.
+            </bubble>
+            <bubble type="speech" spNum="67" who="Sung Jin-Woo">
+                <unique ans="n"/> ......
+            </bubble>
+            <bubble type="speech" spNum="68" who="Hwang Dong-Suk">
+                <unique ans="n"/> THEN, WE'LL BE BACK.
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> BY REGULATION C-RANK GATES MUST BE ENTERED WITH AT LEAST 10 PEOPLE.
+            </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> EXEPCTING YOO JIN-HO AND I THE SQUAD'S MEMBERS ARE 8
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <caption type="thought" thtNum="24" who="Sung Jin-Woo">
+                THAT MEANS THEY'VE ENTERED C-RANK GATES LIKE THAT, ENOUGH TO TELL ME THEY'VE ALWAYS DONE IT THIS WAY.
+            </caption>
+            <bubble type="speech" spNum="69" who="Hwang Dong-Suk">
+                <unique ans="n"/> GYU-HWAN,
+            </bubble>
+            <caption type="thought" thtNum="25" who="Sung Jin-Woo">
+               OF COURSE, THERE WOULD BE NO NEED TO FILL UP TWO EMPTY SLOTS.
+            </caption>
+            <bubble type="speech" spNum="70" who="Hwang Dong-Suk">
+                <unique ans="n"/> BLOCK THE BOSS ROOM'S ENTRANCE.
+            </bubble>
+            <bubble type="speech" spNum="71" who="Yoo Jin-Ho">
+                <unique ans="n"/> ?!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="72" who="Yoo Jin-Ho">
+                <unique ans="n"/> HUH, HUUUH?!
+            </bubble>
+            <bubble type="speech" spNum="73" who="Yoo Jin-Ho">
+                <unique ans="n"/> T... THE ENTRANCE!!
+            </bubble>
+            <caption type="thought" thtNum="26" who="Sung Jin-Woo">
+                THOSE BASTARDS...
+            </caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <caption type="thought" thtNum="27" who="Sung Jin-Woo">
+                ARE THE &lt;LIZARDS&gt;!
+            </caption>
+        </page>
+    </body>
+</chapter>
+<!-- 17 PAGES, 73 INSTANCES OF SPEECH, 27 INSTANCES OF THOUGHT, 7 UNIQUE SPEAKERS-->
