@@ -2,8 +2,9 @@
 
 <?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="7">
-    <title> Solo Leveling chapter seven</title>
+    <title> Solo Leveling</title>
     <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
     <body>
         <page pageNum="1">
             <bubble type="speech" spNum="1" who="Others"> <unique ans="n"/>I SHALL ALSO WALK WITH MY LORD ABOVE,</bubble>

@@ -2,8 +2,9 @@
 
 <?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="8">
-    <title> Solo Leveling chapter eight</title>
+    <title> Solo Leveling</title>
     <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
     <body>
         <page pageNum="1"></page>
         <pageBrk/>

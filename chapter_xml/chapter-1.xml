@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="1">
-    <title> Solo Leveling chapter one</title>
-    <author>somebody</author>
+    <title> Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
     <body>
         <page pageNum="1">
             <bubble type="thought" thtNum="1" who="Sung Jin-Woo"> <unique ans="y" uniNum="1"/>MY NAME IS SUNG JIN-WOO.</bubble>
