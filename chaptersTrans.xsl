@@ -27,9 +27,15 @@
         </html>
     </xsl:template>
     <xsl:template match="caption | bubble">
-        <p><xsl:value-of select="."/></p>
+        <p><xsl:if test="self::bubble">
+                <span class="speaker" style="color:red;">
+                    <xsl:value-of select="@who"/>
+                </span>
+        </xsl:if>
+            
+            <xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="page">
-        <div class="page container" num="{count(preceding-sibling::page) + 1}"><xsl:apply-templates/></div>
+        <div class="page container" id="c{ancestor::chapter/@num}-p{count(preceding-sibling::page) + 1}"><xsl:apply-templates/></div>
     </xsl:template>
 </xsl:stylesheet>
