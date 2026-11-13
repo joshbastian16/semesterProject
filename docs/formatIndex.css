@@ -49,6 +49,7 @@
 }
 body {
     margin: 0;
+    background-color:#FFF8E7;
 }
 .large-text-title {
     font-size: 100px;
@@ -59,12 +60,17 @@ body {
 .center{
     text-align: center;
 }
-.indent {
-    padding-left: 30px;
+.indent-center {
+    padding-left: 50px;
+    padding-right: 50px;
 }
+
 .large-text-body {
     font-family:  Impact, /*"Arial Black",*/ sans-serif;
     font-size: 40px;
+}
+.middle-text-body{
+    font-size: 30px;
 }
 .small-text-body {
     font-size: 20px;

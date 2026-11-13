@@ -1,3 +1,5 @@
+
+/* navbar */
 .navbar {
     background-color: black;
     display: flex;
@@ -33,6 +35,23 @@
 }
 body {
     margin: 0;
+    padding: 0;
+
+    background-image: url(images/backgroundFull_SL.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+/* content area */
+.container {
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #FFF8E7;  
+    border-radius: 10px;
+    width: 85%;
+    max-width: 1400px;
+    box-sizing: border-box;
+    border-radius: 12px;
 }
 .large-text-title {
     font-size: 100px;
@@ -43,12 +62,17 @@ body {
 .center{
     text-align: center;
 }
-.indent {
-    padding-left: 30px;
+.indent-center {
+    padding-left: 50px;
+    padding-right: 50px;
 }
+
 .large-text-body {
     font-family:  Impact, /*"Arial Black",*/ sans-serif;
     font-size: 40px;
+}
+.middle-text-body{
+    font-size: 30px;
 }
 .small-text-body {
     font-size: 20px;
