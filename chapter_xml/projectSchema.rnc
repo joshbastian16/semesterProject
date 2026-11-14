@@ -8,16 +8,24 @@ author = element author {text}
 illustrator = element illustrator {text}
 
 body = element body {(page | pageBrk)+}
-page = element page {(pageNum|caption|bubble)+}
+page = element page {(pageNum|caption|bubble|systemMsg)+}
 #spNum is if the bubble is a speech bubble, and thtNum is if it's a thought bubble. It's this way because we are tracking both speech and thought bubbles.
 caption = element caption {type, who?, spNum?, thtNum?, unique?, text}
 bubble = element bubble {type, who, spNum?,thtNum?, unique, text}
-type = attribute type {"thought" |"speech"| "narration"| "information"}
+type = attribute type {"thought" |"speech"| "narration"| "information" | "statSheet" | "item" | "skill"}
 unique = element unique {ans, uniNum?, empty}
+# system message is for the blue panels that Sung Jin-Woo can see. They will either be type "information," "stats," "item," or "skill"
+# information is for anything like an alarm or warning given out by the system. stats if for his status sheet. item is for any item that he finds or is given
+# and skill is for any of the skills that he has
+systemMsg = element systemMsg {type, (info| stat | level)+}
+# info can go into any of the types of system messages. It's for wrapping the text inside to show off the different lines. stat is specifically for 
+# the quantity of his different stats. Levlel is to wrap around what his level is
+info = element info{text}
+stat = element stat{text}
+level = element level{text}
 # the ans attribute is for keeping track of if it's the first time a character is speaking. if it is, then you its equal to "y", if not, it's equal to "n".
 # then you either increase uniNum by one if the answer is "y", or you don't include it and keep it the same if the answer is "n".
 ans = attribute ans {"y" | "n"}
-
 who = attribute who {"Sung Jin-Woo" | "Yoo Jin-Ho" | "Hwang Dong-Suk"| "Woo Jin-Chul" | "Sung Jin-Ah" | "Song Chi-Yeol" | "Lee Joo-Hee" | "Jo Gyu-Hwan" | "others" | text}
 # caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
 
@@ -30,3 +38,4 @@ uniNum = attribute uniNum {xsd:int}
 pageBrk = element pageBrk {empty}
 
 #We are tracking pages per chapter, unique/first time speakers, amount of speech buubbles, and amount of thought bubbles.
+#New thing we are tracking are the items he gains, his diffent stats, what his level is, and the skills that he has.
